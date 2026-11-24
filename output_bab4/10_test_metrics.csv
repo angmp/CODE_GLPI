@@ -1,0 +1,3 @@
+model,test_count,accuracy,macro_precision,macro_recall,macro_f1,exclude_precision,exclude_recall,exclude_f1,false_exclude_main_apps,missed_exclude_candidates
+Linear SVM,400,0.97,0.970188075230092,0.97,0.96999699969997,0.9607843137254902,0.98,0.9702970297029703,8,4
+Logistic Regression,400,0.945,0.9471912370616018,0.9450000000000001,0.9449325423643964,0.9158878504672897,0.98,0.9468599033816425,18,4

@@ -1,0 +1,801 @@
+﻿software_id,software_name,manufacturer,software_category,label_final,model,predicted_label,error_type
+"8,429",SIMATIC WinCC/WebNavigator Plug-In Builder,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"29,088",RealVNC Server 7.10.0,RealVNC,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,441",PDFsam Enhanced 7,Sober Lemur S.a.s. di Vacondio Andrea,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"5,929",Revit 2018,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"27,366",TeraCopy 2.3,Code Sector,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,442",Siemens Totally Integrated Automation Portal V15.1 - TIACOMPCHECK Single SetupPackage  V15.1,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"3,441",Macromedia Flash Player 8 Plugin,Macromedia,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,729",Siemens Totally Integrated Automation Portal V17 - STEP 7 Safety Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,217",Siemens Totally Integrated Automation Portal V18 - TIA Portal Security Audit Log Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,422",Siemens Totally Integrated Automation Portal V15,Siemens AG,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"20,728",Siemens Totally Integrated Automation Portal V17 - WinCC Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"36,290","WPS Office Suite - PDF, Word, Spreadsheet, Slide View & Edit",Kingsoft Office Software Corporation Limited,store,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"20,721",Siemens Totally Integrated Automation Portal V17 - WinCC Transfer Mandatory Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"25,255",Image Generation Extension,Microsoft Corporation,system,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"36,007",Service Pack 1 for SQL Server 2008 (KB968369) (64-bit),Microsoft Corporation,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"37,550",Adobe Acrobat Reader DC,Adobe Systems Incorporated,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"28,023",Microsoft Advertising Service Extension for Visual Studio,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"37,885",Wireshark 4.6.8 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,969",GstarCAD 2018 - English,Gstarsoft Company,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"8,582",Sentinel System Driver Installer 7.5.8,"SafeNet, Inc.",,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,331",Siemens Totally Integrated Automation Portal V16 - Simatic Single SetupPackage 32 Bit V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"29,196",Microsoft Office Professional Plus 2007,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,874",Microsoft Office Professional Plus 2019 - id-id,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"5,306",Adobe Premiere Pro CS6,Adobe Systems Incorporated,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,265",Platinum Hide IP,,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,059",RealVNC Server 7.16.0,RealVNC,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,236",Siemens Totally Integrated Automation Portal V16 - TIACOMPCHECK Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"25,655",Microsoft Office Standard 2016,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,539",Siemens Totally Integrated Automation Portal V13 - TIACOMPCHECK Single SetupPackage V13.0 + SP2,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"36,780",TUSB3410 Driver 6.7.4.0,"Texas Instruments, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,740",Siemens Totally Integrated Automation Portal V17 - Simatic Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"9,103",Autodesk AutoCAD Electrical 2019 - English,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,763",HP SFTP Plugin,HP,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"3,404",CX-Server Driver Management Tool,Omron,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,179",HOBOware 3.7.25,Onset Computer Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"29,457",TeraCopy version 3.26,Code Sector,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"20,758",SIMATIC ProSave V17.0,Siemens AG,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"18,429",Microsoft Office Professional Plus 2016,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,822",CCXP_3_0_1_1_32,Adobe Systems Incorporated,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"36,704",PuTTY release 0.84 (64-bit),Simon Tatham,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,554",Dolby Digital Plus Home Theater,Dolby Laboratories Inc,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"29,047",LogPlot 7,"RockWare, Inc.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"3,120",Microsoft Lync Web App Plug-in,Microsoft Corporation,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,312",QGIS 3.28.13 'Firenze',QGIS.org,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,521",DolbyGUI,Conexant Systems,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"29,056",DaVinci Resolve Control Panels,Blackmagic Design,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"5,433",Quest Installer,,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"5,569",Microsoft Office Professional Plus 2016 - en-us,Microsoft Corporation,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,366",Siemens Totally Integrated Automation Portal V15 - Openness SetupPackage V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"22,947",CCleaner,Piriform Ltd.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"27,554",PuTTY release 0.83,Simon Tatham,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"16,997",HP Google Drive Plugin,HP,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"3,567",AMD Steady Video Plug-In ,AMD,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,698",HP Wireless Button Driver,HP,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"35,862",Service Pack 1 for SQL Server 2014 (KB3058865) (64-bit),Microsoft Corporation,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,709",Siemens Totally Integrated Automation Portal V17 - STEP 7 Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"5,144",Autodesk AutoCAD 2018.0.2,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,923",SIMATIC S7-PCT V3.4 + HF2 Professional 2017,Siemens AG,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,104",Siemens Totally Integrated Automation Portal V13 - STEP 7 Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"6,789",Adobe Extension Manager CS3,Adobe Systems Incorporated,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"24,753",Adobe Premiere Pro 2022,Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,587",Wireshark 4.6.2 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"37,856",CCXP_7_13_0_32,Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"28,266",CCXP_7_2_2_32,Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"24,828",MySQL Installer,Oracle Corporation,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,294",Dell SupportAssist OS Recovery Plugin for Dell Update,Dell Inc.,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"25,453",Firebird ODBC driver 2.0.5.156,Firebird Project,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"22,702",USB Driver (Recorder / Controller Devices) v3.0.0.3,OEM,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,132",AMD MicroPEP Driver,"Advanced Micro Devices, Inc.",system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,053",Nuance PaperPort 12,"Nuance Communications, Inc.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,339",Silicon Laboratories CP210x VCP Drivers for Windows XP/2003 Server/Vista/7_2 (c:\SiLabs\MCU\CP210x\Windows_XP_S2K3_Vista_7_2),"Silicon Laboratories, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,079",Siemens Totally Integrated Automation Portal V14 - Simatic Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"35,863",Proficy Driver Server,"GE Intelligent Platforms, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"29,245",SPDS Extension for AutoCAD® 2021,"Autodesk, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,399",Siemens Totally Integrated Automation Portal V15.1 - WinCC Transfer Current All Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"9,179",QGIS 3.22.2 'Bialowieza',QGIS.org,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"6,392",HASP HL Device Driver,,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"19,982",Outbyte Driver Updater,Outbyte Computing Pty Ltd,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"37,245",Tailscale,Tailscale Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,422",Adobe Photoshop (Beta),Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,435",Siemens  Totally Integrated Automation Portal V15 - TIACOMPCHECK Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"22,306",CCXP_4_15_12_32,Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,642",Microsoft Power BI Desktop (x64),Microsoft Corporation,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"36,748",Vault of the Void,Spider Nest Games,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,234",Free Video Encryptor 2.0.0,Gilisoft International LLC.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,534",Automation Software Updater,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"18,811",TreeSize Free V4.3.1,JAM Software,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"34,675",HaiwellHappy V2.2.13,"Xiamen Haiwell Software Co.,Ltd.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,448",Siemens Totally Integrated Automation Portal V15.1 - HM NoBasic Single SetupPackage  V15.1,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"27,422",Adobe Extension Manager CC,Adobe Systems Incorporated,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"17,408",SAP GUI for Windows 7.30,SAP,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"37,843",Adobe Premiere Pro 2026,Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"9,125",Adobe Premiere Pro CC 2019,Adobe Inc.,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,977",ALchemy,Creative Technology Limited,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"20,856",RAM Elements CONNECT Edition V16 Update 6 Spanish-Language Pack,"Bentley Systems, Incorporated",system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"24,829",MySQL Documents,Oracle Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,737",Spotify ADS Remover version v1.1.79.763,Spotify,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"17,902",Universal CRT Redistributable,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"6,314",AutoCAD Architecture 2020 Language Shared - English,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,853",Microsoft Office Standard 2016 - en-us,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"18,534",Corel Graphics - Windows Shell Extension,Corel Corporation,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"37,715",Wireshark 3.6.7 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"6,272",Autodesk AutoCAD 2017 Hotfix 2,AUTODESK,,EXCLUDE_CANDIDATE,Logistic Regression,INCLUDE,MISCLASSIFIED
+"6,273",Autodesk AutoCAD 2017 Hotfix 3,AUTODESK,,EXCLUDE_CANDIDATE,Logistic Regression,INCLUDE,MISCLASSIFIED
+"21,646",CORE_1_0_32,Adobe Systems Incorporated,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"32,936",Oracle VirtualBox 7.2.6,Oracle and/or its affiliates,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,168",Wireshark 4.0.10 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"17,422",Microsoft Office Outlook MUI (English) 2010,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"27,936",pgJDBC 42.7.2,EnterpriseDB,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"20,739",Siemens Totally Integrated Automation Portal V17 - TIACOMPCHECK Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"18,022",Adobe Common File Installer,Adobe System Incorporated,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,256",Handset WinDriver 1.02.03.00,"Huawei technologies Co., Ltd.",application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"20,710",Siemens Totally Integrated Automation Portal V17 - HM NoBasic Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"24,108",PuTTY release 0.83 (64-bit),Simon Tatham,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"4,611",Microsoft Office Professional 2010,Microsoft Corporation,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"24,915",draw.io 29.0.3,JGraph,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"25,716",Microsoft PowerPoint MUI (English) 2016,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"9,277",Microsoft VCLibs 140 00 UWPDesktop,Microsoft Research,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,674",STEP 7-Micro/WIN SMART V2.5,Siemens,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,319",Siemens Totally Integrated Automation Portal V18 - Simatic Single SetupPackage 32 Bit V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,118",SAP GUI for Windows 7.40,SAP,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"23,117",Siemens Totally Integrated Automation Portal V14 - Simatic Single SetupPackage 32 Bit V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,698",IObit Uninstaller 14.2.0.2,IObit,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"26,266",Siemens Totally Integrated Automation Portal V16 - STEP 7 Safety Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"6,643",AutoCAD Architecture 2019 Language Shared - English,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,397",Siemens Totally Integrated Automation Portal V15.1 - HM All Editions Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"8,179",FileZilla Client 3.53.1,Tim Kosse,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"25,830",Microsoft Office Professional 2016 - en-us,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,192",Siemens Totally Integrated Automation Portal V16 - Openness SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,234",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Legacy CAP 2 Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,730",Siemens Totally Integrated Automation Portal V17 - Openness SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"36,964",Wireshark 4.6.7 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"37,279",POS Series Printer Driver version 11.3.0.1,,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,078",Siemens Totally Integrated Automation Portal V14 - STEP 7 Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,126",Siemens Totally Integrated Automation Portal V14 - WinCC Single SetupPackage 32 Bit V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"27,390",Adobe Audition CC 2017,Adobe Systems Incorporated,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"25,541",Silicon Laboratories CP210x USB to UART Bridge (Driver Removal),,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,127",Siemens Totally Integrated Automation Portal V13 - HM NoBasic Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,219",Siemens Totally Integrated Automation Portal V16 - HM All Editions Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,188",AutoCAD - DWG Viewer and Editor,AUTODESK,store,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"20,241",IBM Forms Viewer 8.2.0,IBM,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,072",Siemens Totally Integrated Automation Portal V14 - Multiuser Client Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"36,375",VLC media player 2.1.3,VideoLAN,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"17,331",Lenovo Welcome,Lenovo Group Ltd.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,473",Siemens Totally Integrated Automation Portal V15.1 - Simatic Single SetupPackage 32 Bit V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"27,512",Silicon Laboratories CP210x VCP Drivers for Windows 7,"Silicon Laboratories, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,549",PuTTY release 0.76 (64-bit),Simon Tatham,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"26,658",NORDCON 3.0.2,Getriebebau Nord GmbH &#38; Co. KG,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,728",Microsoft Office Standard 2019 - ko-kr,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"7,424",SOLIDWORKS 2019 SP04,SolidWorks Corporation,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"8,668",TeamViewer: Remote Control,TeamViewer,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,168",ZWCAD 2023 Language Pack - English,ZWSOFT,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,133",HGx Templates,RAP Systems,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,119",FileZilla Client 3.38.1,Tim Kosse,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,678",PSTX USB Driver,ABB,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,109",Siemens Totally Integrated Automation Portal V13 - WinCC Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,818",DjVu Shell Extension Pack,Cuminas Corporation,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"17,420",Microsoft Office PowerPoint MUI (English) 2010,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"37,286",QGIS 4.2.0 'Belém do Pará',QGIS.org,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"18,183",Microsoft Office Standard 2019 - en-us,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,462",Siemens Totally Integrated Automation Portal V15.1 - WinCC Single SetupPackage  V15.1,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"4,452",Siemens Totally Integrated Automation Portal V15.1 - Simatic Single SetupPackage  V15.1,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"19,608",AutoCAD - DWG Viewer &#38; Editor,AUTODESK,store,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,804",Alcorlink PCIE Card Reader Driver,Alcorlink Corp.,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,354",Siemens Totally Integrated Automation Portal V15.1 - WinCC Transfer Mandatory Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"7,639",FileZilla Client 3.50.0,Tim Kosse,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"38,170",SketchUp Import 2016,AUTODESK,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"5,143",Autodesk AutoCAD 2018.1.1,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"17,895",Knowledge Xpert,Quest Software,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"18,978",Microsoft Visual J# 2.0 Redistributable Package - SE,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,251",Sniffnet,Giuliano Bellini,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"28,204",CCXP_4_6_3_32,Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"34,480",Sentinel System Driver Installer 7.5.1,"SafeNet, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"25,829",PhonerLite 3.30,Heiko Sommerfeldt,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"17,296",Chinese Simplified Fonts Support For Adobe Reader X,Adobe Systems Incorporated,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,257",Siemens Totally Integrated Automation Portal V18 - HM All Editions Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,356",Siemens Totally Integrated Automation Portal V15 - WinCC Transfer Current All Single SetupPackage V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,852",iTwin Services Add-In,"Bentley Systems, Incorporated",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"4,432",Siemens  Totally Integrated Automation Portal V15 - HM All Editions Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"33,542",Siemens Totally Integrated Automation Portal V13 - Simatic Single SetupPackage V13.0 + SP2,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,389",Siemens Totally Integrated Automation Portal V15 - STEP 7 Single SetupPackage V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,707",Siemens Totally Integrated Automation Portal V17 - HM All Editions Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,041",Logi Download Assistant,Logitech,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"37,749",Toad for Oracle 2015 R2 Suite (x64),DELL,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,082",Siemens Totally Integrated Automation Portal V14 - WinCC Transfer Current All Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,221",Siemens Totally Integrated Automation Portal V16 - Simatic Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"37,549",HP Notifications,HP,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"20,771",Siemens Totally Integrated Automation Portal V17 - Simatic Single SetupPackage 32 Bit V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,940",MediaTek SP Driver version 5.23.07.02,MediaTek.Inc.,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"30,273",Display Driver Uninstaller,Wagnardsoft,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,402",Siemens Totally Integrated Automation Portal V15 - WinCC Transfer Mandatory Single SetupPackage V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"32,573",Adobe Premiere Pro 2023,Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"24,104",Microsoft Office Professional Plus 2024 - en-us,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,203",Siemens Totally Integrated Automation Portal V16 - Multiuser Client Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"27,401",Adobe Animate CC 2017,Adobe Systems Incorporated,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"7,392",Wireshark 3.2.7 64-bit,"The Wireshark developer community, https://www.wireshark.org",,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,812",SketchUp 2024,"Trimble, Inc.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,258",PuTTY release 0.81 (64-bit),Simon Tatham,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"9,106",AutoCAD Electrical 2019 Content Pack,AUTODESK,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"17,908",Kits Configuration Installer,Microsoft,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,973",SAP GUI for Windows 7.60,SAP SE,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"34,712",Microsoft Office Professional Plus 2021 - id-id,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,783",Microsoft Office Standard 2013,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"28,499",RealVNC Server 7.8.0,RealVNC,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"6,331",Tekla Structures Multiuser Server 2.5.0,Trimble Solutions Corporation,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"3,433",Compatibility Check Tool TIA -  TIACOMPCHECK Single SetupPackage  V11.0 + SP1,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,815",Wireshark 3.0.6 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"6,652",AutoCAD 2019 VBA Enabler,AUTODESK,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,091",Siemens Totally Integrated Automation Portal V14 - HM NoBasic Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,724",MarkAny EPSBroker,MarkAny Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,085",Siemens Totally Integrated Automation Portal V14 - HM All Editions Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"18,960",Microsoft VCLibs 140.00.UWPDesktop,Microsoft Corporation,store,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"29,166",WebP Image Extension,Microsoft,store,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"6,859",Adobe Premiere Pro CC 2017,Adobe Systems Incorporated,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,888",Siemens Totally Integrated Automation Portal V15.1 - STEP 7 Safety Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"27,513",Silicon Laboratories CP210x VCP Drivers for Windows 7_2 (c:\SiLabs\MCU\CP210x\Windows_7_2),"Silicon Laboratories, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"17,172",Global Mapper 21.1 (64-bit),Blue Marble Geographics,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"20,706",Siemens Totally Integrated Automation Portal V17 - Version Control Interface SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,887",iTwin Services Add-In V2,"Bentley Systems, Incorporated",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,213",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Mandatory Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"35,119",ViGEm Bus Driver,Nefarius Software Solutions e.U.,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"32,912",EasyCapture 1.2.0.0,,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,138",Microsoft Portable Library Multi-Targeting Pack Language Pack - enu,Microsoft Corporation,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"6,634",Autodesk Civil 3D 2019,AUTODESK,,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"20,741",Siemens Totally Integrated Automation Portal V17 - Multiuser Client Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"37,217",QGIS 3.28.6 'Firenze',QGIS.org,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,119",Siemens Totally Integrated Automation Portal V13 - TIA Tour Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"33,602",QGIS 2.18 2.18.4 Las Palmas,QGIS Development Team,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,220",Siemens Totally Integrated Automation Portal V16 - WinCC Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,073",Siemens Totally Integrated Automation Portal V14 - WinCC Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,227",Corel Graphics - Windows Shell Extension 64 Bit,Corel Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,074",Siemens Totally Integrated Automation Portal V14 - WinCC Transfer Legacy All Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,235",GreenForce-Player 2.20,RRSoftware,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"34,431",Adobe Acrobat Reader DC MUI,Adobe Systems Incorporated,application,EXCLUDE_CANDIDATE,Logistic Regression,INCLUDE,MISCLASSIFIED
+"33,434",PDF24 Creator 11.29.1,geek software GmbH,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"36,870",RealVNC Server 7.15.0,RealVNC,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,358",Siemens Totally Integrated Automation Portal V15.1 - Multiuser Client Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"7,641",FileZilla Client 3.51.0,Tim Kosse,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"18,891",Picasa 3,"Google, Inc.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,212",Siemens Totally Integrated Automation Portal V16 - HM NoBasic Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,254",PuTTY release 0.78 (64-bit),Simon Tatham,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,215",Siemens Totally Integrated Automation Portal V18 - WinCC Unified ES Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"5,142",Autodesk AutoCAD 2018.1,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"6,636",Autodesk Civil 3D 2019 Language Pack - English,AUTODESK,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,238",Siemens Totally Integrated Automation Portal V18 - TIA Portal Shim Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,159",FileZilla Client 3.25.2,Tim Kosse,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,459",SIMATIC S7-PCT V3.4 + HF2,Siemens AG,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,238",PuTTY release 0.76,Simon Tatham,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,456",PDF-Viewer,Tracker Software Products Ltd,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"5,900",Immersive Reader Offline Extension,Microsoft Corporation,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,195",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Legacy All Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,235",Siemens Totally Integrated Automation Portal V18 - Version Control Interface SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"6,815","Adobe Acrobat X Pro - English, FranÃ§ais, Deutsch",Adobe Systems,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,123",Siemens Totally Integrated Automation Portal V13 - Simatic Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,110",VNC Server 6.11.0,RealVNC,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,113",Siemens Totally Integrated Automation Portal V13 - TIACOMPCHECK Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,979",SPDS Extension for AutoCAD® 2015,"Autodesk, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"8,430",SIMATIC WinCC/WebNavigator Plug-In Builder V7.3  ,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,479",Wireshark 4.4.2 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"17,326",Wondershare Dr.Fone (Version 11.4.12),"Wondershare Technology Co.,Ltd.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,996",MrvlUsgTracking,Marvell,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"26,191",Siemens Totally Integrated Automation Portal V16 - Version Control Interface SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"37,492",CCXP_7_11_0_32,Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"7,168",Thinkpad USB Ethernet Adapter Driver,Lenovo,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,012",AutoCAD 2023 Shared Language Pack - English,AUTODESK,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,202",Siemens Totally Integrated Automation Portal V18 - WinCC Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"34,358",Super Safari Pupil's DVD-ROM 2,Cambridge University Press,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,262",SPDS Extension for AutoCAD® 2018,"Autodesk, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"18,895",Adobe Acrobat Reader MUI,Adobe Systems Incorporated,application,EXCLUDE_CANDIDATE,Logistic Regression,INCLUDE,MISCLASSIFIED
+"6,891",PuTTY release 0.72 (64-bit),Simon Tatham,,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"26,193",Siemens Totally Integrated Automation Portal V18 - HM NoBasic Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"22,692",Wireshark 4.0.3 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,410",QGIS 3.28.11 'Firenze',QGIS.org,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,896",Siemens Totally Integrated Automation Portal V15.1 - Simatic Option Energy Suite SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,635",Microsoft Office Professional Plus 2021 - en-us,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,576",Adobe Acrobat Reader,Adobe Acrobat,developer,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,629",XWidget version 1.9.28,xdesktop.com,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"20,265",Online Manager,,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"6,333",SPDS Extension for AutoCADÂ® 2017,"Autodesk, Inc.",,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,817",My Family Tree Language Pack (x64),Chronoplex Software,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,924",Autodesk Civil 3D 2020 Language Pack - English,AUTODESK,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"36,034",Service Pack 2 for SQL Server 2014 (KB3171021),Microsoft Corporation,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"35,878",Autodesk Backburner 2018.0,AUTODESK,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"28,772",Wireshark 4.6.0 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,408",STEP 7-Micro/WIN SMART V2.6,Siemens,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"36,403",VLC media player 1.1.11,VideoLAN,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"38,633",AutoCAD - DWG Viewer & Editor,AUTODESK,store,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,584",Adobe Premiere Pro 2019,Adobe Systems Incorporated,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"27,698",SSHFS-Win 2021 (x64),Navimatics LLC,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,386",POS Printer Driver V7.17 7.17,POS 2016 (C) Copyright,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,211",Siemens Totally Integrated Automation Portal V18 - Openness SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,076",Siemens Totally Integrated Automation Portal V14 - TIACOMPCHECK Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"6,792",Adobe InDesign CS3 Icon Handler,Adobe Systems Incorporated,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"22,886",Siemens Totally Integrated Automation Portal V15.1 - Energy Support Library Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,218",Siemens Totally Integrated Automation Portal V16 - WinCC Transfer Mandatory Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"20,194",HP SharePoint Plugin,HP,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"17,406",Microsoft Office Professional Plus 2010,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"6,325",Revit 2020,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"28,567",Sentinel System Driver Installer 7.6.1,"SafeNet, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"5,831",FileZilla Client 3.49.1,Tim Kosse,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,253",Siemens Totally Integrated Automation Portal V18 - STEP 7 Safety Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"36,371",VLC media player 2.0.5,VideoLAN,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"18,685",Fingerprint Reader Driver 5.0.0.22,ZKTeco Inc.,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"22,991",Adobe WinSoft Linguistics Plugin,Adobe Systems Incorporated,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,373",Siemens Totally Integrated Automation Portal V16 - WinCC Single SetupPackage 32 Bit V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,237",Siemens Totally Integrated Automation Portal V18 - STEP 7 Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"3,458",CX-Server Driver Mgt Tool,Omron,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,280",CX-Server Generic FINS Ethernet Driver,Omron Electronics Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,498",ZWCAD 2025 Language Pack - English,ZWSOFT,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"5,402",Android Studio,Google LLC,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"17,656",Microsoft Office Professional Plus 2013,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"9,401",Phone Nokia USB Driver,Mobile,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"8,962",Microsoft Office Professional Plus 2019 - en-us,Microsoft Corporation,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,688",Drive Composer pro Installer,ABB,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"4,456",Siemens Totally Integrated Automation Portal V15.1 - Openness SetupPackage  V15.1,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,990",Microsoft Visual J# 2.0 Redistributable Package,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,268",Siemens Totally Integrated Automation Portal V18 - Multiuser Client Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"9,108",AutoCAD Electrical 2019 - English,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"7,865",Wireshark 3.4.3 64-bit,"The Wireshark developer community, https://www.wireshark.org",,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,468",Siemens  Totally Integrated Automation Portal V15 - WinCC Transfer Current CAP Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"33,062",CCXP_7_4_0_32,Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,375",Siemens Totally Integrated Automation Portal V15.1 - STEP 7 Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,049",CPUID CPU-Z 2.03,"CPUID, Inc.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"7,218",ACS Unified PC/SC Driver 4.3.0.0,Advanced Card Systems Ltd.,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"19,251",Corel Graphics - Windows Shell Extension 32 Bit,Corel Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"36,367",VLC media player,VideoLAN,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,494",Siemens  Totally Integrated Automation Portal V15 - WinCC Single SetupPackage 32 Bit  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"24,340",STAAD.Pro 2025,"Bentley Systems, Inc.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,460",Siemens  Totally Integrated Automation Portal V15 - Multiuser Client Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,116",Siemens Totally Integrated Automation Portal V13 - HM All Editions Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,360",Siemens Totally Integrated Automation Portal V15 - WinCC Single SetupPackage V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"23,280",AxisSecurity,"AxisSecurity, Inc",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,611",GDAL ECW Extension 19 (MSVC 2010 Win64),OSGeo,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"25,936",SAP GUI for Windows 7.50,SAP SE,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"17,658",Microsoft InfoPath MUI (English) 2013,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"29,226",SAP GUI for Windows 7.70,SAP SE,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"22,921",SIMATIC OPC-XML-Gateway V13.0,Siemens AG,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,825",SketchUp 2026,"Trimble, Inc.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"20,752",Siemens Totally Integrated Automation Portal V17 - WinCC Single SetupPackage 32 Bit V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,431",RealVNC Server 7.12.1,RealVNC,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"29,097",SAP GUI for Windows 7.20,SAP,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"6,924",FileZilla Client 3.45.1,Tim Kosse,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"3,512",Fingerprint Reader Driver 2.3.2,ZKSoftware,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,709",UniFi OS Server 4.3.6,Ubiquiti Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,820",Adobe AIR,Adobe Systems Incorporated,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"5,012",Fingerprint Reader Driver 2.3.3.5,ZKTeco Inc.,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"25,948",Microsoft Teams (work or school),Microsoft Platform Extensions,developer,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"37,609",Samsung USB Driver for Mobile Phones,"Samsung Electronics Co., Ltd.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"7,692",Microsoft Office Standard 2010,Microsoft Corporation,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"24,885",Wireshark 4.6.1 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"27,134",MySQL Documents 8.0,Oracle Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,453",Siemens  Totally Integrated Automation Portal V15 - Simatic Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"35,964",Microsoft Visual J# 2.0 Redistributable Package - SE (x64),Microsoft Corporation,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"18,442",Microsoft InfoPath MUI (English) 2016,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"34,847",SketchUp 8,Trimble Navigation Limited,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"24,736",MOTOTRBO Radio Driver,Motorola Solutions,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"22,404",RICOH Driver Utility,"Ricoh Company, Ltd.",store,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,225",Siemens Totally Integrated Automation Portal V16 - STEP 7 Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,122",Microsoft Office Professional 2021 - en-us,Microsoft Corporation,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,325",Siemens Totally Integrated Automation Portal V18 - WinCC Single SetupPackage 32 Bit V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"6,281",Autodesk Navisworks 2020 Exporters - 64 bit - English Language Pack,AUTODESK,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"18,669",Zoom Rooms,"Zoom Video Communications, Inc.",store,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"4,480",Siemens  Totally Integrated Automation Portal V15 - HM NoBasic Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"22,862",InstallWIX_{4FC79BE9-AD63-46C0-9626-E4F6BCE6A976},,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"37,309",ifm electronic VNB USB Driver,ifm electronic GmbH,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"33,826",SketchUp Import,AUTODESK,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"5,460",Revit 2019,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"6,304",Autodesk Civil 3D 2020,AUTODESK,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,390",Siemens Totally Integrated Automation Portal V15.1 - WinCC Transfer Current CAP Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"37,714",PuTTY release 0.77 (64-bit),Simon Tatham,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"29,335",FileZilla Client 3.58.0,Tim Kosse,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"32,918",Samsung M4370 5370 Series,"Samsung Electronics Co., Ltd.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,417","WPS Office Suite - PDF, Word, Spreadsheet, Slide View &#38; Edit",Kingsoft Office Software Corporation Limited,store,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,255",Wireshark 4.2.3 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,461",Siemens Totally Integrated Automation Portal V15.1 - WinCC Single SetupPackage 32 Bit V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"29,258",CCXP_7_1_3_32,Adobe Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"6,054",Corel Graphics - Windows Shell Extension 32 Bit Keys,Corel Corporation,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"5,005",PuTTY release 0.70 (64-bit),Simon Tatham,,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,190",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Legacy CAP Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"9,109",AutoCAD Electrical 2019 Content Language Pack - English,AUTODESK,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,588",iMyFone D-Back 9.2.3.3,"Shenzhen iMyFone Technology Co., Ltd.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"6,328",AutoCAD 2017 VBA Enabler,AUTODESK,,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"22,508",Microsoft Teams Play Together,Microsoft Corporation,developer,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"23,260",Wireshark 4.2.5 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,200",Siemens Totally Integrated Automation Portal V18 - TIACOMPCHECK Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"27,711",Wampserver64 3.3.7,Dominique Ottello alias Otomatic,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,185",Siemens Totally Integrated Automation Portal V18 - Simatic Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"28,213",PC HelpSoft Driver Updater,Avanquest,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"21,827",My Family Tree (x64),Chronoplex Software,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"26,153",iTop Easy Desktop,iTop Inc.,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,182",Wireshark 4.0.4 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"33,076",KeyboardTest V3.0,PassMark Software,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"37,516",Palworld,Pocketpair,application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,221",MediaTek Driver Package version 5.14.38.00,MediaTek.Inc.,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"35,853",Raw Image Extension,Microsoft Platform Extensions,store,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"34,330",WinPcap 4.1.3,"Riverbed Technology, Inc.",application,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"21,444",Siemens Totally Integrated Automation Portal V15 - Simatic Single SetupPackage 32 Bit V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"22,686",Fingerprint Reader Driver 2.3.0,ZKSoftware,application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"26,334",Silicon Laboratories CP210x VCP Drivers for Windows XP/2003 Server/Vista/7,"Silicon Laboratories, Inc.",application,EXCLUDE_CANDIDATE,Logistic Regression,EXCLUDE_CANDIDATE,CORRECT
+"5,020",Wireshark 2.6.3 64-bit,"The Wireshark developer community, https://www.wireshark.org",,INCLUDE,Logistic Regression,INCLUDE,CORRECT
+"8,429",SIMATIC WinCC/WebNavigator Plug-In Builder,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"29,088",RealVNC Server 7.10.0,RealVNC,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,441",PDFsam Enhanced 7,Sober Lemur S.a.s. di Vacondio Andrea,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"5,929",Revit 2018,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"27,366",TeraCopy 2.3,Code Sector,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,442",Siemens Totally Integrated Automation Portal V15.1 - TIACOMPCHECK Single SetupPackage  V15.1,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"3,441",Macromedia Flash Player 8 Plugin,Macromedia,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,729",Siemens Totally Integrated Automation Portal V17 - STEP 7 Safety Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,217",Siemens Totally Integrated Automation Portal V18 - TIA Portal Security Audit Log Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,422",Siemens Totally Integrated Automation Portal V15,Siemens AG,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"20,728",Siemens Totally Integrated Automation Portal V17 - WinCC Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"36,290","WPS Office Suite - PDF, Word, Spreadsheet, Slide View & Edit",Kingsoft Office Software Corporation Limited,store,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"20,721",Siemens Totally Integrated Automation Portal V17 - WinCC Transfer Mandatory Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"25,255",Image Generation Extension,Microsoft Corporation,system,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"36,007",Service Pack 1 for SQL Server 2008 (KB968369) (64-bit),Microsoft Corporation,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"37,550",Adobe Acrobat Reader DC,Adobe Systems Incorporated,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"28,023",Microsoft Advertising Service Extension for Visual Studio,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"37,885",Wireshark 4.6.8 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,969",GstarCAD 2018 - English,Gstarsoft Company,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"8,582",Sentinel System Driver Installer 7.5.8,"SafeNet, Inc.",,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,331",Siemens Totally Integrated Automation Portal V16 - Simatic Single SetupPackage 32 Bit V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"29,196",Microsoft Office Professional Plus 2007,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,874",Microsoft Office Professional Plus 2019 - id-id,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"5,306",Adobe Premiere Pro CS6,Adobe Systems Incorporated,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,265",Platinum Hide IP,,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,059",RealVNC Server 7.16.0,RealVNC,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,236",Siemens Totally Integrated Automation Portal V16 - TIACOMPCHECK Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"25,655",Microsoft Office Standard 2016,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,539",Siemens Totally Integrated Automation Portal V13 - TIACOMPCHECK Single SetupPackage V13.0 + SP2,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"36,780",TUSB3410 Driver 6.7.4.0,"Texas Instruments, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,740",Siemens Totally Integrated Automation Portal V17 - Simatic Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"9,103",Autodesk AutoCAD Electrical 2019 - English,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,763",HP SFTP Plugin,HP,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"3,404",CX-Server Driver Management Tool,Omron,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,179",HOBOware 3.7.25,Onset Computer Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"29,457",TeraCopy version 3.26,Code Sector,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"20,758",SIMATIC ProSave V17.0,Siemens AG,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"18,429",Microsoft Office Professional Plus 2016,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,822",CCXP_3_0_1_1_32,Adobe Systems Incorporated,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"36,704",PuTTY release 0.84 (64-bit),Simon Tatham,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,554",Dolby Digital Plus Home Theater,Dolby Laboratories Inc,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"29,047",LogPlot 7,"RockWare, Inc.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"3,120",Microsoft Lync Web App Plug-in,Microsoft Corporation,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,312",QGIS 3.28.13 'Firenze',QGIS.org,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,521",DolbyGUI,Conexant Systems,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"29,056",DaVinci Resolve Control Panels,Blackmagic Design,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"5,433",Quest Installer,,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"5,569",Microsoft Office Professional Plus 2016 - en-us,Microsoft Corporation,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,366",Siemens Totally Integrated Automation Portal V15 - Openness SetupPackage V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"22,947",CCleaner,Piriform Ltd.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"27,554",PuTTY release 0.83,Simon Tatham,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"16,997",HP Google Drive Plugin,HP,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"3,567",AMD Steady Video Plug-In ,AMD,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,698",HP Wireless Button Driver,HP,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"35,862",Service Pack 1 for SQL Server 2014 (KB3058865) (64-bit),Microsoft Corporation,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,709",Siemens Totally Integrated Automation Portal V17 - STEP 7 Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"5,144",Autodesk AutoCAD 2018.0.2,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,923",SIMATIC S7-PCT V3.4 + HF2 Professional 2017,Siemens AG,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,104",Siemens Totally Integrated Automation Portal V13 - STEP 7 Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"6,789",Adobe Extension Manager CS3,Adobe Systems Incorporated,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"24,753",Adobe Premiere Pro 2022,Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,587",Wireshark 4.6.2 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"37,856",CCXP_7_13_0_32,Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"28,266",CCXP_7_2_2_32,Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"24,828",MySQL Installer,Oracle Corporation,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,294",Dell SupportAssist OS Recovery Plugin for Dell Update,Dell Inc.,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"25,453",Firebird ODBC driver 2.0.5.156,Firebird Project,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"22,702",USB Driver (Recorder / Controller Devices) v3.0.0.3,OEM,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,132",AMD MicroPEP Driver,"Advanced Micro Devices, Inc.",system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,053",Nuance PaperPort 12,"Nuance Communications, Inc.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,339",Silicon Laboratories CP210x VCP Drivers for Windows XP/2003 Server/Vista/7_2 (c:\SiLabs\MCU\CP210x\Windows_XP_S2K3_Vista_7_2),"Silicon Laboratories, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,079",Siemens Totally Integrated Automation Portal V14 - Simatic Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"35,863",Proficy Driver Server,"GE Intelligent Platforms, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"29,245",SPDS Extension for AutoCAD® 2021,"Autodesk, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,399",Siemens Totally Integrated Automation Portal V15.1 - WinCC Transfer Current All Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"9,179",QGIS 3.22.2 'Bialowieza',QGIS.org,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,392",HASP HL Device Driver,,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"19,982",Outbyte Driver Updater,Outbyte Computing Pty Ltd,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"37,245",Tailscale,Tailscale Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,422",Adobe Photoshop (Beta),Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,435",Siemens  Totally Integrated Automation Portal V15 - TIACOMPCHECK Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"22,306",CCXP_4_15_12_32,Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,642",Microsoft Power BI Desktop (x64),Microsoft Corporation,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"36,748",Vault of the Void,Spider Nest Games,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,234",Free Video Encryptor 2.0.0,Gilisoft International LLC.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,534",Automation Software Updater,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"18,811",TreeSize Free V4.3.1,JAM Software,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"34,675",HaiwellHappy V2.2.13,"Xiamen Haiwell Software Co.,Ltd.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,448",Siemens Totally Integrated Automation Portal V15.1 - HM NoBasic Single SetupPackage  V15.1,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"27,422",Adobe Extension Manager CC,Adobe Systems Incorporated,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"17,408",SAP GUI for Windows 7.30,SAP,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"37,843",Adobe Premiere Pro 2026,Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"9,125",Adobe Premiere Pro CC 2019,Adobe Inc.,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,977",ALchemy,Creative Technology Limited,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"20,856",RAM Elements CONNECT Edition V16 Update 6 Spanish-Language Pack,"Bentley Systems, Incorporated",system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"24,829",MySQL Documents,Oracle Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,737",Spotify ADS Remover version v1.1.79.763,Spotify,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"17,902",Universal CRT Redistributable,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"6,314",AutoCAD Architecture 2020 Language Shared - English,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,853",Microsoft Office Standard 2016 - en-us,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"18,534",Corel Graphics - Windows Shell Extension,Corel Corporation,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"37,715",Wireshark 3.6.7 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,272",Autodesk AutoCAD 2017 Hotfix 2,AUTODESK,,EXCLUDE_CANDIDATE,Linear SVM,INCLUDE,MISCLASSIFIED
+"6,273",Autodesk AutoCAD 2017 Hotfix 3,AUTODESK,,EXCLUDE_CANDIDATE,Linear SVM,INCLUDE,MISCLASSIFIED
+"21,646",CORE_1_0_32,Adobe Systems Incorporated,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"32,936",Oracle VirtualBox 7.2.6,Oracle and/or its affiliates,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,168",Wireshark 4.0.10 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"17,422",Microsoft Office Outlook MUI (English) 2010,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"27,936",pgJDBC 42.7.2,EnterpriseDB,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"20,739",Siemens Totally Integrated Automation Portal V17 - TIACOMPCHECK Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"18,022",Adobe Common File Installer,Adobe System Incorporated,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,256",Handset WinDriver 1.02.03.00,"Huawei technologies Co., Ltd.",application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"20,710",Siemens Totally Integrated Automation Portal V17 - HM NoBasic Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"24,108",PuTTY release 0.83 (64-bit),Simon Tatham,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,611",Microsoft Office Professional 2010,Microsoft Corporation,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"24,915",draw.io 29.0.3,JGraph,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"25,716",Microsoft PowerPoint MUI (English) 2016,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"9,277",Microsoft VCLibs 140 00 UWPDesktop,Microsoft Research,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,674",STEP 7-Micro/WIN SMART V2.5,Siemens,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,319",Siemens Totally Integrated Automation Portal V18 - Simatic Single SetupPackage 32 Bit V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,118",SAP GUI for Windows 7.40,SAP,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,117",Siemens Totally Integrated Automation Portal V14 - Simatic Single SetupPackage 32 Bit V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,698",IObit Uninstaller 14.2.0.2,IObit,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"26,266",Siemens Totally Integrated Automation Portal V16 - STEP 7 Safety Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"6,643",AutoCAD Architecture 2019 Language Shared - English,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,397",Siemens Totally Integrated Automation Portal V15.1 - HM All Editions Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"8,179",FileZilla Client 3.53.1,Tim Kosse,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"25,830",Microsoft Office Professional 2016 - en-us,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,192",Siemens Totally Integrated Automation Portal V16 - Openness SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,234",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Legacy CAP 2 Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,730",Siemens Totally Integrated Automation Portal V17 - Openness SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"36,964",Wireshark 4.6.7 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"37,279",POS Series Printer Driver version 11.3.0.1,,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,078",Siemens Totally Integrated Automation Portal V14 - STEP 7 Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,126",Siemens Totally Integrated Automation Portal V14 - WinCC Single SetupPackage 32 Bit V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"27,390",Adobe Audition CC 2017,Adobe Systems Incorporated,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"25,541",Silicon Laboratories CP210x USB to UART Bridge (Driver Removal),,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,127",Siemens Totally Integrated Automation Portal V13 - HM NoBasic Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,219",Siemens Totally Integrated Automation Portal V16 - HM All Editions Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,188",AutoCAD - DWG Viewer and Editor,AUTODESK,store,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"20,241",IBM Forms Viewer 8.2.0,IBM,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,072",Siemens Totally Integrated Automation Portal V14 - Multiuser Client Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"36,375",VLC media player 2.1.3,VideoLAN,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"17,331",Lenovo Welcome,Lenovo Group Ltd.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,473",Siemens Totally Integrated Automation Portal V15.1 - Simatic Single SetupPackage 32 Bit V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"27,512",Silicon Laboratories CP210x VCP Drivers for Windows 7,"Silicon Laboratories, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,549",PuTTY release 0.76 (64-bit),Simon Tatham,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,658",NORDCON 3.0.2,Getriebebau Nord GmbH &#38; Co. KG,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,728",Microsoft Office Standard 2019 - ko-kr,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"7,424",SOLIDWORKS 2019 SP04,SolidWorks Corporation,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"8,668",TeamViewer: Remote Control,TeamViewer,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,168",ZWCAD 2023 Language Pack - English,ZWSOFT,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,133",HGx Templates,RAP Systems,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,119",FileZilla Client 3.38.1,Tim Kosse,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,678",PSTX USB Driver,ABB,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,109",Siemens Totally Integrated Automation Portal V13 - WinCC Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,818",DjVu Shell Extension Pack,Cuminas Corporation,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"17,420",Microsoft Office PowerPoint MUI (English) 2010,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"37,286",QGIS 4.2.0 'Belém do Pará',QGIS.org,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"18,183",Microsoft Office Standard 2019 - en-us,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,462",Siemens Totally Integrated Automation Portal V15.1 - WinCC Single SetupPackage  V15.1,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"4,452",Siemens Totally Integrated Automation Portal V15.1 - Simatic Single SetupPackage  V15.1,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"19,608",AutoCAD - DWG Viewer &#38; Editor,AUTODESK,store,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,804",Alcorlink PCIE Card Reader Driver,Alcorlink Corp.,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,354",Siemens Totally Integrated Automation Portal V15.1 - WinCC Transfer Mandatory Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"7,639",FileZilla Client 3.50.0,Tim Kosse,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"38,170",SketchUp Import 2016,AUTODESK,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"5,143",Autodesk AutoCAD 2018.1.1,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"17,895",Knowledge Xpert,Quest Software,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"18,978",Microsoft Visual J# 2.0 Redistributable Package - SE,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,251",Sniffnet,Giuliano Bellini,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"28,204",CCXP_4_6_3_32,Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"34,480",Sentinel System Driver Installer 7.5.1,"SafeNet, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"25,829",PhonerLite 3.30,Heiko Sommerfeldt,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"17,296",Chinese Simplified Fonts Support For Adobe Reader X,Adobe Systems Incorporated,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"26,257",Siemens Totally Integrated Automation Portal V18 - HM All Editions Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,356",Siemens Totally Integrated Automation Portal V15 - WinCC Transfer Current All Single SetupPackage V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,852",iTwin Services Add-In,"Bentley Systems, Incorporated",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"4,432",Siemens  Totally Integrated Automation Portal V15 - HM All Editions Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"33,542",Siemens Totally Integrated Automation Portal V13 - Simatic Single SetupPackage V13.0 + SP2,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,389",Siemens Totally Integrated Automation Portal V15 - STEP 7 Single SetupPackage V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,707",Siemens Totally Integrated Automation Portal V17 - HM All Editions Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,041",Logi Download Assistant,Logitech,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"37,749",Toad for Oracle 2015 R2 Suite (x64),DELL,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,082",Siemens Totally Integrated Automation Portal V14 - WinCC Transfer Current All Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,221",Siemens Totally Integrated Automation Portal V16 - Simatic Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"37,549",HP Notifications,HP,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"20,771",Siemens Totally Integrated Automation Portal V17 - Simatic Single SetupPackage 32 Bit V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,940",MediaTek SP Driver version 5.23.07.02,MediaTek.Inc.,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"30,273",Display Driver Uninstaller,Wagnardsoft,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,402",Siemens Totally Integrated Automation Portal V15 - WinCC Transfer Mandatory Single SetupPackage V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"32,573",Adobe Premiere Pro 2023,Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"24,104",Microsoft Office Professional Plus 2024 - en-us,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,203",Siemens Totally Integrated Automation Portal V16 - Multiuser Client Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"27,401",Adobe Animate CC 2017,Adobe Systems Incorporated,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"7,392",Wireshark 3.2.7 64-bit,"The Wireshark developer community, https://www.wireshark.org",,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,812",SketchUp 2024,"Trimble, Inc.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,258",PuTTY release 0.81 (64-bit),Simon Tatham,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"9,106",AutoCAD Electrical 2019 Content Pack,AUTODESK,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"17,908",Kits Configuration Installer,Microsoft,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,973",SAP GUI for Windows 7.60,SAP SE,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"34,712",Microsoft Office Professional Plus 2021 - id-id,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,783",Microsoft Office Standard 2013,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"28,499",RealVNC Server 7.8.0,RealVNC,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,331",Tekla Structures Multiuser Server 2.5.0,Trimble Solutions Corporation,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"3,433",Compatibility Check Tool TIA -  TIACOMPCHECK Single SetupPackage  V11.0 + SP1,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,815",Wireshark 3.0.6 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,652",AutoCAD 2019 VBA Enabler,AUTODESK,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,091",Siemens Totally Integrated Automation Portal V14 - HM NoBasic Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,724",MarkAny EPSBroker,MarkAny Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,085",Siemens Totally Integrated Automation Portal V14 - HM All Editions Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"18,960",Microsoft VCLibs 140.00.UWPDesktop,Microsoft Corporation,store,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"29,166",WebP Image Extension,Microsoft,store,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"6,859",Adobe Premiere Pro CC 2017,Adobe Systems Incorporated,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,888",Siemens Totally Integrated Automation Portal V15.1 - STEP 7 Safety Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"27,513",Silicon Laboratories CP210x VCP Drivers for Windows 7_2 (c:\SiLabs\MCU\CP210x\Windows_7_2),"Silicon Laboratories, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"17,172",Global Mapper 21.1 (64-bit),Blue Marble Geographics,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"20,706",Siemens Totally Integrated Automation Portal V17 - Version Control Interface SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,887",iTwin Services Add-In V2,"Bentley Systems, Incorporated",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,213",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Mandatory Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"35,119",ViGEm Bus Driver,Nefarius Software Solutions e.U.,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"32,912",EasyCapture 1.2.0.0,,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,138",Microsoft Portable Library Multi-Targeting Pack Language Pack - enu,Microsoft Corporation,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"6,634",Autodesk Civil 3D 2019,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"20,741",Siemens Totally Integrated Automation Portal V17 - Multiuser Client Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"37,217",QGIS 3.28.6 'Firenze',QGIS.org,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,119",Siemens Totally Integrated Automation Portal V13 - TIA Tour Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"33,602",QGIS 2.18 2.18.4 Las Palmas,QGIS Development Team,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,220",Siemens Totally Integrated Automation Portal V16 - WinCC Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,073",Siemens Totally Integrated Automation Portal V14 - WinCC Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,227",Corel Graphics - Windows Shell Extension 64 Bit,Corel Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,074",Siemens Totally Integrated Automation Portal V14 - WinCC Transfer Legacy All Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,235",GreenForce-Player 2.20,RRSoftware,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"34,431",Adobe Acrobat Reader DC MUI,Adobe Systems Incorporated,application,EXCLUDE_CANDIDATE,Linear SVM,INCLUDE,MISCLASSIFIED
+"33,434",PDF24 Creator 11.29.1,geek software GmbH,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"36,870",RealVNC Server 7.15.0,RealVNC,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,358",Siemens Totally Integrated Automation Portal V15.1 - Multiuser Client Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"7,641",FileZilla Client 3.51.0,Tim Kosse,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"18,891",Picasa 3,"Google, Inc.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,212",Siemens Totally Integrated Automation Portal V16 - HM NoBasic Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,254",PuTTY release 0.78 (64-bit),Simon Tatham,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,215",Siemens Totally Integrated Automation Portal V18 - WinCC Unified ES Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"5,142",Autodesk AutoCAD 2018.1,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,636",Autodesk Civil 3D 2019 Language Pack - English,AUTODESK,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,238",Siemens Totally Integrated Automation Portal V18 - TIA Portal Shim Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,159",FileZilla Client 3.25.2,Tim Kosse,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,459",SIMATIC S7-PCT V3.4 + HF2,Siemens AG,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,238",PuTTY release 0.76,Simon Tatham,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,456",PDF-Viewer,Tracker Software Products Ltd,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"5,900",Immersive Reader Offline Extension,Microsoft Corporation,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,195",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Legacy All Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,235",Siemens Totally Integrated Automation Portal V18 - Version Control Interface SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"6,815","Adobe Acrobat X Pro - English, FranÃ§ais, Deutsch",Adobe Systems,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,123",Siemens Totally Integrated Automation Portal V13 - Simatic Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,110",VNC Server 6.11.0,RealVNC,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,113",Siemens Totally Integrated Automation Portal V13 - TIACOMPCHECK Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,979",SPDS Extension for AutoCAD® 2015,"Autodesk, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"8,430",SIMATIC WinCC/WebNavigator Plug-In Builder V7.3  ,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,479",Wireshark 4.4.2 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"17,326",Wondershare Dr.Fone (Version 11.4.12),"Wondershare Technology Co.,Ltd.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,996",MrvlUsgTracking,Marvell,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"26,191",Siemens Totally Integrated Automation Portal V16 - Version Control Interface SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"37,492",CCXP_7_11_0_32,Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"7,168",Thinkpad USB Ethernet Adapter Driver,Lenovo,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,012",AutoCAD 2023 Shared Language Pack - English,AUTODESK,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,202",Siemens Totally Integrated Automation Portal V18 - WinCC Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"34,358",Super Safari Pupil's DVD-ROM 2,Cambridge University Press,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,262",SPDS Extension for AutoCAD® 2018,"Autodesk, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"18,895",Adobe Acrobat Reader MUI,Adobe Systems Incorporated,application,EXCLUDE_CANDIDATE,Linear SVM,INCLUDE,MISCLASSIFIED
+"6,891",PuTTY release 0.72 (64-bit),Simon Tatham,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,193",Siemens Totally Integrated Automation Portal V18 - HM NoBasic Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"22,692",Wireshark 4.0.3 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,410",QGIS 3.28.11 'Firenze',QGIS.org,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,896",Siemens Totally Integrated Automation Portal V15.1 - Simatic Option Energy Suite SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,635",Microsoft Office Professional Plus 2021 - en-us,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,576",Adobe Acrobat Reader,Adobe Acrobat,developer,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,629",XWidget version 1.9.28,xdesktop.com,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"20,265",Online Manager,,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,333",SPDS Extension for AutoCADÂ® 2017,"Autodesk, Inc.",,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,817",My Family Tree Language Pack (x64),Chronoplex Software,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,924",Autodesk Civil 3D 2020 Language Pack - English,AUTODESK,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"36,034",Service Pack 2 for SQL Server 2014 (KB3171021),Microsoft Corporation,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"35,878",Autodesk Backburner 2018.0,AUTODESK,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"28,772",Wireshark 4.6.0 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,408",STEP 7-Micro/WIN SMART V2.6,Siemens,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"36,403",VLC media player 1.1.11,VideoLAN,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"38,633",AutoCAD - DWG Viewer & Editor,AUTODESK,store,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,584",Adobe Premiere Pro 2019,Adobe Systems Incorporated,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"27,698",SSHFS-Win 2021 (x64),Navimatics LLC,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,386",POS Printer Driver V7.17 7.17,POS 2016 (C) Copyright,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,211",Siemens Totally Integrated Automation Portal V18 - Openness SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,076",Siemens Totally Integrated Automation Portal V14 - TIACOMPCHECK Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"6,792",Adobe InDesign CS3 Icon Handler,Adobe Systems Incorporated,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,886",Siemens Totally Integrated Automation Portal V15.1 - Energy Support Library Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,218",Siemens Totally Integrated Automation Portal V16 - WinCC Transfer Mandatory Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"20,194",HP SharePoint Plugin,HP,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"17,406",Microsoft Office Professional Plus 2010,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,325",Revit 2020,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"28,567",Sentinel System Driver Installer 7.6.1,"SafeNet, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"5,831",FileZilla Client 3.49.1,Tim Kosse,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,253",Siemens Totally Integrated Automation Portal V18 - STEP 7 Safety Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"36,371",VLC media player 2.0.5,VideoLAN,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"18,685",Fingerprint Reader Driver 5.0.0.22,ZKTeco Inc.,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"22,991",Adobe WinSoft Linguistics Plugin,Adobe Systems Incorporated,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,373",Siemens Totally Integrated Automation Portal V16 - WinCC Single SetupPackage 32 Bit V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,237",Siemens Totally Integrated Automation Portal V18 - STEP 7 Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"3,458",CX-Server Driver Mgt Tool,Omron,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,280",CX-Server Generic FINS Ethernet Driver,Omron Electronics Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,498",ZWCAD 2025 Language Pack - English,ZWSOFT,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"5,402",Android Studio,Google LLC,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"17,656",Microsoft Office Professional Plus 2013,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"9,401",Phone Nokia USB Driver,Mobile,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"8,962",Microsoft Office Professional Plus 2019 - en-us,Microsoft Corporation,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,688",Drive Composer pro Installer,ABB,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"4,456",Siemens Totally Integrated Automation Portal V15.1 - Openness SetupPackage  V15.1,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,990",Microsoft Visual J# 2.0 Redistributable Package,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,268",Siemens Totally Integrated Automation Portal V18 - Multiuser Client Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"9,108",AutoCAD Electrical 2019 - English,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"7,865",Wireshark 3.4.3 64-bit,"The Wireshark developer community, https://www.wireshark.org",,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,468",Siemens  Totally Integrated Automation Portal V15 - WinCC Transfer Current CAP Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"33,062",CCXP_7_4_0_32,Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,375",Siemens Totally Integrated Automation Portal V15.1 - STEP 7 Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,049",CPUID CPU-Z 2.03,"CPUID, Inc.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"7,218",ACS Unified PC/SC Driver 4.3.0.0,Advanced Card Systems Ltd.,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"19,251",Corel Graphics - Windows Shell Extension 32 Bit,Corel Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"36,367",VLC media player,VideoLAN,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,494",Siemens  Totally Integrated Automation Portal V15 - WinCC Single SetupPackage 32 Bit  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"24,340",STAAD.Pro 2025,"Bentley Systems, Inc.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,460",Siemens  Totally Integrated Automation Portal V15 - Multiuser Client Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,116",Siemens Totally Integrated Automation Portal V13 - HM All Editions Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,360",Siemens Totally Integrated Automation Portal V15 - WinCC Single SetupPackage V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"23,280",AxisSecurity,"AxisSecurity, Inc",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,611",GDAL ECW Extension 19 (MSVC 2010 Win64),OSGeo,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"25,936",SAP GUI for Windows 7.50,SAP SE,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"17,658",Microsoft InfoPath MUI (English) 2013,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"29,226",SAP GUI for Windows 7.70,SAP SE,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"22,921",SIMATIC OPC-XML-Gateway V13.0,Siemens AG,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,825",SketchUp 2026,"Trimble, Inc.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"20,752",Siemens Totally Integrated Automation Portal V17 - WinCC Single SetupPackage 32 Bit V17.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,431",RealVNC Server 7.12.1,RealVNC,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"29,097",SAP GUI for Windows 7.20,SAP,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,924",FileZilla Client 3.45.1,Tim Kosse,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"3,512",Fingerprint Reader Driver 2.3.2,ZKSoftware,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,709",UniFi OS Server 4.3.6,Ubiquiti Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,820",Adobe AIR,Adobe Systems Incorporated,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"5,012",Fingerprint Reader Driver 2.3.3.5,ZKTeco Inc.,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"25,948",Microsoft Teams (work or school),Microsoft Platform Extensions,developer,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"37,609",Samsung USB Driver for Mobile Phones,"Samsung Electronics Co., Ltd.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"7,692",Microsoft Office Standard 2010,Microsoft Corporation,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"24,885",Wireshark 4.6.1 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"27,134",MySQL Documents 8.0,Oracle Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,453",Siemens  Totally Integrated Automation Portal V15 - Simatic Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"35,964",Microsoft Visual J# 2.0 Redistributable Package - SE (x64),Microsoft Corporation,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"18,442",Microsoft InfoPath MUI (English) 2016,Microsoft Corporation,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"34,847",SketchUp 8,Trimble Navigation Limited,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"24,736",MOTOTRBO Radio Driver,Motorola Solutions,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"22,404",RICOH Driver Utility,"Ricoh Company, Ltd.",store,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,225",Siemens Totally Integrated Automation Portal V16 - STEP 7 Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,122",Microsoft Office Professional 2021 - en-us,Microsoft Corporation,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,325",Siemens Totally Integrated Automation Portal V18 - WinCC Single SetupPackage 32 Bit V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"6,281",Autodesk Navisworks 2020 Exporters - 64 bit - English Language Pack,AUTODESK,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"18,669",Zoom Rooms,"Zoom Video Communications, Inc.",store,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"4,480",Siemens  Totally Integrated Automation Portal V15 - HM NoBasic Single SetupPackage  V15.0,Siemens AG,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"22,862",InstallWIX_{4FC79BE9-AD63-46C0-9626-E4F6BCE6A976},,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"37,309",ifm electronic VNB USB Driver,ifm electronic GmbH,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"33,826",SketchUp Import,AUTODESK,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"5,460",Revit 2019,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,304",Autodesk Civil 3D 2020,AUTODESK,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,390",Siemens Totally Integrated Automation Portal V15.1 - WinCC Transfer Current CAP Single SetupPackage V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"37,714",PuTTY release 0.77 (64-bit),Simon Tatham,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"29,335",FileZilla Client 3.58.0,Tim Kosse,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"32,918",Samsung M4370 5370 Series,"Samsung Electronics Co., Ltd.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,417","WPS Office Suite - PDF, Word, Spreadsheet, Slide View &#38; Edit",Kingsoft Office Software Corporation Limited,store,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,255",Wireshark 4.2.3 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,461",Siemens Totally Integrated Automation Portal V15.1 - WinCC Single SetupPackage 32 Bit V15.1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"29,258",CCXP_7_1_3_32,Adobe Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,054",Corel Graphics - Windows Shell Extension 32 Bit Keys,Corel Corporation,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"5,005",PuTTY release 0.70 (64-bit),Simon Tatham,,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,190",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Legacy CAP Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"9,109",AutoCAD Electrical 2019 Content Language Pack - English,AUTODESK,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,588",iMyFone D-Back 9.2.3.3,"Shenzhen iMyFone Technology Co., Ltd.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"6,328",AutoCAD 2017 VBA Enabler,AUTODESK,,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"22,508",Microsoft Teams Play Together,Microsoft Corporation,developer,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"23,260",Wireshark 4.2.5 x64,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,200",Siemens Totally Integrated Automation Portal V18 - TIACOMPCHECK Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"27,711",Wampserver64 3.3.7,Dominique Ottello alias Otomatic,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,185",Siemens Totally Integrated Automation Portal V18 - Simatic Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"28,213",PC HelpSoft Driver Updater,Avanquest,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"21,827",My Family Tree (x64),Chronoplex Software,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"26,153",iTop Easy Desktop,iTop Inc.,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,182",Wireshark 4.0.4 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"33,076",KeyboardTest V3.0,PassMark Software,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"37,516",Palworld,Pocketpair,application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,221",MediaTek Driver Package version 5.14.38.00,MediaTek.Inc.,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"35,853",Raw Image Extension,Microsoft Platform Extensions,store,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"34,330",WinPcap 4.1.3,"Riverbed Technology, Inc.",application,INCLUDE,Linear SVM,INCLUDE,CORRECT
+"21,444",Siemens Totally Integrated Automation Portal V15 - Simatic Single SetupPackage 32 Bit V15.0,Siemens AG,system_component,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"22,686",Fingerprint Reader Driver 2.3.0,ZKSoftware,application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"26,334",Silicon Laboratories CP210x VCP Drivers for Windows XP/2003 Server/Vista/7,"Silicon Laboratories, Inc.",application,EXCLUDE_CANDIDATE,Linear SVM,EXCLUDE_CANDIDATE,CORRECT
+"5,020",Wireshark 2.6.3 64-bit,"The Wireshark developer community, https://www.wireshark.org",,INCLUDE,Linear SVM,INCLUDE,CORRECT

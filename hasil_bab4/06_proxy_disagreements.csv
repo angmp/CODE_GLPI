@@ -1,0 +1,30 @@
+software_name,manufacturer,software_category,proxy_label,label_source,it_label,dictionary_rule_id,Logistic Regression,Linear SVM
+Microsoft Blend for Visual Studio 2015,Microsoft Corporation,,0,DEFAULT_INCLUDE_PROXY,,,1,1
+PuTTY release 0.70 (64-bit),Simon Tatham,,1,IT_REFERENCE,1.0,,0,0
+Nitro Pro 7,Nitro PDF Software,application,1,DICTIONARY_RULE,,220,0,1
+Windows App Runtime DDLM 2.3.1.0-x6,Microsoft Corporation,developer,1,IT_REFERENCE,1.0,,0,0
+"Adobe Acrobat 9 Pro - English, Français, Deutsch",Adobe Systems,system_component,0,IT_REFERENCE,0.0,226,1,1
+Catalyst Control Center Next Localization PL,"Advanced Micro Devices, Inc.",system_component,0,IT_REFERENCE,0.0,226,1,1
+Visual Studio Professional 2022,Microsoft Corporation,application,0,DEFAULT_INCLUDE_PROXY,,,1,1
+Express Rip CD Ripper Software,NCH Software,,1,IT_REFERENCE,1.0,,0,0
+Web Components,,application,0,DEFAULT_INCLUDE_PROXY,,,1,0
+"MEmu????????????,/MEmu{?????????%??ï¿½#???????????????????????#???????????????????????Ã???????Â«???????#??????",Microvirt Software Technology Co. Ltd.)???????????????3!??Ó?????????Ò???Ð???????)??,,1,DICTIONARY_RULE,,229,0,1
+MinIPAQ,Inor,system_component,0,IT_REFERENCE,0.0,226,1,1
+SIMATIC PH-Ready Component 2014  ,Siemens AG,,0,DEFAULT_INCLUDE_PROXY,,,1,0
+GstarCAD 2017 - English,Gstarsoft Company,application,1,IT_REFERENCE,1.0,,0,0
+NoVirusThanks Win Update Stop v1.4,NoVirusThanks Company Srl,application,1,DICTIONARY_RULE,,230,0,1
+Autodesk Navisworks Freedom 2023 - Module linguistique Français (French),AUTODESK,system_component,0,IT_REFERENCE,0.0,226,1,1
+Siemens Totally Integrated Automation Portal V15.1 - HM All Editions Single SetupPackage V15.1,Siemens AG,system_component,0,IT_REFERENCE,0.0,226,1,1
+Fingerprint Reader Driver 2.3.0,ZKSoftware,application,1,IT_REFERENCE,1.0,,0,0
+SIMATIC PH-Ready Component,Siemens AG,,0,DEFAULT_INCLUDE_PROXY,,,1,0
+Microsoft Visual Studio 2015 Preparation,Microsoft Corporation,,0,IT_REFERENCE,0.0,228,1,1
+Brother iPrint&Scan,"Brother Industries, Ltd.",application,1,IT_REFERENCE,1.0,,0,0
+LIBS_3_2_32,Adobe Inc.,application,1,IT_REFERENCE,1.0,,0,0
+Visual Studio Community 2026,Microsoft Corporation,application,0,DEFAULT_INCLUDE_PROXY,,,1,0
+Microsoft Smart Card Base Components,,,0,DEFAULT_INCLUDE_PROXY,,,1,0
+Microsoft Visual Basic 6.0 Enterprise Edition,,,1,DICTIONARY_RULE,,228,0,1
+ST-Runtime 12.1,"STEP Tools, Inc.",application,1,IT_REFERENCE,1.0,,0,0
+Visual Studio Build Tools 2017,Microsoft Corporation,application,0,DEFAULT_INCLUDE_PROXY,,,1,0
+Facebook,Instagram,store,1,IT_REFERENCE,1.0,,0,0
+Microsoft Visual Studio Express 2012 for Windows Desktop - ENU,Microsoft Corporation,application,1,DICTIONARY_RULE,,228,0,0
+Foxit Reader 7.2.8.1124,oszone.net,application,1,IT_REFERENCE,1.0,,0,0

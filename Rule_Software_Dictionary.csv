@@ -1,0 +1,68 @@
+﻿dictionary,rule_id,criteria_field,operator,pattern,action,active_in_user_paste,risiko_rule,catatan_audit,cocok_di_sampel_500,cocok_software_keep_ai,cocok_software_review_ai,cocok_software_ignore_ai
+Software,210,Software,is,PrimoPDF,Ignore import,Yes,SEDANG,Aplikasi PDF utama dapat penting untuk audit lisensi,0.0,0.0,0.0,0.0
+Software,211,Software,starting with,KB,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,231,Software,starting with,Microsoft Family,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,232,Software,contains,Update for Microsoft,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,233,Software,contains,Visual C,Ignore import,Yes,TINGGI,Visual C/VC runtime sering dibutuhkan; jangan anggap semua irrelevant,0.0,0.0,0.0,0.0
+Software,234,Software,contains,Officejet,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,235,Software,contains,skype,Ignore import,Yes,TINGGI,Skype produk aplikasi komunikasi; perlu diputuskan IT,0.0,0.0,0.0,0.0
+Software,236,Software,contains,nvidia,Ignore import,Yes,TINGGI,NVIDIA bisa tool/driver/produk beragam,0.0,0.0,0.0,0.0
+Software,237,Software,contains,java,Ignore import,Yes,TINGGI,Java bisa aplikasi atau runtime/komponen; butuh pengecualian spesifik,0.0,0.0,0.0,0.0
+Software,238,Software,contains,intel,Ignore import,Yes,TINGGI,Nama dengan intel bisa mencakup produk/driver beragam,0.0,0.0,0.0,0.0
+Software,215,Software,is,Game Bar,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,241,Software,contains,.net,Ignore import,Yes,TINGGI,.net dapat bermakna platform yang perlu dilacak,0.0,0.0,0.0,0.0
+Software,216,Software,is,Xbox Game Bar,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,217,Software,is,Nitro Pdf Pro,Ignore import,Yes,SEDANG,PDF editor bisa memerlukan inventaris lisensi,0.0,0.0,0.0,0.0
+Software,219,Software,is,iLovePDF,Ignore import,Yes,SEDANG,PDF editor bisa memerlukan inventaris lisensi,0.0,0.0,0.0,0.0
+Software,220,Software,is,Nitro Pro 7,Ignore import,Yes,SEDANG,Nitro PDF perlu tetap dapat diaudit,0.0,0.0,0.0,0.0
+Software,221,Software,is,Nitro Pro 9,Ignore import,Yes,SEDANG,Nitro PDF perlu tetap dapat diaudit,0.0,0.0,0.0,0.0
+Software,223,Software,is,Nitro Pro 10,Ignore import,Yes,SEDANG,Nitro PDF perlu tetap dapat diaudit,0.0,0.0,0.0,0.0
+Software,224,Software,is,Print to PDF,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,225,Software,is,Nitro Pro,Ignore import,Yes,SEDANG,Nitro PDF perlu tetap dapat diaudit,0.0,0.0,0.0,0.0
+Software,226,Category from inventory tool,contains,system_component,Ignore import,Yes,TINGGI,system_component sebagai kategori tunggal tidak cukup untuk mengecualikan semua entri,96.0,5.0,58.0,33.0
+Software,227,Software,contains,Xbox,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,222,Software,regular expression matches,.*,Software Assign,TESTOK/unclear,TINGGI,Regex .* dapat cocok ke semua software jika aktif; aksi Assign/urutan harus diuji,0.0,0.0,0.0,0.0
+Software,228,Software,contains,Microsoft Visual,Ignore import,Yes,TINGGI,Nama Microsoft Visual dapat meliputi produk developer penting,13.0,2.0,8.0,3.0
+Software,229,Software,contains,?????,Ignore import,Yes,SEDANG,"????? ambiguous criterion, perlu verifikasi cara matching",0.0,0.0,0.0,0.0
+Software,230,Software,contains,update,Ignore import,Yes,TINGGI,"Update terlalu umum, berisiko salah memblokir produk dengan kata update",4.0,0.0,2.0,2.0
+Software,246,Software,contains,firefox,Ignore import,Yes,TINGGI,Firefox tercantum SOP; browser utama,0.0,0.0,0.0,0.0
+Software,239,Software,contains,canon,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,240,Software,contains,windows hello,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,242,Software,contains,windows search,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,243,Software,contains,epson,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,244,Software,contains,windows driver,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,245,Software,contains,laserjet,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,247,Software,contains,windowsworkload,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,248,Software,contains,asus,Ignore import,Yes,SEDANG,ASUS dapat mencakup utilitas perangkat/dukungan,0.0,0.0,0.0,0.0
+Software,256,Software,starting with,intel,Ignore import,Yes,TINGGI,Publisher Intel tidak ditarget; nama diawali intel bisa produk beragam,0.0,0.0,0.0,0.0
+Software,257,Software,contains,opera,Ignore import,Yes,SEDANG,"Opera browser alternatif; penanganan harus kebijakan, bukan kebetulan nama",0.0,0.0,0.0,0.0
+Software,258,Software,starting with,ivms,Ignore import,Yes,SEDANG,iVMS bisa aplikasi CCTV bisnis,0.0,0.0,0.0,0.0
+Software,259,Publisher,starting with,Fuji,Ignore import,Yes,TINGGI,Publisher Fuji terlalu luas,0.0,0.0,0.0,0.0
+Software,260,Software,contains,chrome,Ignore import,Yes,TINGGI,Chrome tercantum SOP; browser utama,0.0,0.0,0.0,0.0
+Software,261,Publisher,starting with,realtek,Ignore import,Yes,TINGGI,Publisher Realtek terlalu luas,0.0,0.0,0.0,0.0
+Software,262,Publisher,starting with,Qualcomm,Ignore import,Yes,TINGGI,Publisher Qualcomm terlalu luas,0.0,0.0,0.0,0.0
+Software,263,Software,contains,windowsApp,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,264,Software,starting with,microsoft edge,Ignore import,Yes,TINGGI,Microsoft Edge tercantum SOP; browser utama,0.0,0.0,0.0,0.0
+Software,265,Software,contains,bluetooth,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,266,Software,contains,cortana,Ignore import,Yes,SEDANG,Cortana perlu definisi tujuan daftar utama,0.0,0.0,0.0,0.0
+Software,267,Software,contains,dropbox,Ignore import,Yes,SEDANG,Dropbox aplikasi mandiri; perlu audit data/perizinan,0.0,0.0,0.0,0.0
+Software,269,Software,contains,hotfix for microsoft,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,270,Software,contains,desktop app,Ignore import,Yes,SEDANG,desktop app terlalu luas,0.0,0.0,0.0,0.0
+Software,271,Software,contains,microsoft messaging,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,272,Software,contains,gom player,Ignore import,Yes,SEDANG,Media player aplikasi mandiri; jangan samakan dengan driver,0.0,0.0,0.0,0.0
+Software,273,Software,contains,update for windows,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,274,Software,contains,windows software,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,275,Publisher,contains,ubuntu,Ignore import,Yes,TINGGI,Publisher ubuntu terlalu luas,0.0,0.0,0.0,0.0
+Software,276,Software,contains,calculator,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,277,Software,contains,bing,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,278,Software,contains,CCC,Ignore import,Yes,SEDANG,CCC terlalu ambigu tanpa konteks,0.0,0.0,0.0,0.0
+Software,279,Software,contains,music,Ignore import,Yes,SEDANG,music terlalu luas,0.0,0.0,0.0,0.0
+Software,280,Publisher,contains,HP Inc,Ignore import,Yes,TINGGI,Publisher HP Inc terlalu luas,0.0,0.0,0.0,0.0
+Software,281,Software,contains,solitaire,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,284,Software,contains,microsoft UI,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,285,Software,contains,3d builder,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,286,Software,contains,WinApp,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,287,Software,contains,narrator,Ignore import,Yes,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,291,Software,contains,winrar,Ignore import,Yes,SEDANG,WinRAR aplikasi terinstal perlu visibilitas lisensi,0.0,0.0,0.0,0.0
+Software,363,Software,unknown,,Unspecified,blank/unclear,PERLU UJI,Periksa bahwa pattern hanya menarget entri teknis yang memang disetujui untuk pengecualian.,0.0,0.0,0.0,0.0
+Software,364,Software,contains,office 2013,Ignore import,Yes,TINGGI,"Dapat mengecualikan Office 2013, yang penting untuk profiling usia/lisensi",0.0,0.0,0.0,0.0

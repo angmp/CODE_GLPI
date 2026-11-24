@@ -1,0 +1,401 @@
+﻿software_id,software_name,manufacturer,software_category,entity_id,label,name_clean,label_final,family_group
+"8,429",SIMATIC WinCC/WebNavigator Plug-In Builder,Siemens AG,,0,EXCLUDE_CANDIDATE,simatic wincc/webnavigator plug-in builder,EXCLUDE_CANDIDATE,simatic wincc webnavigator
+"29,088",RealVNC Server 7.10.0,RealVNC,application,0,INCLUDE,realvnc server 7.10.0,INCLUDE,realvnc server
+"33,441",PDFsam Enhanced 7,Sober Lemur S.a.s. di Vacondio Andrea,application,0,INCLUDE,pdfsam enhanced 7,INCLUDE,pdfsam enhanced
+"5,929",Revit 2018,AUTODESK,,0,INCLUDE,revit 2018,INCLUDE,revit
+"27,366",TeraCopy 2.3,Code Sector,application,0,INCLUDE,teracopy 2.3,INCLUDE,teracopy
+"4,442",Siemens Totally Integrated Automation Portal V15.1 - TIACOMPCHECK Single SetupPackage  V15.1,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - tiacompcheck single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"3,441",Macromedia Flash Player 8 Plugin,Macromedia,,0,EXCLUDE_CANDIDATE,macromedia flash player 8 plugin,EXCLUDE_CANDIDATE,macromedia flash player
+"20,729",Siemens Totally Integrated Automation Portal V17 - STEP 7 Safety Single SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - step 7 safety single setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,217",Siemens Totally Integrated Automation Portal V18 - TIA Portal Security Audit Log Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - tia portal security audit log single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"21,422",Siemens Totally Integrated Automation Portal V15,Siemens AG,application,0,INCLUDE,siemens totally integrated automation portal v15,INCLUDE,siemens totally integrated
+"20,728",Siemens Totally Integrated Automation Portal V17 - WinCC Single SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - wincc single setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"36,290","WPS Office Suite - PDF, Word, Spreadsheet, Slide View & Edit",Kingsoft Office Software Corporation Limited,store,0,INCLUDE,"wps office suite - pdf, word, spreadsheet, slide view & edit",INCLUDE,wps office suite
+"20,721",Siemens Totally Integrated Automation Portal V17 - WinCC Transfer Mandatory Single SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - wincc transfer mandatory single setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"25,255",Image Generation Extension,Microsoft Corporation,system,0,EXCLUDE_CANDIDATE,image generation extension,EXCLUDE_CANDIDATE,image generation extension
+"36,007",Service Pack 1 for SQL Server 2008 (KB968369) (64-bit),Microsoft Corporation,application,0,EXCLUDE_CANDIDATE,service pack 1 for sql server 2008 (kb968369) (64-bit),EXCLUDE_CANDIDATE,service pack sql
+"37,550",Adobe Acrobat Reader DC,Adobe Systems Incorporated,application,0,INCLUDE,adobe acrobat reader dc,INCLUDE,adobe acrobat reader
+"28,023",Microsoft Advertising Service Extension for Visual Studio,Microsoft Corporation,system_component,0,EXCLUDE_CANDIDATE,microsoft advertising service extension for visual studio,EXCLUDE_CANDIDATE,microsoft advertising service
+"37,885",Wireshark 4.6.8 x64,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.6.8 x64,INCLUDE,wireshark
+"22,969",GstarCAD 2018 - English,Gstarsoft Company,application,0,INCLUDE,gstarcad 2018 - english,INCLUDE,gstarcad english
+"8,582",Sentinel System Driver Installer 7.5.8,"SafeNet, Inc.",,0,EXCLUDE_CANDIDATE,sentinel system driver installer 7.5.8,EXCLUDE_CANDIDATE,sentinel system driver
+"26,331",Siemens Totally Integrated Automation Portal V16 - Simatic Single SetupPackage 32 Bit V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - simatic single setuppackage 32 bit v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"29,196",Microsoft Office Professional Plus 2007,Microsoft Corporation,application,0,INCLUDE,microsoft office professional plus 2007,INCLUDE,microsoft office professional
+"26,874",Microsoft Office Professional Plus 2019 - id-id,Microsoft Corporation,application,0,INCLUDE,microsoft office professional plus 2019 - id-id,INCLUDE,microsoft office professional
+"5,306",Adobe Premiere Pro CS6,Adobe Systems Incorporated,,0,INCLUDE,adobe premiere pro cs6,INCLUDE,adobe premiere pro
+"21,265",Platinum Hide IP,,application,0,INCLUDE,platinum hide ip,INCLUDE,platinum hide ip
+"33,059",RealVNC Server 7.16.0,RealVNC,application,0,INCLUDE,realvnc server 7.16.0,INCLUDE,realvnc server
+"26,236",Siemens Totally Integrated Automation Portal V16 - TIACOMPCHECK Single SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - tiacompcheck single setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"25,655",Microsoft Office Standard 2016,Microsoft Corporation,application,0,INCLUDE,microsoft office standard 2016,INCLUDE,microsoft office standard
+"33,539",Siemens Totally Integrated Automation Portal V13 - TIACOMPCHECK Single SetupPackage V13.0 + SP2,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v13 - tiacompcheck single setuppackage v13.0 + sp2,EXCLUDE_CANDIDATE,siemens totally integrated
+"36,780",TUSB3410 Driver 6.7.4.0,"Texas Instruments, Inc.",application,0,EXCLUDE_CANDIDATE,tusb3410 driver 6.7.4.0,EXCLUDE_CANDIDATE,tusb driver
+"20,740",Siemens Totally Integrated Automation Portal V17 - Simatic Single SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - simatic single setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"9,103",Autodesk AutoCAD Electrical 2019 - English,AUTODESK,,0,INCLUDE,autodesk autocad electrical 2019 - english,INCLUDE,autodesk autocad electrical
+"22,763",HP SFTP Plugin,HP,application,0,EXCLUDE_CANDIDATE,hp sftp plugin,EXCLUDE_CANDIDATE,hp sftp plugin
+"3,404",CX-Server Driver Management Tool,Omron,,0,EXCLUDE_CANDIDATE,cx-server driver management tool,EXCLUDE_CANDIDATE,cx server driver
+"26,179",HOBOware 3.7.25,Onset Computer Corporation,application,0,INCLUDE,hoboware 3.7.25,INCLUDE,hoboware
+"29,457",TeraCopy version 3.26,Code Sector,application,0,INCLUDE,teracopy version 3.26,INCLUDE,teracopy
+"20,758",SIMATIC ProSave V17.0,Siemens AG,application,0,INCLUDE,simatic prosave v17.0,INCLUDE,simatic prosave
+"18,429",Microsoft Office Professional Plus 2016,Microsoft Corporation,application,0,INCLUDE,microsoft office professional plus 2016,INCLUDE,microsoft office professional
+"21,822",CCXP_3_0_1_1_32,Adobe Systems Incorporated,application,0,INCLUDE,ccxp_3_0_1_1_32,INCLUDE,ccxp
+"36,704",PuTTY release 0.84 (64-bit),Simon Tatham,application,0,INCLUDE,putty release 0.84 (64-bit),INCLUDE,putty release
+"22,554",Dolby Digital Plus Home Theater,Dolby Laboratories Inc,application,0,INCLUDE,dolby digital plus home theater,INCLUDE,dolby digital plus
+"29,047",LogPlot 7,"RockWare, Inc.",application,0,INCLUDE,logplot 7,INCLUDE,logplot
+"3,120",Microsoft Lync Web App Plug-in,Microsoft Corporation,,0,EXCLUDE_CANDIDATE,microsoft lync web app plug-in,EXCLUDE_CANDIDATE,microsoft lync web
+"28,312",QGIS 3.28.13 'Firenze',QGIS.org,application,0,INCLUDE,qgis 3.28.13 'firenze',INCLUDE,qgis firenze
+"22,521",DolbyGUI,Conexant Systems,application,0,INCLUDE,dolbygui,INCLUDE,dolbygui
+"29,056",DaVinci Resolve Control Panels,Blackmagic Design,application,0,INCLUDE,davinci resolve control panels,INCLUDE,davinci resolve control
+"5,433",Quest Installer,,,0,EXCLUDE_CANDIDATE,quest installer,EXCLUDE_CANDIDATE,quest installer
+"5,569",Microsoft Office Professional Plus 2016 - en-us,Microsoft Corporation,,0,INCLUDE,microsoft office professional plus 2016 - en-us,INCLUDE,microsoft office professional
+"21,366",Siemens Totally Integrated Automation Portal V15 - Openness SetupPackage V15.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - openness setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"22,947",CCleaner,Piriform Ltd.,application,0,INCLUDE,ccleaner,INCLUDE,ccleaner
+"27,554",PuTTY release 0.83,Simon Tatham,application,0,INCLUDE,putty release 0.83,INCLUDE,putty release
+"16,997",HP Google Drive Plugin,HP,application,0,EXCLUDE_CANDIDATE,hp google drive plugin,EXCLUDE_CANDIDATE,hp google drive
+"3,567",AMD Steady Video Plug-In ,AMD,,0,EXCLUDE_CANDIDATE,amd steady video plug-in,EXCLUDE_CANDIDATE,amd steady video
+"20,698",HP Wireless Button Driver,HP,application,0,EXCLUDE_CANDIDATE,hp wireless button driver,EXCLUDE_CANDIDATE,hp wireless button
+"35,862",Service Pack 1 for SQL Server 2014 (KB3058865) (64-bit),Microsoft Corporation,application,0,EXCLUDE_CANDIDATE,service pack 1 for sql server 2014 (kb3058865) (64-bit),EXCLUDE_CANDIDATE,service pack sql
+"20,709",Siemens Totally Integrated Automation Portal V17 - STEP 7 Single SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - step 7 single setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"5,144",Autodesk AutoCAD 2018.0.2,AUTODESK,,0,INCLUDE,autodesk autocad 2018.0.2,INCLUDE,autodesk autocad
+"22,923",SIMATIC S7-PCT V3.4 + HF2 Professional 2017,Siemens AG,application,0,INCLUDE,simatic s7-pct v3.4 + hf2 professional 2017,INCLUDE,simatic pct hf
+"23,104",Siemens Totally Integrated Automation Portal V13 - STEP 7 Single SetupPackage V13.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v13 - step 7 single setuppackage v13.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"6,789",Adobe Extension Manager CS3,Adobe Systems Incorporated,,0,EXCLUDE_CANDIDATE,adobe extension manager cs3,EXCLUDE_CANDIDATE,adobe extension manager
+"24,753",Adobe Premiere Pro 2022,Adobe Inc.,application,0,INCLUDE,adobe premiere pro 2022,INCLUDE,adobe premiere pro
+"26,587",Wireshark 4.6.2 x64,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.6.2 x64,INCLUDE,wireshark
+"37,856",CCXP_7_13_0_32,Adobe Inc.,application,0,INCLUDE,ccxp_7_13_0_32,INCLUDE,ccxp
+"28,266",CCXP_7_2_2_32,Adobe Inc.,application,0,INCLUDE,ccxp_7_2_2_32,INCLUDE,ccxp
+"24,828",MySQL Installer,Oracle Corporation,application,0,EXCLUDE_CANDIDATE,mysql installer,EXCLUDE_CANDIDATE,mysql installer
+"23,294",Dell SupportAssist OS Recovery Plugin for Dell Update,Dell Inc.,application,0,EXCLUDE_CANDIDATE,dell supportassist os recovery plugin for dell update,EXCLUDE_CANDIDATE,dell supportassist os
+"25,453",Firebird ODBC driver 2.0.5.156,Firebird Project,application,0,EXCLUDE_CANDIDATE,firebird odbc driver 2.0.5.156,EXCLUDE_CANDIDATE,firebird odbc driver
+"22,702",USB Driver (Recorder / Controller Devices) v3.0.0.3,OEM,application,0,EXCLUDE_CANDIDATE,usb driver (recorder / controller devices) v3.0.0.3,EXCLUDE_CANDIDATE,usb driver recorder
+"23,132",AMD MicroPEP Driver,"Advanced Micro Devices, Inc.",system_component,0,EXCLUDE_CANDIDATE,amd micropep driver,EXCLUDE_CANDIDATE,amd micropep driver
+"20,053",Nuance PaperPort 12,"Nuance Communications, Inc.",application,0,INCLUDE,nuance paperport 12,INCLUDE,nuance paperport
+"26,339",Silicon Laboratories CP210x VCP Drivers for Windows XP/2003 Server/Vista/7_2 (c:\SiLabs\MCU\CP210x\Windows_XP_S2K3_Vista_7_2),"Silicon Laboratories, Inc.",application,0,EXCLUDE_CANDIDATE,silicon laboratories cp210x vcp drivers for windows xp/2003 server/vista/7_2 (c:\silabs\mcu\cp210x\windows_xp_s2k3_vista_7_2),EXCLUDE_CANDIDATE,silicon laboratories cp
+"23,079",Siemens Totally Integrated Automation Portal V14 - Simatic Single SetupPackage V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - simatic single setuppackage v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"35,863",Proficy Driver Server,"GE Intelligent Platforms, Inc.",application,0,EXCLUDE_CANDIDATE,proficy driver server,EXCLUDE_CANDIDATE,proficy driver server
+"29,245",SPDS Extension for AutoCAD® 2021,"Autodesk, Inc.",application,0,EXCLUDE_CANDIDATE,spds extension for autocad 2021,EXCLUDE_CANDIDATE,spds extension autocad
+"21,399",Siemens Totally Integrated Automation Portal V15.1 - WinCC Transfer Current All Single SetupPackage V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - wincc transfer current all single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"9,179",QGIS 3.22.2 'Bialowieza',QGIS.org,,0,INCLUDE,qgis 3.22.2 'bialowieza',INCLUDE,qgis bialowieza
+"6,392",HASP HL Device Driver,,,0,EXCLUDE_CANDIDATE,hasp hl device driver,EXCLUDE_CANDIDATE,hasp hl device
+"19,982",Outbyte Driver Updater,Outbyte Computing Pty Ltd,application,0,EXCLUDE_CANDIDATE,outbyte driver updater,EXCLUDE_CANDIDATE,outbyte driver updater
+"37,245",Tailscale,Tailscale Inc.,application,0,INCLUDE,tailscale,INCLUDE,tailscale
+"22,422",Adobe Photoshop (Beta),Adobe Inc.,application,0,INCLUDE,adobe photoshop (beta),INCLUDE,adobe photoshop beta
+"4,435",Siemens  Totally Integrated Automation Portal V15 - TIACOMPCHECK Single SetupPackage  V15.0,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - tiacompcheck single setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"22,306",CCXP_4_15_12_32,Adobe Inc.,application,0,INCLUDE,ccxp_4_15_12_32,INCLUDE,ccxp
+"4,642",Microsoft Power BI Desktop (x64),Microsoft Corporation,,0,INCLUDE,microsoft power bi desktop (x64),INCLUDE,microsoft power bi
+"36,748",Vault of the Void,Spider Nest Games,application,0,INCLUDE,vault of the void,INCLUDE,vault void
+"23,234",Free Video Encryptor 2.0.0,Gilisoft International LLC.,application,0,INCLUDE,free video encryptor 2.0.0,INCLUDE,free video encryptor
+"4,534",Automation Software Updater,Siemens AG,,0,EXCLUDE_CANDIDATE,automation software updater,EXCLUDE_CANDIDATE,automation software updater
+"18,811",TreeSize Free V4.3.1,JAM Software,application,0,INCLUDE,treesize free v4.3.1,INCLUDE,treesize free
+"34,675",HaiwellHappy V2.2.13,"Xiamen Haiwell Software Co.,Ltd.",application,0,INCLUDE,haiwellhappy v2.2.13,INCLUDE,haiwellhappy
+"4,448",Siemens Totally Integrated Automation Portal V15.1 - HM NoBasic Single SetupPackage  V15.1,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - hm nobasic single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"27,422",Adobe Extension Manager CC,Adobe Systems Incorporated,application,0,EXCLUDE_CANDIDATE,adobe extension manager cc,EXCLUDE_CANDIDATE,adobe extension manager
+"17,408",SAP GUI for Windows 7.30,SAP,application,0,INCLUDE,sap gui for windows 7.30,INCLUDE,sap gui windows
+"37,843",Adobe Premiere Pro 2026,Adobe Inc.,application,0,INCLUDE,adobe premiere pro 2026,INCLUDE,adobe premiere pro
+"9,125",Adobe Premiere Pro CC 2019,Adobe Inc.,,0,INCLUDE,adobe premiere pro cc 2019,INCLUDE,adobe premiere pro
+"21,977",ALchemy,Creative Technology Limited,application,0,INCLUDE,alchemy,INCLUDE,alchemy
+"20,856",RAM Elements CONNECT Edition V16 Update 6 Spanish-Language Pack,"Bentley Systems, Incorporated",system_component,0,EXCLUDE_CANDIDATE,ram elements connect edition v16 update 6 spanish-language pack,EXCLUDE_CANDIDATE,ram elements connect
+"24,829",MySQL Documents,Oracle Corporation,application,0,INCLUDE,mysql documents,INCLUDE,mysql documents
+"23,737",Spotify ADS Remover version v1.1.79.763,Spotify,application,0,INCLUDE,spotify ads remover version v1.1.79.763,INCLUDE,spotify ads remover
+"17,902",Universal CRT Redistributable,Microsoft Corporation,system_component,0,EXCLUDE_CANDIDATE,universal crt redistributable,EXCLUDE_CANDIDATE,universal crt redistributable
+"6,314",AutoCAD Architecture 2020 Language Shared - English,AUTODESK,,0,INCLUDE,autocad architecture 2020 language shared - english,INCLUDE,autocad architecture language
+"21,853",Microsoft Office Standard 2016 - en-us,Microsoft Corporation,application,0,INCLUDE,microsoft office standard 2016 - en-us,INCLUDE,microsoft office standard
+"18,534",Corel Graphics - Windows Shell Extension,Corel Corporation,application,0,EXCLUDE_CANDIDATE,corel graphics - windows shell extension,EXCLUDE_CANDIDATE,corel graphics windows
+"37,715",Wireshark 3.6.7 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 3.6.7 64-bit,INCLUDE,wireshark
+"6,272",Autodesk AutoCAD 2017 Hotfix 2,AUTODESK,,0,EXCLUDE_CANDIDATE,autodesk autocad 2017 hotfix 2,EXCLUDE_CANDIDATE,autodesk autocad hotfix
+"6,273",Autodesk AutoCAD 2017 Hotfix 3,AUTODESK,,0,EXCLUDE_CANDIDATE,autodesk autocad 2017 hotfix 3,EXCLUDE_CANDIDATE,autodesk autocad hotfix
+"21,646",CORE_1_0_32,Adobe Systems Incorporated,application,0,INCLUDE,core_1_0_32,INCLUDE,core
+"32,936",Oracle VirtualBox 7.2.6,Oracle and/or its affiliates,application,0,INCLUDE,oracle virtualbox 7.2.6,INCLUDE,oracle virtualbox
+"23,168",Wireshark 4.0.10 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.0.10 64-bit,INCLUDE,wireshark
+"17,422",Microsoft Office Outlook MUI (English) 2010,Microsoft Corporation,system_component,0,EXCLUDE_CANDIDATE,microsoft office outlook mui (english) 2010,EXCLUDE_CANDIDATE,microsoft office outlook
+"27,936",pgJDBC 42.7.2,EnterpriseDB,application,0,INCLUDE,pgjdbc 42.7.2,INCLUDE,pgjdbc
+"20,739",Siemens Totally Integrated Automation Portal V17 - TIACOMPCHECK Single SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - tiacompcheck single setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"18,022",Adobe Common File Installer,Adobe System Incorporated,system_component,0,EXCLUDE_CANDIDATE,adobe common file installer,EXCLUDE_CANDIDATE,adobe common file
+"21,256",Handset WinDriver 1.02.03.00,"Huawei technologies Co., Ltd.",application,0,INCLUDE,handset windriver 1.02.03.00,INCLUDE,handset windriver
+"20,710",Siemens Totally Integrated Automation Portal V17 - HM NoBasic Single SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - hm nobasic single setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"24,108",PuTTY release 0.83 (64-bit),Simon Tatham,application,0,INCLUDE,putty release 0.83 (64-bit),INCLUDE,putty release
+"4,611",Microsoft Office Professional 2010,Microsoft Corporation,,0,INCLUDE,microsoft office professional 2010,INCLUDE,microsoft office professional
+"24,915",draw.io 29.0.3,JGraph,application,0,INCLUDE,draw.io 29.0.3,INCLUDE,draw io
+"25,716",Microsoft PowerPoint MUI (English) 2016,Microsoft Corporation,system_component,0,EXCLUDE_CANDIDATE,microsoft powerpoint mui (english) 2016,EXCLUDE_CANDIDATE,microsoft powerpoint mui
+"9,277",Microsoft VCLibs 140 00 UWPDesktop,Microsoft Research,,0,EXCLUDE_CANDIDATE,microsoft vclibs 140 00 uwpdesktop,EXCLUDE_CANDIDATE,microsoft vclibs uwpdesktop
+"28,674",STEP 7-Micro/WIN SMART V2.5,Siemens,application,0,INCLUDE,step 7-micro/win smart v2.5,INCLUDE,step micro win
+"26,319",Siemens Totally Integrated Automation Portal V18 - Simatic Single SetupPackage 32 Bit V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - simatic single setuppackage 32 bit v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,118",SAP GUI for Windows 7.40,SAP,application,0,INCLUDE,sap gui for windows 7.40,INCLUDE,sap gui windows
+"23,117",Siemens Totally Integrated Automation Portal V14 - Simatic Single SetupPackage 32 Bit V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - simatic single setuppackage 32 bit v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"23,698",IObit Uninstaller 14.2.0.2,IObit,application,0,INCLUDE,iobit uninstaller 14.2.0.2,INCLUDE,iobit uninstaller
+"26,266",Siemens Totally Integrated Automation Portal V16 - STEP 7 Safety Single SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - step 7 safety single setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"6,643",AutoCAD Architecture 2019 Language Shared - English,AUTODESK,,0,INCLUDE,autocad architecture 2019 language shared - english,INCLUDE,autocad architecture language
+"21,397",Siemens Totally Integrated Automation Portal V15.1 - HM All Editions Single SetupPackage V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - hm all editions single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"8,179",FileZilla Client 3.53.1,Tim Kosse,,0,INCLUDE,filezilla client 3.53.1,INCLUDE,filezilla client
+"25,830",Microsoft Office Professional 2016 - en-us,Microsoft Corporation,application,0,INCLUDE,microsoft office professional 2016 - en-us,INCLUDE,microsoft office professional
+"26,192",Siemens Totally Integrated Automation Portal V16 - Openness SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - openness setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,234",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Legacy CAP 2 Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - wincc transfer legacy cap 2 single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"20,730",Siemens Totally Integrated Automation Portal V17 - Openness SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - openness setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"36,964",Wireshark 4.6.7 x64,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.6.7 x64,INCLUDE,wireshark
+"37,279",POS Series Printer Driver version 11.3.0.1,,application,0,EXCLUDE_CANDIDATE,pos series printer driver version 11.3.0.1,EXCLUDE_CANDIDATE,pos series printer
+"23,078",Siemens Totally Integrated Automation Portal V14 - STEP 7 Single SetupPackage V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - step 7 single setuppackage v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"23,126",Siemens Totally Integrated Automation Portal V14 - WinCC Single SetupPackage 32 Bit V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - wincc single setuppackage 32 bit v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"27,390",Adobe Audition CC 2017,Adobe Systems Incorporated,application,0,INCLUDE,adobe audition cc 2017,INCLUDE,adobe audition cc
+"25,541",Silicon Laboratories CP210x USB to UART Bridge (Driver Removal),,application,0,EXCLUDE_CANDIDATE,silicon laboratories cp210x usb to uart bridge (driver removal),EXCLUDE_CANDIDATE,silicon laboratories cp
+"23,127",Siemens Totally Integrated Automation Portal V13 - HM NoBasic Single SetupPackage V13.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v13 - hm nobasic single setuppackage v13.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,219",Siemens Totally Integrated Automation Portal V16 - HM All Editions Single SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - hm all editions single setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"23,188",AutoCAD - DWG Viewer and Editor,AUTODESK,store,0,INCLUDE,autocad - dwg viewer and editor,INCLUDE,autocad dwg viewer
+"20,241",IBM Forms Viewer 8.2.0,IBM,application,0,INCLUDE,ibm forms viewer 8.2.0,INCLUDE,ibm forms viewer
+"23,072",Siemens Totally Integrated Automation Portal V14 - Multiuser Client Single SetupPackage V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - multiuser client single setuppackage v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"36,375",VLC media player 2.1.3,VideoLAN,application,0,INCLUDE,vlc media player 2.1.3,INCLUDE,vlc media player
+"17,331",Lenovo Welcome,Lenovo Group Ltd.,application,0,INCLUDE,lenovo welcome,INCLUDE,lenovo welcome
+"21,473",Siemens Totally Integrated Automation Portal V15.1 - Simatic Single SetupPackage 32 Bit V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - simatic single setuppackage 32 bit v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"27,512",Silicon Laboratories CP210x VCP Drivers for Windows 7,"Silicon Laboratories, Inc.",application,0,EXCLUDE_CANDIDATE,silicon laboratories cp210x vcp drivers for windows 7,EXCLUDE_CANDIDATE,silicon laboratories cp
+"26,549",PuTTY release 0.76 (64-bit),Simon Tatham,application,0,INCLUDE,putty release 0.76 (64-bit),INCLUDE,putty release
+"26,658",NORDCON 3.0.2,Getriebebau Nord GmbH &#38; Co. KG,application,0,INCLUDE,nordcon 3.0.2,INCLUDE,nordcon
+"26,728",Microsoft Office Standard 2019 - ko-kr,Microsoft Corporation,application,0,INCLUDE,microsoft office standard 2019 - ko-kr,INCLUDE,microsoft office standard
+"7,424",SOLIDWORKS 2019 SP04,SolidWorks Corporation,,0,INCLUDE,solidworks 2019 sp04,INCLUDE,solidworks sp
+"8,668",TeamViewer: Remote Control,TeamViewer,,0,INCLUDE,teamviewer: remote control,INCLUDE,teamviewer remote control
+"26,168",ZWCAD 2023 Language Pack - English,ZWSOFT,system_component,0,EXCLUDE_CANDIDATE,zwcad 2023 language pack - english,EXCLUDE_CANDIDATE,zwcad language pack
+"26,133",HGx Templates,RAP Systems,application,0,INCLUDE,hgx templates,INCLUDE,hgx templates
+"33,119",FileZilla Client 3.38.1,Tim Kosse,application,0,INCLUDE,filezilla client 3.38.1,INCLUDE,filezilla client
+"26,678",PSTX USB Driver,ABB,application,0,EXCLUDE_CANDIDATE,pstx usb driver,EXCLUDE_CANDIDATE,pstx usb driver
+"23,109",Siemens Totally Integrated Automation Portal V13 - WinCC Single SetupPackage V13.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v13 - wincc single setuppackage v13.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"21,818",DjVu Shell Extension Pack,Cuminas Corporation,application,0,EXCLUDE_CANDIDATE,djvu shell extension pack,EXCLUDE_CANDIDATE,djvu shell extension
+"17,420",Microsoft Office PowerPoint MUI (English) 2010,Microsoft Corporation,system_component,0,EXCLUDE_CANDIDATE,microsoft office powerpoint mui (english) 2010,EXCLUDE_CANDIDATE,microsoft office powerpoint
+"37,286",QGIS 4.2.0 'Belém do Pará',QGIS.org,application,0,INCLUDE,qgis 4.2.0 'belém do pará',INCLUDE,qgis bel do
+"18,183",Microsoft Office Standard 2019 - en-us,Microsoft Corporation,application,0,INCLUDE,microsoft office standard 2019 - en-us,INCLUDE,microsoft office standard
+"4,462",Siemens Totally Integrated Automation Portal V15.1 - WinCC Single SetupPackage  V15.1,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - wincc single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"4,452",Siemens Totally Integrated Automation Portal V15.1 - Simatic Single SetupPackage  V15.1,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - simatic single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"19,608",AutoCAD - DWG Viewer &#38; Editor,AUTODESK,store,0,INCLUDE,autocad - dwg viewer &#38; editor,INCLUDE,autocad dwg viewer
+"23,804",Alcorlink PCIE Card Reader Driver,Alcorlink Corp.,application,0,EXCLUDE_CANDIDATE,alcorlink pcie card reader driver,EXCLUDE_CANDIDATE,alcorlink pcie card
+"21,354",Siemens Totally Integrated Automation Portal V15.1 - WinCC Transfer Mandatory Single SetupPackage V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - wincc transfer mandatory single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"7,639",FileZilla Client 3.50.0,Tim Kosse,,0,INCLUDE,filezilla client 3.50.0,INCLUDE,filezilla client
+"38,170",SketchUp Import 2016,AUTODESK,application,0,INCLUDE,sketchup import 2016,INCLUDE,sketchup import
+"5,143",Autodesk AutoCAD 2018.1.1,AUTODESK,,0,INCLUDE,autodesk autocad 2018.1.1,INCLUDE,autodesk autocad
+"17,895",Knowledge Xpert,Quest Software,application,0,INCLUDE,knowledge xpert,INCLUDE,knowledge xpert
+"18,978",Microsoft Visual J# 2.0 Redistributable Package - SE,Microsoft Corporation,system_component,0,EXCLUDE_CANDIDATE,microsoft visual j# 2.0 redistributable package - se,EXCLUDE_CANDIDATE,microsoft visual redistributable
+"23,251",Sniffnet,Giuliano Bellini,application,0,INCLUDE,sniffnet,INCLUDE,sniffnet
+"28,204",CCXP_4_6_3_32,Adobe Inc.,application,0,INCLUDE,ccxp_4_6_3_32,INCLUDE,ccxp
+"34,480",Sentinel System Driver Installer 7.5.1,"SafeNet, Inc.",application,0,EXCLUDE_CANDIDATE,sentinel system driver installer 7.5.1,EXCLUDE_CANDIDATE,sentinel system driver
+"25,829",PhonerLite 3.30,Heiko Sommerfeldt,application,0,INCLUDE,phonerlite 3.30,INCLUDE,phonerlite
+"17,296",Chinese Simplified Fonts Support For Adobe Reader X,Adobe Systems Incorporated,application,0,INCLUDE,chinese simplified fonts support for adobe reader x,INCLUDE,chinese simplified fonts
+"26,257",Siemens Totally Integrated Automation Portal V18 - HM All Editions Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - hm all editions single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"21,356",Siemens Totally Integrated Automation Portal V15 - WinCC Transfer Current All Single SetupPackage V15.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - wincc transfer current all single setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"20,852",iTwin Services Add-In,"Bentley Systems, Incorporated",application,0,EXCLUDE_CANDIDATE,itwin services add-in,EXCLUDE_CANDIDATE,itwin services add
+"4,432",Siemens  Totally Integrated Automation Portal V15 - HM All Editions Single SetupPackage  V15.0,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - hm all editions single setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"33,542",Siemens Totally Integrated Automation Portal V13 - Simatic Single SetupPackage V13.0 + SP2,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v13 - simatic single setuppackage v13.0 + sp2,EXCLUDE_CANDIDATE,siemens totally integrated
+"21,389",Siemens Totally Integrated Automation Portal V15 - STEP 7 Single SetupPackage V15.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - step 7 single setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"20,707",Siemens Totally Integrated Automation Portal V17 - HM All Editions Single SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - hm all editions single setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,041",Logi Download Assistant,Logitech,application,0,INCLUDE,logi download assistant,INCLUDE,logi download assistant
+"37,749",Toad for Oracle 2015 R2 Suite (x64),DELL,application,0,INCLUDE,toad for oracle 2015 r2 suite (x64),INCLUDE,toad oracle suite
+"23,082",Siemens Totally Integrated Automation Portal V14 - WinCC Transfer Current All Single SetupPackage V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - wincc transfer current all single setuppackage v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,221",Siemens Totally Integrated Automation Portal V16 - Simatic Single SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - simatic single setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"37,549",HP Notifications,HP,application,0,INCLUDE,hp notifications,INCLUDE,hp notifications
+"20,771",Siemens Totally Integrated Automation Portal V17 - Simatic Single SetupPackage 32 Bit V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - simatic single setuppackage 32 bit v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"28,940",MediaTek SP Driver version 5.23.07.02,MediaTek.Inc.,application,0,EXCLUDE_CANDIDATE,mediatek sp driver version 5.23.07.02,EXCLUDE_CANDIDATE,mediatek sp driver
+"30,273",Display Driver Uninstaller,Wagnardsoft,application,0,EXCLUDE_CANDIDATE,display driver uninstaller,EXCLUDE_CANDIDATE,display driver uninstaller
+"21,402",Siemens Totally Integrated Automation Portal V15 - WinCC Transfer Mandatory Single SetupPackage V15.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - wincc transfer mandatory single setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"32,573",Adobe Premiere Pro 2023,Adobe Inc.,application,0,INCLUDE,adobe premiere pro 2023,INCLUDE,adobe premiere pro
+"24,104",Microsoft Office Professional Plus 2024 - en-us,Microsoft Corporation,application,0,INCLUDE,microsoft office professional plus 2024 - en-us,INCLUDE,microsoft office professional
+"26,203",Siemens Totally Integrated Automation Portal V16 - Multiuser Client Single SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - multiuser client single setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"27,401",Adobe Animate CC 2017,Adobe Systems Incorporated,application,0,INCLUDE,adobe animate cc 2017,INCLUDE,adobe animate cc
+"7,392",Wireshark 3.2.7 64-bit,"The Wireshark developer community, https://www.wireshark.org",,0,INCLUDE,wireshark 3.2.7 64-bit,INCLUDE,wireshark
+"33,812",SketchUp 2024,"Trimble, Inc.",application,0,INCLUDE,sketchup 2024,INCLUDE,sketchup
+"23,258",PuTTY release 0.81 (64-bit),Simon Tatham,application,0,INCLUDE,putty release 0.81 (64-bit),INCLUDE,putty release
+"9,106",AutoCAD Electrical 2019 Content Pack,AUTODESK,,0,EXCLUDE_CANDIDATE,autocad electrical 2019 content pack,EXCLUDE_CANDIDATE,autocad electrical content
+"17,908",Kits Configuration Installer,Microsoft,system_component,0,EXCLUDE_CANDIDATE,kits configuration installer,EXCLUDE_CANDIDATE,kits configuration installer
+"26,973",SAP GUI for Windows 7.60,SAP SE,application,0,INCLUDE,sap gui for windows 7.60,INCLUDE,sap gui windows
+"34,712",Microsoft Office Professional Plus 2021 - id-id,Microsoft Corporation,application,0,INCLUDE,microsoft office professional plus 2021 - id-id,INCLUDE,microsoft office professional
+"33,783",Microsoft Office Standard 2013,Microsoft Corporation,application,0,INCLUDE,microsoft office standard 2013,INCLUDE,microsoft office standard
+"28,499",RealVNC Server 7.8.0,RealVNC,application,0,INCLUDE,realvnc server 7.8.0,INCLUDE,realvnc server
+"6,331",Tekla Structures Multiuser Server 2.5.0,Trimble Solutions Corporation,,0,INCLUDE,tekla structures multiuser server 2.5.0,INCLUDE,tekla structures multiuser
+"3,433",Compatibility Check Tool TIA -  TIACOMPCHECK Single SetupPackage  V11.0 + SP1,Siemens AG,,0,EXCLUDE_CANDIDATE,compatibility check tool tia - tiacompcheck single setuppackage v11.0 + sp1,EXCLUDE_CANDIDATE,compatibility check tool
+"28,815",Wireshark 3.0.6 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 3.0.6 64-bit,INCLUDE,wireshark
+"6,652",AutoCAD 2019 VBA Enabler,AUTODESK,,0,EXCLUDE_CANDIDATE,autocad 2019 vba enabler,EXCLUDE_CANDIDATE,autocad vba enabler
+"23,091",Siemens Totally Integrated Automation Portal V14 - HM NoBasic Single SetupPackage V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - hm nobasic single setuppackage v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,724",MarkAny EPSBroker,MarkAny Inc.,application,0,INCLUDE,markany epsbroker,INCLUDE,markany epsbroker
+"23,085",Siemens Totally Integrated Automation Portal V14 - HM All Editions Single SetupPackage V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - hm all editions single setuppackage v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"18,960",Microsoft VCLibs 140.00.UWPDesktop,Microsoft Corporation,store,0,EXCLUDE_CANDIDATE,microsoft vclibs 140.00.uwpdesktop,EXCLUDE_CANDIDATE,microsoft vclibs uwpdesktop
+"29,166",WebP Image Extension,Microsoft,store,0,EXCLUDE_CANDIDATE,webp image extension,EXCLUDE_CANDIDATE,webp image extension
+"6,859",Adobe Premiere Pro CC 2017,Adobe Systems Incorporated,,0,INCLUDE,adobe premiere pro cc 2017,INCLUDE,adobe premiere pro
+"22,888",Siemens Totally Integrated Automation Portal V15.1 - STEP 7 Safety Single SetupPackage V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - step 7 safety single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"27,513",Silicon Laboratories CP210x VCP Drivers for Windows 7_2 (c:\SiLabs\MCU\CP210x\Windows_7_2),"Silicon Laboratories, Inc.",application,0,EXCLUDE_CANDIDATE,silicon laboratories cp210x vcp drivers for windows 7_2 (c:\silabs\mcu\cp210x\windows_7_2),EXCLUDE_CANDIDATE,silicon laboratories cp
+"17,172",Global Mapper 21.1 (64-bit),Blue Marble Geographics,application,0,INCLUDE,global mapper 21.1 (64-bit),INCLUDE,global mapper
+"20,706",Siemens Totally Integrated Automation Portal V17 - Version Control Interface SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - version control interface setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"20,887",iTwin Services Add-In V2,"Bentley Systems, Incorporated",application,0,EXCLUDE_CANDIDATE,itwin services add-in v2,EXCLUDE_CANDIDATE,itwin services add
+"26,213",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Mandatory Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - wincc transfer mandatory single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"35,119",ViGEm Bus Driver,Nefarius Software Solutions e.U.,application,0,EXCLUDE_CANDIDATE,vigem bus driver,EXCLUDE_CANDIDATE,vigem bus driver
+"32,912",EasyCapture 1.2.0.0,,application,0,INCLUDE,easycapture 1.2.0.0,INCLUDE,easycapture
+"4,138",Microsoft Portable Library Multi-Targeting Pack Language Pack - enu,Microsoft Corporation,,0,EXCLUDE_CANDIDATE,microsoft portable library multi-targeting pack language pack - enu,EXCLUDE_CANDIDATE,microsoft portable library
+"6,634",Autodesk Civil 3D 2019,AUTODESK,,0,INCLUDE,autodesk civil 3d 2019,INCLUDE,autodesk civil
+"20,741",Siemens Totally Integrated Automation Portal V17 - Multiuser Client Single SetupPackage V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - multiuser client single setuppackage v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"37,217",QGIS 3.28.6 'Firenze',QGIS.org,application,0,INCLUDE,qgis 3.28.6 'firenze',INCLUDE,qgis firenze
+"23,119",Siemens Totally Integrated Automation Portal V13 - TIA Tour Single SetupPackage V13.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v13 - tia tour single setuppackage v13.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"33,602",QGIS 2.18 2.18.4 Las Palmas,QGIS Development Team,application,0,INCLUDE,qgis 2.18 2.18.4 las palmas,INCLUDE,qgis las palmas
+"26,220",Siemens Totally Integrated Automation Portal V16 - WinCC Single SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - wincc single setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"23,073",Siemens Totally Integrated Automation Portal V14 - WinCC Single SetupPackage V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - wincc single setuppackage v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"21,227",Corel Graphics - Windows Shell Extension 64 Bit,Corel Corporation,system_component,0,EXCLUDE_CANDIDATE,corel graphics - windows shell extension 64 bit,EXCLUDE_CANDIDATE,corel graphics windows
+"23,074",Siemens Totally Integrated Automation Portal V14 - WinCC Transfer Legacy All Single SetupPackage V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - wincc transfer legacy all single setuppackage v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"23,235",GreenForce-Player 2.20,RRSoftware,application,0,INCLUDE,greenforce-player 2.20,INCLUDE,greenforce player
+"34,431",Adobe Acrobat Reader DC MUI,Adobe Systems Incorporated,application,0,EXCLUDE_CANDIDATE,adobe acrobat reader dc mui,EXCLUDE_CANDIDATE,adobe acrobat reader
+"33,434",PDF24 Creator 11.29.1,geek software GmbH,application,0,INCLUDE,pdf24 creator 11.29.1,INCLUDE,pdf creator
+"36,870",RealVNC Server 7.15.0,RealVNC,application,0,INCLUDE,realvnc server 7.15.0,INCLUDE,realvnc server
+"21,358",Siemens Totally Integrated Automation Portal V15.1 - Multiuser Client Single SetupPackage V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - multiuser client single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"7,641",FileZilla Client 3.51.0,Tim Kosse,,0,INCLUDE,filezilla client 3.51.0,INCLUDE,filezilla client
+"18,891",Picasa 3,"Google, Inc.",application,0,INCLUDE,picasa 3,INCLUDE,picasa
+"26,212",Siemens Totally Integrated Automation Portal V16 - HM NoBasic Single SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - hm nobasic single setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"20,254",PuTTY release 0.78 (64-bit),Simon Tatham,application,0,INCLUDE,putty release 0.78 (64-bit),INCLUDE,putty release
+"26,215",Siemens Totally Integrated Automation Portal V18 - WinCC Unified ES Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - wincc unified es single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"5,142",Autodesk AutoCAD 2018.1,AUTODESK,,0,INCLUDE,autodesk autocad 2018.1,INCLUDE,autodesk autocad
+"6,636",Autodesk Civil 3D 2019 Language Pack - English,AUTODESK,,0,EXCLUDE_CANDIDATE,autodesk civil 3d 2019 language pack - english,EXCLUDE_CANDIDATE,autodesk civil language
+"26,238",Siemens Totally Integrated Automation Portal V18 - TIA Portal Shim Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - tia portal shim single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"28,159",FileZilla Client 3.25.2,Tim Kosse,application,0,INCLUDE,filezilla client 3.25.2,INCLUDE,filezilla client
+"21,459",SIMATIC S7-PCT V3.4 + HF2,Siemens AG,application,0,INCLUDE,simatic s7-pct v3.4 + hf2,INCLUDE,simatic pct hf
+"23,238",PuTTY release 0.76,Simon Tatham,application,0,INCLUDE,putty release 0.76,INCLUDE,putty release
+"33,456",PDF-Viewer,Tracker Software Products Ltd,application,0,INCLUDE,pdf-viewer,INCLUDE,pdf viewer
+"5,900",Immersive Reader Offline Extension,Microsoft Corporation,,0,EXCLUDE_CANDIDATE,immersive reader offline extension,EXCLUDE_CANDIDATE,immersive reader offline
+"26,195",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Legacy All Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - wincc transfer legacy all single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,235",Siemens Totally Integrated Automation Portal V18 - Version Control Interface SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - version control interface setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"6,815","Adobe Acrobat X Pro - English, FranÃ§ais, Deutsch",Adobe Systems,,0,INCLUDE,"adobe acrobat x pro - english, franã§ais, deutsch",INCLUDE,adobe acrobat pro
+"23,123",Siemens Totally Integrated Automation Portal V13 - Simatic Single SetupPackage V13.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v13 - simatic single setuppackage v13.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,110",VNC Server 6.11.0,RealVNC,application,0,INCLUDE,vnc server 6.11.0,INCLUDE,vnc server
+"23,113",Siemens Totally Integrated Automation Portal V13 - TIACOMPCHECK Single SetupPackage V13.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v13 - tiacompcheck single setuppackage v13.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"23,979",SPDS Extension for AutoCAD® 2015,"Autodesk, Inc.",application,0,EXCLUDE_CANDIDATE,spds extension for autocad 2015,EXCLUDE_CANDIDATE,spds extension autocad
+"8,430",SIMATIC WinCC/WebNavigator Plug-In Builder V7.3  ,Siemens AG,,0,EXCLUDE_CANDIDATE,simatic wincc/webnavigator plug-in builder v7.3,EXCLUDE_CANDIDATE,simatic wincc webnavigator
+"23,479",Wireshark 4.4.2 x64,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.4.2 x64,INCLUDE,wireshark
+"17,326",Wondershare Dr.Fone (Version 11.4.12),"Wondershare Technology Co.,Ltd.",application,0,INCLUDE,wondershare dr.fone (version 11.4.12),INCLUDE,wondershare dr fone
+"21,996",MrvlUsgTracking,Marvell,application,0,INCLUDE,mrvlusgtracking,INCLUDE,mrvlusgtracking
+"26,191",Siemens Totally Integrated Automation Portal V16 - Version Control Interface SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - version control interface setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"37,492",CCXP_7_11_0_32,Adobe Inc.,application,0,INCLUDE,ccxp_7_11_0_32,INCLUDE,ccxp
+"7,168",Thinkpad USB Ethernet Adapter Driver,Lenovo,,0,EXCLUDE_CANDIDATE,thinkpad usb ethernet adapter driver,EXCLUDE_CANDIDATE,thinkpad usb ethernet
+"26,012",AutoCAD 2023 Shared Language Pack - English,AUTODESK,system_component,0,EXCLUDE_CANDIDATE,autocad 2023 shared language pack - english,EXCLUDE_CANDIDATE,autocad shared language
+"26,202",Siemens Totally Integrated Automation Portal V18 - WinCC Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - wincc single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"34,358",Super Safari Pupil's DVD-ROM 2,Cambridge University Press,application,0,INCLUDE,super safari pupil's dvd-rom 2,INCLUDE,super safari pupil
+"26,262",SPDS Extension for AutoCAD® 2018,"Autodesk, Inc.",application,0,EXCLUDE_CANDIDATE,spds extension for autocad 2018,EXCLUDE_CANDIDATE,spds extension autocad
+"18,895",Adobe Acrobat Reader MUI,Adobe Systems Incorporated,application,0,EXCLUDE_CANDIDATE,adobe acrobat reader mui,EXCLUDE_CANDIDATE,adobe acrobat reader
+"6,891",PuTTY release 0.72 (64-bit),Simon Tatham,,0,INCLUDE,putty release 0.72 (64-bit),INCLUDE,putty release
+"26,193",Siemens Totally Integrated Automation Portal V18 - HM NoBasic Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - hm nobasic single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"22,692",Wireshark 4.0.3 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.0.3 64-bit,INCLUDE,wireshark
+"22,410",QGIS 3.28.11 'Firenze',QGIS.org,application,0,INCLUDE,qgis 3.28.11 'firenze',INCLUDE,qgis firenze
+"22,896",Siemens Totally Integrated Automation Portal V15.1 - Simatic Option Energy Suite SetupPackage V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - simatic option energy suite setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"23,635",Microsoft Office Professional Plus 2021 - en-us,Microsoft Corporation,application,0,INCLUDE,microsoft office professional plus 2021 - en-us,INCLUDE,microsoft office professional
+"22,576",Adobe Acrobat Reader,Adobe Acrobat,developer,0,INCLUDE,adobe acrobat reader,INCLUDE,adobe acrobat reader
+"26,629",XWidget version 1.9.28,xdesktop.com,application,0,INCLUDE,xwidget version 1.9.28,INCLUDE,xwidget
+"20,265",Online Manager,,application,0,INCLUDE,online manager,INCLUDE,online manager
+"6,333",SPDS Extension for AutoCADÂ® 2017,"Autodesk, Inc.",,0,EXCLUDE_CANDIDATE,spds extension for autocadâ 2017,EXCLUDE_CANDIDATE,spds extension autocad
+"21,817",My Family Tree Language Pack (x64),Chronoplex Software,application,0,EXCLUDE_CANDIDATE,my family tree language pack (x64),EXCLUDE_CANDIDATE,my family tree
+"20,924",Autodesk Civil 3D 2020 Language Pack - English,AUTODESK,system_component,0,EXCLUDE_CANDIDATE,autodesk civil 3d 2020 language pack - english,EXCLUDE_CANDIDATE,autodesk civil language
+"36,034",Service Pack 2 for SQL Server 2014 (KB3171021),Microsoft Corporation,application,0,EXCLUDE_CANDIDATE,service pack 2 for sql server 2014 (kb3171021),EXCLUDE_CANDIDATE,service pack sql
+"35,878",Autodesk Backburner 2018.0,AUTODESK,application,0,INCLUDE,autodesk backburner 2018.0,INCLUDE,autodesk backburner
+"28,772",Wireshark 4.6.0 x64,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.6.0 x64,INCLUDE,wireshark
+"21,408",STEP 7-Micro/WIN SMART V2.6,Siemens,application,0,INCLUDE,step 7-micro/win smart v2.6,INCLUDE,step micro win
+"36,403",VLC media player 1.1.11,VideoLAN,application,0,INCLUDE,vlc media player 1.1.11,INCLUDE,vlc media player
+"38,633",AutoCAD - DWG Viewer & Editor,AUTODESK,store,0,INCLUDE,autocad - dwg viewer & editor,INCLUDE,autocad dwg viewer
+"26,584",Adobe Premiere Pro 2019,Adobe Systems Incorporated,application,0,INCLUDE,adobe premiere pro 2019,INCLUDE,adobe premiere pro
+"27,698",SSHFS-Win 2021 (x64),Navimatics LLC,application,0,INCLUDE,sshfs-win 2021 (x64),INCLUDE,sshfs win
+"33,386",POS Printer Driver V7.17 7.17,POS 2016 (C) Copyright,application,0,EXCLUDE_CANDIDATE,pos printer driver v7.17 7.17,EXCLUDE_CANDIDATE,pos printer driver
+"26,211",Siemens Totally Integrated Automation Portal V18 - Openness SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - openness setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"23,076",Siemens Totally Integrated Automation Portal V14 - TIACOMPCHECK Single SetupPackage V14.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v14 - tiacompcheck single setuppackage v14.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"6,792",Adobe InDesign CS3 Icon Handler,Adobe Systems Incorporated,,0,INCLUDE,adobe indesign cs3 icon handler,INCLUDE,adobe indesign cs
+"22,886",Siemens Totally Integrated Automation Portal V15.1 - Energy Support Library Single SetupPackage V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - energy support library single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,218",Siemens Totally Integrated Automation Portal V16 - WinCC Transfer Mandatory Single SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - wincc transfer mandatory single setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"20,194",HP SharePoint Plugin,HP,application,0,EXCLUDE_CANDIDATE,hp sharepoint plugin,EXCLUDE_CANDIDATE,hp sharepoint plugin
+"17,406",Microsoft Office Professional Plus 2010,Microsoft Corporation,application,0,INCLUDE,microsoft office professional plus 2010,INCLUDE,microsoft office professional
+"6,325",Revit 2020,AUTODESK,,0,INCLUDE,revit 2020,INCLUDE,revit
+"28,567",Sentinel System Driver Installer 7.6.1,"SafeNet, Inc.",application,0,EXCLUDE_CANDIDATE,sentinel system driver installer 7.6.1,EXCLUDE_CANDIDATE,sentinel system driver
+"5,831",FileZilla Client 3.49.1,Tim Kosse,,0,INCLUDE,filezilla client 3.49.1,INCLUDE,filezilla client
+"26,253",Siemens Totally Integrated Automation Portal V18 - STEP 7 Safety Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - step 7 safety single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"36,371",VLC media player 2.0.5,VideoLAN,application,0,INCLUDE,vlc media player 2.0.5,INCLUDE,vlc media player
+"18,685",Fingerprint Reader Driver 5.0.0.22,ZKTeco Inc.,application,0,EXCLUDE_CANDIDATE,fingerprint reader driver 5.0.0.22,EXCLUDE_CANDIDATE,fingerprint reader driver
+"22,991",Adobe WinSoft Linguistics Plugin,Adobe Systems Incorporated,system_component,0,EXCLUDE_CANDIDATE,adobe winsoft linguistics plugin,EXCLUDE_CANDIDATE,adobe winsoft linguistics
+"26,373",Siemens Totally Integrated Automation Portal V16 - WinCC Single SetupPackage 32 Bit V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - wincc single setuppackage 32 bit v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"26,237",Siemens Totally Integrated Automation Portal V18 - STEP 7 Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - step 7 single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"3,458",CX-Server Driver Mgt Tool,Omron,,0,EXCLUDE_CANDIDATE,cx-server driver mgt tool,EXCLUDE_CANDIDATE,cx server driver
+"26,280",CX-Server Generic FINS Ethernet Driver,Omron Electronics Corporation,system_component,0,EXCLUDE_CANDIDATE,cx-server generic fins ethernet driver,EXCLUDE_CANDIDATE,cx server generic
+"26,498",ZWCAD 2025 Language Pack - English,ZWSOFT,system_component,0,EXCLUDE_CANDIDATE,zwcad 2025 language pack - english,EXCLUDE_CANDIDATE,zwcad language pack
+"5,402",Android Studio,Google LLC,,0,INCLUDE,android studio,INCLUDE,android studio
+"17,656",Microsoft Office Professional Plus 2013,Microsoft Corporation,application,0,INCLUDE,microsoft office professional plus 2013,INCLUDE,microsoft office professional
+"9,401",Phone Nokia USB Driver,Mobile,,0,EXCLUDE_CANDIDATE,phone nokia usb driver,EXCLUDE_CANDIDATE,phone nokia usb
+"8,962",Microsoft Office Professional Plus 2019 - en-us,Microsoft Corporation,,0,INCLUDE,microsoft office professional plus 2019 - en-us,INCLUDE,microsoft office professional
+"26,688",Drive Composer pro Installer,ABB,application,0,EXCLUDE_CANDIDATE,drive composer pro installer,EXCLUDE_CANDIDATE,drive composer pro
+"4,456",Siemens Totally Integrated Automation Portal V15.1 - Openness SetupPackage  V15.1,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - openness setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"21,990",Microsoft Visual J# 2.0 Redistributable Package,Microsoft Corporation,system_component,0,EXCLUDE_CANDIDATE,microsoft visual j# 2.0 redistributable package,EXCLUDE_CANDIDATE,microsoft visual redistributable
+"26,268",Siemens Totally Integrated Automation Portal V18 - Multiuser Client Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - multiuser client single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"9,108",AutoCAD Electrical 2019 - English,AUTODESK,,0,INCLUDE,autocad electrical 2019 - english,INCLUDE,autocad electrical english
+"7,865",Wireshark 3.4.3 64-bit,"The Wireshark developer community, https://www.wireshark.org",,0,INCLUDE,wireshark 3.4.3 64-bit,INCLUDE,wireshark
+"4,468",Siemens  Totally Integrated Automation Portal V15 - WinCC Transfer Current CAP Single SetupPackage  V15.0,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - wincc transfer current cap single setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"33,062",CCXP_7_4_0_32,Adobe Inc.,application,0,INCLUDE,ccxp_7_4_0_32,INCLUDE,ccxp
+"21,375",Siemens Totally Integrated Automation Portal V15.1 - STEP 7 Single SetupPackage V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - step 7 single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"28,049",CPUID CPU-Z 2.03,"CPUID, Inc.",application,0,INCLUDE,cpuid cpu-z 2.03,INCLUDE,cpuid cpu
+"7,218",ACS Unified PC/SC Driver 4.3.0.0,Advanced Card Systems Ltd.,,0,EXCLUDE_CANDIDATE,acs unified pc/sc driver 4.3.0.0,EXCLUDE_CANDIDATE,acs unified pc
+"19,251",Corel Graphics - Windows Shell Extension 32 Bit,Corel Corporation,system_component,0,EXCLUDE_CANDIDATE,corel graphics - windows shell extension 32 bit,EXCLUDE_CANDIDATE,corel graphics windows
+"36,367",VLC media player,VideoLAN,application,0,INCLUDE,vlc media player,INCLUDE,vlc media player
+"4,494",Siemens  Totally Integrated Automation Portal V15 - WinCC Single SetupPackage 32 Bit  V15.0,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - wincc single setuppackage 32 bit v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"24,340",STAAD.Pro 2025,"Bentley Systems, Inc.",application,0,INCLUDE,staad.pro 2025,INCLUDE,staad pro
+"4,460",Siemens  Totally Integrated Automation Portal V15 - Multiuser Client Single SetupPackage  V15.0,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - multiuser client single setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"23,116",Siemens Totally Integrated Automation Portal V13 - HM All Editions Single SetupPackage V13.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v13 - hm all editions single setuppackage v13.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"21,360",Siemens Totally Integrated Automation Portal V15 - WinCC Single SetupPackage V15.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - wincc single setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"23,280",AxisSecurity,"AxisSecurity, Inc",application,0,INCLUDE,axissecurity,INCLUDE,axissecurity
+"33,611",GDAL ECW Extension 19 (MSVC 2010 Win64),OSGeo,application,0,EXCLUDE_CANDIDATE,gdal ecw extension 19 (msvc 2010 win64),EXCLUDE_CANDIDATE,gdal ecw extension
+"25,936",SAP GUI for Windows 7.50,SAP SE,application,0,INCLUDE,sap gui for windows 7.50,INCLUDE,sap gui windows
+"17,658",Microsoft InfoPath MUI (English) 2013,Microsoft Corporation,system_component,0,EXCLUDE_CANDIDATE,microsoft infopath mui (english) 2013,EXCLUDE_CANDIDATE,microsoft infopath mui
+"29,226",SAP GUI for Windows 7.70,SAP SE,application,0,INCLUDE,sap gui for windows 7.70,INCLUDE,sap gui windows
+"22,921",SIMATIC OPC-XML-Gateway V13.0,Siemens AG,application,0,INCLUDE,simatic opc-xml-gateway v13.0,INCLUDE,simatic opc xml
+"33,825",SketchUp 2026,"Trimble, Inc.",application,0,INCLUDE,sketchup 2026,INCLUDE,sketchup
+"20,752",Siemens Totally Integrated Automation Portal V17 - WinCC Single SetupPackage 32 Bit V17.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v17 - wincc single setuppackage 32 bit v17.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"28,431",RealVNC Server 7.12.1,RealVNC,application,0,INCLUDE,realvnc server 7.12.1,INCLUDE,realvnc server
+"29,097",SAP GUI for Windows 7.20,SAP,application,0,INCLUDE,sap gui for windows 7.20,INCLUDE,sap gui windows
+"6,924",FileZilla Client 3.45.1,Tim Kosse,,0,INCLUDE,filezilla client 3.45.1,INCLUDE,filezilla client
+"3,512",Fingerprint Reader Driver 2.3.2,ZKSoftware,,0,EXCLUDE_CANDIDATE,fingerprint reader driver 2.3.2,EXCLUDE_CANDIDATE,fingerprint reader driver
+"28,709",UniFi OS Server 4.3.6,Ubiquiti Inc.,application,0,INCLUDE,unifi os server 4.3.6,INCLUDE,unifi os server
+"21,820",Adobe AIR,Adobe Systems Incorporated,application,0,INCLUDE,adobe air,INCLUDE,adobe air
+"5,012",Fingerprint Reader Driver 2.3.3.5,ZKTeco Inc.,,0,EXCLUDE_CANDIDATE,fingerprint reader driver 2.3.3.5,EXCLUDE_CANDIDATE,fingerprint reader driver
+"25,948",Microsoft Teams (work or school),Microsoft Platform Extensions,developer,0,INCLUDE,microsoft teams (work or school),INCLUDE,microsoft teams work
+"37,609",Samsung USB Driver for Mobile Phones,"Samsung Electronics Co., Ltd.",application,0,EXCLUDE_CANDIDATE,samsung usb driver for mobile phones,EXCLUDE_CANDIDATE,samsung usb driver
+"7,692",Microsoft Office Standard 2010,Microsoft Corporation,,0,INCLUDE,microsoft office standard 2010,INCLUDE,microsoft office standard
+"24,885",Wireshark 4.6.1 x64,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.6.1 x64,INCLUDE,wireshark
+"27,134",MySQL Documents 8.0,Oracle Corporation,application,0,INCLUDE,mysql documents 8.0,INCLUDE,mysql documents
+"4,453",Siemens  Totally Integrated Automation Portal V15 - Simatic Single SetupPackage  V15.0,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - simatic single setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"35,964",Microsoft Visual J# 2.0 Redistributable Package - SE (x64),Microsoft Corporation,application,0,EXCLUDE_CANDIDATE,microsoft visual j# 2.0 redistributable package - se (x64),EXCLUDE_CANDIDATE,microsoft visual redistributable
+"18,442",Microsoft InfoPath MUI (English) 2016,Microsoft Corporation,system_component,0,EXCLUDE_CANDIDATE,microsoft infopath mui (english) 2016,EXCLUDE_CANDIDATE,microsoft infopath mui
+"34,847",SketchUp 8,Trimble Navigation Limited,application,0,INCLUDE,sketchup 8,INCLUDE,sketchup
+"24,736",MOTOTRBO Radio Driver,Motorola Solutions,application,0,EXCLUDE_CANDIDATE,mototrbo radio driver,EXCLUDE_CANDIDATE,mototrbo radio driver
+"22,404",RICOH Driver Utility,"Ricoh Company, Ltd.",store,0,EXCLUDE_CANDIDATE,ricoh driver utility,EXCLUDE_CANDIDATE,ricoh driver utility
+"26,225",Siemens Totally Integrated Automation Portal V16 - STEP 7 Single SetupPackage V16.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v16 - step 7 single setuppackage v16.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"28,122",Microsoft Office Professional 2021 - en-us,Microsoft Corporation,application,0,INCLUDE,microsoft office professional 2021 - en-us,INCLUDE,microsoft office professional
+"26,325",Siemens Totally Integrated Automation Portal V18 - WinCC Single SetupPackage 32 Bit V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - wincc single setuppackage 32 bit v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"6,281",Autodesk Navisworks 2020 Exporters - 64 bit - English Language Pack,AUTODESK,,0,EXCLUDE_CANDIDATE,autodesk navisworks 2020 exporters - 64 bit - english language pack,EXCLUDE_CANDIDATE,autodesk navisworks exporters
+"18,669",Zoom Rooms,"Zoom Video Communications, Inc.",store,0,INCLUDE,zoom rooms,INCLUDE,zoom rooms
+"4,480",Siemens  Totally Integrated Automation Portal V15 - HM NoBasic Single SetupPackage  V15.0,Siemens AG,,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - hm nobasic single setuppackage v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"22,862",InstallWIX_{4FC79BE9-AD63-46C0-9626-E4F6BCE6A976},,application,0,INCLUDE,installwix_{4fc79be9-ad63-46c0-9626-e4f6bce6a976},INCLUDE,installwix fc be
+"37,309",ifm electronic VNB USB Driver,ifm electronic GmbH,application,0,EXCLUDE_CANDIDATE,ifm electronic vnb usb driver,EXCLUDE_CANDIDATE,ifm electronic vnb
+"33,826",SketchUp Import,AUTODESK,application,0,INCLUDE,sketchup import,INCLUDE,sketchup import
+"5,460",Revit 2019,AUTODESK,,0,INCLUDE,revit 2019,INCLUDE,revit
+"6,304",Autodesk Civil 3D 2020,AUTODESK,,0,INCLUDE,autodesk civil 3d 2020,INCLUDE,autodesk civil
+"21,390",Siemens Totally Integrated Automation Portal V15.1 - WinCC Transfer Current CAP Single SetupPackage V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - wincc transfer current cap single setuppackage v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"37,714",PuTTY release 0.77 (64-bit),Simon Tatham,application,0,INCLUDE,putty release 0.77 (64-bit),INCLUDE,putty release
+"29,335",FileZilla Client 3.58.0,Tim Kosse,application,0,INCLUDE,filezilla client 3.58.0,INCLUDE,filezilla client
+"32,918",Samsung M4370 5370 Series,"Samsung Electronics Co., Ltd.",application,0,INCLUDE,samsung m4370 5370 series,INCLUDE,samsung series
+"33,417","WPS Office Suite - PDF, Word, Spreadsheet, Slide View &#38; Edit",Kingsoft Office Software Corporation Limited,store,0,INCLUDE,"wps office suite - pdf, word, spreadsheet, slide view &#38; edit",INCLUDE,wps office suite
+"23,255",Wireshark 4.2.3 x64,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.2.3 x64,INCLUDE,wireshark
+"21,461",Siemens Totally Integrated Automation Portal V15.1 - WinCC Single SetupPackage 32 Bit V15.1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15.1 - wincc single setuppackage 32 bit v15.1,EXCLUDE_CANDIDATE,siemens totally integrated
+"29,258",CCXP_7_1_3_32,Adobe Inc.,application,0,INCLUDE,ccxp_7_1_3_32,INCLUDE,ccxp
+"6,054",Corel Graphics - Windows Shell Extension 32 Bit Keys,Corel Corporation,,0,EXCLUDE_CANDIDATE,corel graphics - windows shell extension 32 bit keys,EXCLUDE_CANDIDATE,corel graphics windows
+"5,005",PuTTY release 0.70 (64-bit),Simon Tatham,,0,INCLUDE,putty release 0.70 (64-bit),INCLUDE,putty release
+"26,190",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Legacy CAP Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - wincc transfer legacy cap single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"9,109",AutoCAD Electrical 2019 Content Language Pack - English,AUTODESK,,0,EXCLUDE_CANDIDATE,autocad electrical 2019 content language pack - english,EXCLUDE_CANDIDATE,autocad electrical content
+"28,588",iMyFone D-Back 9.2.3.3,"Shenzhen iMyFone Technology Co., Ltd.",application,0,INCLUDE,imyfone d-back 9.2.3.3,INCLUDE,imyfone back
+"6,328",AutoCAD 2017 VBA Enabler,AUTODESK,,0,EXCLUDE_CANDIDATE,autocad 2017 vba enabler,EXCLUDE_CANDIDATE,autocad vba enabler
+"22,508",Microsoft Teams Play Together,Microsoft Corporation,developer,0,INCLUDE,microsoft teams play together,INCLUDE,microsoft teams play
+"23,260",Wireshark 4.2.5 x64,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.2.5 x64,INCLUDE,wireshark
+"26,200",Siemens Totally Integrated Automation Portal V18 - TIACOMPCHECK Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - tiacompcheck single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"27,711",Wampserver64 3.3.7,Dominique Ottello alias Otomatic,application,0,INCLUDE,wampserver64 3.3.7,INCLUDE,wampserver
+"26,185",Siemens Totally Integrated Automation Portal V18 - Simatic Single SetupPackage V18.0 + SP1,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v18 - simatic single setuppackage v18.0 + sp1,EXCLUDE_CANDIDATE,siemens totally integrated
+"28,213",PC HelpSoft Driver Updater,Avanquest,application,0,EXCLUDE_CANDIDATE,pc helpsoft driver updater,EXCLUDE_CANDIDATE,pc helpsoft driver
+"21,827",My Family Tree (x64),Chronoplex Software,application,0,INCLUDE,my family tree (x64),INCLUDE,my family tree
+"26,153",iTop Easy Desktop,iTop Inc.,application,0,INCLUDE,itop easy desktop,INCLUDE,itop easy desktop
+"21,182",Wireshark 4.0.4 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,0,INCLUDE,wireshark 4.0.4 64-bit,INCLUDE,wireshark
+"33,076",KeyboardTest V3.0,PassMark Software,application,0,INCLUDE,keyboardtest v3.0,INCLUDE,keyboardtest
+"37,516",Palworld,Pocketpair,application,0,INCLUDE,palworld,INCLUDE,palworld
+"21,221",MediaTek Driver Package version 5.14.38.00,MediaTek.Inc.,application,0,EXCLUDE_CANDIDATE,mediatek driver package version 5.14.38.00,EXCLUDE_CANDIDATE,mediatek driver package
+"35,853",Raw Image Extension,Microsoft Platform Extensions,store,0,EXCLUDE_CANDIDATE,raw image extension,EXCLUDE_CANDIDATE,raw image extension
+"34,330",WinPcap 4.1.3,"Riverbed Technology, Inc.",application,0,INCLUDE,winpcap 4.1.3,INCLUDE,winpcap
+"21,444",Siemens Totally Integrated Automation Portal V15 - Simatic Single SetupPackage 32 Bit V15.0,Siemens AG,system_component,0,EXCLUDE_CANDIDATE,siemens totally integrated automation portal v15 - simatic single setuppackage 32 bit v15.0,EXCLUDE_CANDIDATE,siemens totally integrated
+"22,686",Fingerprint Reader Driver 2.3.0,ZKSoftware,application,0,EXCLUDE_CANDIDATE,fingerprint reader driver 2.3.0,EXCLUDE_CANDIDATE,fingerprint reader driver
+"26,334",Silicon Laboratories CP210x VCP Drivers for Windows XP/2003 Server/Vista/7,"Silicon Laboratories, Inc.",application,0,EXCLUDE_CANDIDATE,silicon laboratories cp210x vcp drivers for windows xp/2003 server/vista/7,EXCLUDE_CANDIDATE,silicon laboratories cp
+"5,020",Wireshark 2.6.3 64-bit,"The Wireshark developer community, https://www.wireshark.org",,0,INCLUDE,wireshark 2.6.3 64-bit,INCLUDE,wireshark

@@ -1,0 +1,1860 @@
+﻿id,name,manufacturer_name,software_category_name,label,nama_bersih
+"22,071",Microsoft Windows 10 Pro Education,,,INCLUDE,microsoft windows 10 pro education
+"7,613",Python 3.9.1 Executables (64-bit),Python Software Foundation,,EXCLUDE,python 3.9.1 executables (64-bit)
+"33,612",SQL Server 2012 Client Tools,Microsoft Corporation,system_component,EXCLUDE,sql server 2012 client tools
+"23,251",Sniffnet,Giuliano Bellini,application,EXCLUDE,sniffnet
+"33,581",The Sims 4,Maxis,application,EXCLUDE,the sims 4
+"36,802",Rockstar Games Social Club,Rockstar Games,application,EXCLUDE,rockstar games social club
+"34,624",Resident Evil 4,MagiPacks,application,EXCLUDE,resident evil 4
+"21,500",FxSound,FxSound LLC,application,EXCLUDE,fxsound
+"22,849",CorelDRAW Graphics Suite 2017 - Custom Data (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2017 - custom data (x64)
+"23,462",OnlineRadio,The Village Software,store,EXCLUDE,onlineradio
+"26,890",EaseUS Data Recovery Wizard 8.8,EaseUS,application,EXCLUDE,easeus data recovery wizard 8.8
+"22,825",CorelDRAW Graphics Suite 2017 - CZ (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2017 - cz (x64)
+"27,243",LISREL8.80,"Scientific Software International, Inc.",application,EXCLUDE,lisrel8.80
+"7,043",7-Zip 20.00 alpha (x64),Igor Pavlov,,EXCLUDE,7-zip 20.00 alpha (x64)
+"28,040",Build Tools - x86,Microsoft Corporation,system_component,EXCLUDE,build tools - x86
+"38,833",FactoryTalk Activation Manager 4.02.00,"Rockwell Automation, Inc.",application,EXCLUDE,factorytalk activation manager 4.02.00
+"7,664",Zwift version 1.0.51,"Zwift, LLC",,EXCLUDE,zwift version 1.0.51
+"4,983",CCXP_3_0_0_32,Adobe Systems Incorporated,,EXCLUDE,ccxp_3_0_0_32
+"6,103",Revo Uninstaller Pro 3.1.4,"VS Revo Group, Ltd.",,EXCLUDE,revo uninstaller pro 3.1.4
+"23,956",MicrosoftWindows.57074914.Livtop,Microsoft Corporation,system,EXCLUDE,microsoftwindows.57074914.livtop
+"22,297",Sticky Password 8.8.1.1576,Lamantine Software,application,EXCLUDE,sticky password 8.8.1.1576
+"6,935",HP MAC Address Manager,HP,,EXCLUDE,hp mac address manager
+"3,124",QuizCreator,Wondershare Software,,EXCLUDE,quizcreator
+"3,402",PowerStation 400,"Operation Technology, Inc.",,EXCLUDE,powerstation 400
+"27,103",Netpas Maritime Mail Analyzer(MMA) (Build 10081),"Seafuture, Inc.",application,EXCLUDE,netpas maritime mail analyzer(mma) (build 10081)
+"5,986",7-Zip 15.10 beta,Igor Pavlov,,EXCLUDE,7-zip 15.10 beta
+"28,640",Endress+Hauser Flow Verification DTM V2.02.00,Endress+Hauser,application,EXCLUDE,endress+hauser flow verification dtm v2.02.00
+"21,974",Python 3.9.0 Executables (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.9.0 executables (64-bit)
+"28,970",Python 3.13.2 Development Libraries (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.2 development libraries (64-bit)
+"33,603",SQL Server 2012 Distributed Replay,Microsoft Corporation,system_component,EXCLUDE,sql server 2012 distributed replay
+"36,351",foobar2000 v2.25.9 (x64),Peter Pawlowski,application,EXCLUDE,foobar2000 v2.25.9 (x64)
+"28,457",SEPS_0_25_1,Adobe Inc.,application,EXCLUDE,seps_0_25_1
+"20,079",Toad for Oracle 2021 R3 Edition Installer (x64),Quest Software Inc.,application,EXCLUDE,toad for oracle 2021 r3 edition installer (x64)
+"36,072",TurboVPN 3.5.2.0,INNOVATIVE CONNECTING PTE. LIMITED,application,EXCLUDE,turbovpn 3.5.2.0
+"26,773",Autodesk Revit Unit Schemas 2024,"Autodesk, Inc.",application,EXCLUDE,autodesk revit unit schemas 2024
+"18,306",Microsoft WindowsNotepad,Microsoft Platform Extensions,store,EXCLUDE,microsoft windowsnotepad
+"6,497",ACDSee 10 Photo Manager,ACD Systems International,,EXCLUDE,acdsee 10 photo manager
+"3,898",AMD Start Now,"Advanced Micro Devices, Inc.",,EXCLUDE,amd start now
+"5,407",PeaZip 7.3.2 (WIN64),Giorgio Tani,,EXCLUDE,peazip 7.3.2 (win64)
+"9,449",S57W,IBH softec GmbH,,EXCLUDE,s57w
+"17,423",Microsoft Office Word MUI (English) 2010,Microsoft Corporation,system_component,EXCLUDE,microsoft office word mui (english) 2010
+"17,026",SUNIX Multi-IO Controller,"SUNIX Co., Ltd.",application,EXCLUDE,sunix multi-io controller
+"28,241",SmartBlue Server,Endress+Hauser,application,EXCLUDE,smartblue server
+"36,800",Feeding Frenzy Deluxe 5.7.18.1,PopCap Games,application,EXCLUDE,feeding frenzy deluxe 5.7.18.1
+"17,179",qBittorrent,The qBittorrent project,application,EXCLUDE,qbittorrent
+"22,498",SuperMap iDesktop 11i(2022),"SuperMap Software Co., Ltd.",application,EXCLUDE,supermap idesktop 11i(2022)
+"27,825",mpfr,,libraries,EXCLUDE,mpfr
+"29,311",Inno Setup version 6.1.2,jrsoftware.org,application,EXCLUDE,inno setup version 6.1.2
+"8,871",CorelDRAW Graphics Suite 2021 - Font Manager (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - font manager (x64)
+"20,024",7-Zip 15.14 (x64),Igor Pavlov,application,EXCLUDE,7-zip 15.14 (x64)
+"5,755",Planner 5D - Home & Interior Design,UAB Planner5D,,EXCLUDE,planner 5d - home & interior design
+"22,453",Sticky Password 8.8.3.1629,Lamantine Software,application,EXCLUDE,sticky password 8.8.3.1629
+"25,730",Microsoft Office OSM UX MUI (English) 2016,Microsoft Corporation,system_component,EXCLUDE,microsoft office osm ux mui (english) 2016
+"28,045",CPUID HWMonitor 1.55,"CPUID, Inc.",application,EXCLUDE,cpuid hwmonitor 1.55
+"4,961",AOMEI OneKey Recovery 1.6.2,"AOMEI Technology Co., Ltd.",,EXCLUDE,aomei onekey recovery 1.6.2
+"7,578",3uTools,"ShangHai ZhangZheng Network Technology Co., Ltd.",,EXCLUDE,3utools
+"22,980",Universal Extractor 1.6.1,Jared Breland,application,EXCLUDE,universal extractor 1.6.1
+"38,384",Mixed Reality Link,Microsoft Corporation,store,EXCLUDE,mixed reality link
+"23,043",FarLabUninstaller v1.53.666,,application,EXCLUDE,farlabuninstaller v1.53.666
+"21,969",Python 3.9.0 Standard Library (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.9.0 standard library (64-bit)
+"8,354",PO04-IDC210500013,Microsoft,License,EXCLUDE,po04-idc210500013
+"36,638",USB Safely Remove,Crystal Rich Ltd.,application,EXCLUDE,usb safely remove
+"18,960",Microsoft VCLibs 140.00.UWPDesktop,Microsoft Corporation,store,EXCLUDE,microsoft vclibs 140.00.uwpdesktop
+"19,235",HP Smart,Microsoft Corporation,store,EXCLUDE,hp smart
+"27,094",Patrol Management System 2.0,,application,EXCLUDE,patrol management system 2.0
+"38,009",mingw-w64-x86_64-sqlite3,,,EXCLUDE,mingw-w64-x86_64-sqlite3
+"38,266",Block Blast Frenzy,www.msn.com,none,EXCLUDE,block blast frenzy
+"7,960",LIBS_3_12_10_32,Adobe Inc.,,EXCLUDE,libs_3_12_10_32
+"22,410",QGIS 3.28.11 'Firenze',QGIS.org,application,EXCLUDE,qgis 3.28.11 'firenze'
+"20,878",Autodesk Navisworks Freedom 2022 - ????? ??????????? ??? ???????? (Russian) ?????,AUTODESK,system_component,EXCLUDE,autodesk navisworks freedom 2022 - ????? ??????????? ??? ???????? (russian) ?????
+"5,206",DeviceDiscovery,Hewlett-Packard,,EXCLUDE,devicediscovery
+"5,089",Comodo Dragon,Comodo,,EXCLUDE,comodo dragon
+"36,415",Control Center 3.0,CLEVO CO.,store,EXCLUDE,control center 3.0
+"26,877",AIMP,AIMP DevTeam,application,EXCLUDE,aimp
+"7,910",LIBS_3_12_7_32,Adobe Inc.,,EXCLUDE,libs_3_12_7_32
+"4,611",Microsoft Office Professional 2010,Microsoft Corporation,,INCLUDE,microsoft office professional 2010
+"6,962",Windows Movie Maker 2018,VideoWin,,EXCLUDE,windows movie maker 2018
+"25,733",SAPSetup Automatic Workstation Update Service,SAP AG,application,EXCLUDE,sapsetup automatic workstation update service
+"5,330",MSN Money,Microsoft Platform Extensions,,EXCLUDE,msn money
+"9,403",CCXP_4_8_0_32,Adobe Inc.,,EXCLUDE,ccxp_4_8_0_32
+"3,114",Primavera P6 Professional,Oracle Corporation,,EXCLUDE,primavera p6 professional
+"5,744",Dolby Audio X2 Windows API SDK,"Dolby Laboratories, Inc.",,EXCLUDE,dolby audio x2 windows api sdk
+"32,447",NI MDF Support,National Instruments,system_component,EXCLUDE,ni mdf support
+"18,913",Autodesk Navisworks Freedom 2023 - Pacote de idioma Português - Brasil (Brazilian Portuguese),AUTODESK,system_component,EXCLUDE,autodesk navisworks freedom 2023 - pacote de idioma português - brasil (brazilian portuguese)
+"7,659",Vintage Motorcycles PREMIUM,Microsoft Corporation,,EXCLUDE,vintage motorcycles premium
+"32,651",Cloud,"Huawei technologies Co., Ltd.",application,EXCLUDE,cloud
+"32,117",SoundWire Server version 2.5,GeorgieLabs,application,EXCLUDE,soundwire server version 2.5
+"4,915",CodeMeter Runtime Kit v5.22a,WIBU-SYSTEMS AG,,EXCLUDE,codemeter runtime kit v5.22a
+"27,633",Mus'box,neosonne,store,EXCLUDE,mus'box
+"8,958",iSense4,PT ASTRA GRAPHIA TBK,,EXCLUDE,isense4
+"28,303",Schneider Electric EtherNet/IP Communication DTM Library,Schneider Electric,application,EXCLUDE,schneider electric ethernet/ip communication dtm library
+"24,555",Microsoft Windows Desktop Runtime - 9.0.9 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop runtime - 9.0.9 (x64)
+"29,056",DaVinci Resolve Control Panels,Blackmagic Design,application,EXCLUDE,davinci resolve control panels
+"27,283",MySQL Server 9.5,Oracle Corporation,application,EXCLUDE,mysql server 9.5
+"6,434",MSVC80_x64_v2,Nokia,,EXCLUDE,msvc80_x64_v2
+"37,714",PuTTY release 0.77 (64-bit),Simon Tatham,application,EXCLUDE,putty release 0.77 (64-bit)
+"9,228",Windows 11 Installation Assistant,Microsoft Corporation,,EXCLUDE,windows 11 installation assistant
+"25,006",Windows Package Manager Source (winget) V2,"CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",store,EXCLUDE,windows package manager source (winget) v2
+"28,479",Microsoft Outlook 2016 - en-us,Microsoft Corporation,application,EXCLUDE,microsoft outlook 2016 - en-us
+"27,399",Driver Booster 4.5,IObit,application,EXCLUDE,driver booster 4.5
+"7,612",Python 3.9.1 Standard Library (64-bit),Python Software Foundation,,EXCLUDE,python 3.9.1 standard library (64-bit)
+"36,285",Microsoft Visio LTSC Professional 2024 - id-id,Microsoft Corporation,application,INCLUDE,microsoft visio ltsc professional 2024 - id-id
+"25,122",SQL Server 2016 XEvent,Microsoft Corporation,system_component,EXCLUDE,sql server 2016 xevent
+"4,504",OPC UA Local Discovery Server 1.03,OPC Foundation,,EXCLUDE,opc ua local discovery server 1.03
+"26,683",CreateLocalDBInstance,PowerDB Inc,system_component,EXCLUDE,createlocaldbinstance
+"33,413",PDF Report Writer (novaPDF 6.4 printer),Softland,application,EXCLUDE,pdf report writer (novapdf 6.4 printer)
+"28,406",ABB IED Connectivity Package RET615C Ver. 5.1.2,ABB Asea Brown Boveri Ltd,application,EXCLUDE,abb ied connectivity package ret615c ver. 5.1.2
+"22,259",Best Proxy: Fast &#38; Unlimited VPN functionality,Roob,store,EXCLUDE,best proxy: fast &#38; unlimited vpn functionality
+"24,073",TrackPoint,ELAN Microelectronics Corporation,store,EXCLUDE,trackpoint
+"26,254",AWB V2 - Host V2.1,Siemens AG,system_component,EXCLUDE,awb v2 - host v2.1
+"20,560",Cisco EAP-FAST Module,"Cisco Systems, Inc.",application,EXCLUDE,cisco eap-fast module
+"3,338",Audio Controls Application,Conexant Systems,,EXCLUDE,audio controls application
+"22,688",Key Remapper 1.13,ATNSOFT,application,EXCLUDE,key remapper 1.13
+"8,222",PlantCheck,PlantCheck,,EXCLUDE,plantcheck
+"28,393",ABB IED Connectivity Package REM615C Ver. 5.1.2,ABB Asea Brown Boveri Ltd,application,EXCLUDE,abb ied connectivity package rem615c ver. 5.1.2
+"21,490",Microsoft Visio Premium 2010,Microsoft Corporation,application,INCLUDE,microsoft visio premium 2010
+"29,923",zebNet Office Keyfinder,zebNet Ltd,application,EXCLUDE,zebnet office keyfinder
+"5,232",Yamaha USB-MIDI Driver,Yamaha Corporation,,EXCLUDE,yamaha usb-midi driver
+"5,401",UltraViewer version 6.1.0.6,DucFabulous,,EXCLUDE,ultraviewer version 6.1.0.6
+"7,727",Python 3.7.5 Executables (64-bit),Python Software Foundation,,EXCLUDE,python 3.7.5 executables (64-bit)
+"34,347",Surfer 16,Golden Software,application,EXCLUDE,surfer 16
+"7,408",Cops Vs Robbers: Jail Break,"Aeria Canada Studio, Inc.",,EXCLUDE,cops vs robbers: jail break
+"5,200",HP Solution Center 14.0,HP,,EXCLUDE,hp solution center 14.0
+"5,897",Iron Blade - Medieval Legends RPG,Gameloft SE,,EXCLUDE,iron blade - medieval legends rpg
+"33,606",SQL Server 2012 Data quality service,Microsoft Corporation,system_component,EXCLUDE,sql server 2012 data quality service
+"29,410",XCopyGUI,Cemique,application,EXCLUDE,xcopygui
+"5,783",Macro Hub 2.3.0,GIGABYTE,,EXCLUDE,macro hub 2.3.0
+"6,848",SoulseekQt version 2019.7.22,Soulseek LLC,,EXCLUDE,soulseekqt version 2019.7.22
+"27,328",CCXP_4_1_0_32,Adobe Inc.,application,EXCLUDE,ccxp_4_1_0_32
+"4,179",HP Notifications,HP,,EXCLUDE,hp notifications
+"9,438",COSY_5_6_2_32,Adobe Inc.,,EXCLUDE,cosy_5_6_2_32
+"4,912",AutoCAD Civil 3D 2013 Language Pack - English,AUTODESK,,EXCLUDE,autocad civil 3d 2013 language pack - english
+"5,223",GPBaseService2,Hewlett-Packard,,EXCLUDE,gpbaseservice2
+"4,399",Samsung DeX,"Samsung Electronics Co., Ltd.",,EXCLUDE,samsung dex
+"21,512",UltraViewer version 6.6.31,DucFabulous,application,EXCLUDE,ultraviewer version 6.6.31
+"33,809",Bonjour,Apple Inc.,application,EXCLUDE,bonjour
+"27,996",Microsoft LightSwitch for Visual Studio 2013 v4.0 Tools,Microsoft Corporation,system_component,EXCLUDE,microsoft lightswitch for visual studio 2013 v4.0 tools
+"5,984",UltraViewer version 6.2.0.59,DucFabulous,,EXCLUDE,ultraviewer version 6.2.0.59
+"29,048",Tableau 2022.1 (20221.22.0324.2209),"Tableau Software, LLC",application,EXCLUDE,tableau 2022.1 (20221.22.0324.2209)
+"3,464",CX-Server RT,OMRON Corporation,,EXCLUDE,cx-server rt
+"29,686",ACR_16_2_1_32,Adobe Inc.,application,EXCLUDE,acr_16_2_1_32
+"26,866",UT SOLUTION FITSCREEN,,application,EXCLUDE,ut solution fitscreen
+"27,574",Microsoft Office Home and Student 2019 - id-id,Microsoft Corporation,application,INCLUDE,microsoft office home and student 2019 - id-id
+"6,821",Autodesk AutoCAD Plant 3D 2020 Core,AUTODESK,,EXCLUDE,autodesk autocad plant 3d 2020 core
+"36,740",Zuma Deluxe 1.0,PopCap Games,application,EXCLUDE,zuma deluxe 1.0
+"21,227",Corel Graphics - Windows Shell Extension 64 Bit,Corel Corporation,system_component,EXCLUDE,corel graphics - windows shell extension 64 bit
+"23,873",FortiClient,Fortinet Technologies Inc,application,EXCLUDE,forticlient
+"32,541",NI LabVIEW 2016 Database Connectivity Toolkit,National Instruments,system_component,EXCLUDE,ni labview 2016 database connectivity toolkit
+"18,584",Python 3.10.10 Test Suite (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.10.10 test suite (64-bit)
+"26,661",Simulation Tool for Soft Starters V5.0 + SP3,Siemens AG,application,EXCLUDE,simulation tool for soft starters v5.0 + sp3
+"5,164",K-Lite Codec Pack 13.6.0 Full,KLCP,,EXCLUDE,k-lite codec pack 13.6.0 full
+"7,268",TreeSize Free V3.4.5,JAM Software,,EXCLUDE,treesize free v3.4.5
+"35,872",Easy-WebPrint EX,Canon Inc.,application,EXCLUDE,easy-webprint ex
+"22,062",Microsoft Windows 10 Pro,,,INCLUDE,microsoft windows 10 pro
+"26,605",SysTools Outlook PST Viewer v5.0,SysTools Software Pvt. Ltd.,application,EXCLUDE,systools outlook pst viewer v5.0
+"34,923",Erlang OTP 27.3 (15.2.3),Ericsson AB,application,EXCLUDE,erlang otp 27.3 (15.2.3)
+"38,420",Notes - Keep,Device Manager,store,EXCLUDE,notes - keep
+"27,628",KeyboardTest v4,PassMark Software,application,EXCLUDE,keyboardtest v4
+"23,668",HP System Information,Microsoft Corporation,system,EXCLUDE,hp system information
+"3,624",Galileo Desktop,Travelport,,EXCLUDE,galileo desktop
+"21,925",VMware vCenter Converter Standalone Agent,"VMware, Inc.",application,EXCLUDE,vmware vcenter converter standalone agent
+"36,605",Stockbit,PT Stockbit Sekuritas Digital,application,EXCLUDE,stockbit
+"28,195",Tenorshare iCareFone 8.8.1.14,"Tenorshare, Inc.",application,EXCLUDE,tenorshare icarefone 8.8.1.14
+"7,694",Need for Racing: New Speed Car on Real Asphalt Tracks,T-Bull Sp. z.o.o.,,EXCLUDE,need for racing: new speed car on real asphalt tracks
+"8,821",VeePN version 1.2.11,"IT Reasearch, LLC",,EXCLUDE,veepn version 1.2.11
+"20,739",Siemens Totally Integrated Automation Portal V17 - TIACOMPCHECK Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v17 - tiacompcheck single setuppackage v17.0
+"28,720",TaxBase X,PT Integral Data Prima,application,EXCLUDE,taxbase x
+"8,570",SatuVISI Indict versi 2.0.0,log.web.id,,EXCLUDE,satuvisi indict versi 2.0.0
+"27,269",Python 3.9.13 Development Libraries (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.9.13 development libraries (64-bit)
+"24,130",Python 3.13.5 Executables (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.5 executables (64-bit)
+"20,140",FormatFactory 5.13.0.0,Free Time,application,EXCLUDE,formatfactory 5.13.0.0
+"7,738",Outils de vÃ©rification linguistique 2013 de Microsoft Office?- Fran?ais,Microsoft Corporation,,EXCLUDE,outils de vã©rification linguistique 2013 de microsoft office?- fran?ais
+"26,663",MotionStudio,SEW-EURODRIVE GmbH &#38; Co KG,application,EXCLUDE,motionstudio
+"27,226",35237JoyJourney.Hairsalonforgirls,Joy Journey,store,EXCLUDE,35237joyjourney.hairsalonforgirls
+"27,804",libintl,,libraries,EXCLUDE,libintl
+"5,188",UltraViewer version 6.2.92,DucFabulous,,EXCLUDE,ultraviewer version 6.2.92
+"19,705",HWiNFO64 Version 7.36,Martin Malík - REALiX,application,EXCLUDE,hwinfo64 version 7.36
+"17,433",Microsoft Office Access Setup Metadata MUI (English) 2010,Microsoft Corporation,system_component,EXCLUDE,microsoft office access setup metadata mui (english) 2010
+"8,679",Community Showcase Dramatic Skies 2,Microsoft Corporation,,EXCLUDE,community showcase dramatic skies 2
+"7,021",Sun and Sand PREMIUM,Microsoft Corporation,,EXCLUDE,sun and sand premium
+"28,150",Movie Maker - Video Editor FREE,V3TApps,store,EXCLUDE,movie maker - video editor free
+"9,453",MetaTrader 4 EXNESS,MetaQuotes Ltd.,,EXCLUDE,metatrader 4 exness
+"21,278",CorelDRAW Graphics Suite X7 - Draw,Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite x7 - draw
+"25,984",hppusgP1000,Hewlett-Packard,system_component,EXCLUDE,hppusgp1000
+"29,690",Microsoft Visual Studio Tools for Applications 2022,Microsoft Corporation,application,EXCLUDE,microsoft visual studio tools for applications 2022
+"29,226",SAP GUI for Windows 7.70,SAP SE,application,EXCLUDE,sap gui for windows 7.70
+"36,639",Google Books Downloader version 2.7,GBOOKSDOWNLOADER.COM,application,EXCLUDE,google books downloader version 2.7
+"4,755",Python 3.8.1 Development Libraries (32-bit),Python Software Foundation,,EXCLUDE,python 3.8.1 development libraries (32-bit)
+"27,936",pgJDBC 42.7.2,EnterpriseDB,application,EXCLUDE,pgjdbc 42.7.2
+"21,188",PowerToys (Preview) x64,Microsoft Corporation,application,EXCLUDE,powertoys (preview) x64
+"24,260",SQL Server 2022 Full text search,Microsoft Corporation,system_component,EXCLUDE,sql server 2022 full text search
+"27,864",Visual Studio 2013 Prerequisites - ENU Language Pack,Microsoft Corporation,system_component,EXCLUDE,visual studio 2013 prerequisites - enu language pack
+"3,783",Microsoft Visual Studio Tools for Applications 2019,Microsoft Corporation,,EXCLUDE,microsoft visual studio tools for applications 2019
+"8,405",SIMATIC WinCC/ConnectivityPack Client V7.3 + Upd1  ,Siemens AG,,EXCLUDE,simatic wincc/connectivitypack client v7.3 + upd1
+"28,453",KANC_6_0_0_32,Adobe Inc.,application,EXCLUDE,kanc_6_0_0_32
+"26,067",ArcGIS 10.2 License Manager,"Environmental Systems Research Institute, Inc.",application,EXCLUDE,arcgis 10.2 license manager
+"25,126",Microsoft SQL Server 2016 RsFx Driver,Microsoft Corporation,system_component,EXCLUDE,microsoft sql server 2016 rsfx driver
+"5,924",eTransmit for Autodesk Revit 2018,AUTODESK,,EXCLUDE,etransmit for autodesk revit 2018
+"27,919",Microsoft Team Foundation Server 2013 Object Model Language Pack (x64) - ENU,Microsoft Corporation,system_component,EXCLUDE,microsoft team foundation server 2013 object model language pack (x64) - enu
+"7,643",VIMSpc 2015A,Caterpillar Inc.,,EXCLUDE,vimspc 2015a
+"22,862",InstallWIX_{4FC79BE9-AD63-46C0-9626-E4F6BCE6A976},,application,EXCLUDE,installwix_{4fc79be9-ad63-46c0-9626-e4f6bce6a976}
+"21,988",Host OpenAL,Creative Technology Limited,application,EXCLUDE,host openal
+"6,840",ACR_11_2_32,Adobe Systems Incorporated,,EXCLUDE,acr_11_2_32
+"19,965",Lenovo Pen Settings,Wacom Technology Corp.,store,EXCLUDE,lenovo pen settings
+"26,191",Siemens Totally Integrated Automation Portal V16 - Version Control Interface SetupPackage V16.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v16 - version control interface setuppackage v16.0
+"4,491",Siemens Totally Integrated Automation Portal V15,Siemens AG,,EXCLUDE,siemens totally integrated automation portal v15
+"27,174",Nero Burning ROM_Nero Express,,application,EXCLUDE,nero burning rom_nero express
+"32,275",GIMP 2.10.38,The GIMP Team,application,EXCLUDE,gimp 2.10.38
+"20,134",Python 3.10.1 Core Interpreter (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.10.1 core interpreter (64-bit)
+"6,655",Autodesk Vehicle Tracking 2019 (64 bit) Core,"Autodesk, Inc.",,EXCLUDE,autodesk vehicle tracking 2019 (64 bit) core
+"22,236",Wondershare MobileTrans ( Version 4.1.2 ),Wondershare,application,EXCLUDE,wondershare mobiletrans ( version 4.1.2 )
+"32,161",Khiro.AwqatSalaatWinUI,Khiro,store,EXCLUDE,khiro.awqatsalaatwinui
+"26,560",Core Temp 1.19.5,ALCPU,application,EXCLUDE,core temp 1.19.5
+"19,473",TypeScript SDK,Microsoft Corporation,system_component,EXCLUDE,typescript sdk
+"37,031",WebCam Monitor,DeskShare,store,EXCLUDE,webcam monitor
+"23,552",Termius,Termius Corporation,store,EXCLUDE,termius
+"4,499",Drive Composer Entry Installer,ABB,,EXCLUDE,drive composer entry installer
+"19,671",Microsoft Windows OOBENetworkCaptivePortal,"CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",system,EXCLUDE,microsoft windows oobenetworkcaptiveportal
+"6,362",Tekla License Administration Tool 2019,Trimble Solutions Corporation,,EXCLUDE,tekla license administration tool 2019
+231,Adobe Photoshop CC Licending Subscription,Adobe,License,INCLUDE,adobe photoshop cc licending subscription
+"23,166",Lansweeper,Lansweeper.com,application,EXCLUDE,lansweeper
+"33,479",CorelDRAW Graphics Suite 2019 - EN (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2019 - en (x64)
+"29,687",Adobe Animate 2024,Adobe Inc.,application,EXCLUDE,adobe animate 2024
+"3,905",GEOVIA MineSched 9.0.0 (x64) ,Dassault Systemes GEOVIA Inc.,,EXCLUDE,geovia minesched 9.0.0 (x64)
+"32,368",NI LabWindows/CVI 2013 SP2 Network Variable Library (64-bit),National Instruments,system_component,EXCLUDE,ni labwindows/cvi 2013 sp2 network variable library (64-bit)
+"27,513",Silicon Laboratories CP210x VCP Drivers for Windows 7_2 (c:\SiLabs\MCU\CP210x\Windows_7_2),"Silicon Laboratories, Inc.",application,EXCLUDE,silicon laboratories cp210x vcp drivers for windows 7_2 (c:\silabs\mcu\cp210x\windows_7_2)
+"8,896",CorelDRAW Graphics Suite 2021 - IPM Content SV (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - ipm content sv (x64)
+"22,683",3uTools(32bit),"Shenzhen Aidapu Network Technology Co.,Ltd.",application,EXCLUDE,3utools(32bit)
+"32,458",Simply Modbus Master 7.1.2,NI,application,EXCLUDE,simply modbus master 7.1.2
+"8,196",Microsoft Visual Basic 6.0 Enterprise Edition,,,EXCLUDE,microsoft visual basic 6.0 enterprise edition
+"19,340",Microsoft Command Line Utilities 15 for SQL Server,Microsoft Corporation,application,EXCLUDE,microsoft command line utilities 15 for sql server
+"25,930",Sophos Endpoint Agent,Sophos Limited,application,EXCLUDE,sophos endpoint agent
+"26,613",FL Studio 2025,Image-Line,application,EXCLUDE,fl studio 2025
+"25,348",VWBSetup,WilmarGroup,application,EXCLUDE,vwbsetup
+"33,518",Bullzip PDF Printer 12.2.0.2905,Bullzip,application,EXCLUDE,bullzip pdf printer 12.2.0.2905
+"25,117",SQL Server 2016 Connection Info,Microsoft Corporation,system_component,EXCLUDE,sql server 2016 connection info
+"9,040",CCXP_4_6_4_32,Adobe Inc.,,EXCLUDE,ccxp_4_6_4_32
+"7,777",HWiNFO64 Version 6.40,Martin Malík - REALiX,,EXCLUDE,hwinfo64 version 6.40
+"21,719",Oracle VM VirtualBox 7.0.8,Oracle and/or its affiliates,application,EXCLUDE,oracle vm virtualbox 7.0.8
+"37,657",Virtual Assistant,Asus,application,EXCLUDE,virtual assistant
+"26,302",SIMATIC WinCC flexible Runtime 2008 SP5,Siemens AG,application,EXCLUDE,simatic wincc flexible runtime 2008 sp5
+"32,455",NI Remote PXI Provider for MAX 16.0.0,National Instruments,system_component,EXCLUDE,ni remote pxi provider for max 16.0.0
+"38,142",AweSun,"Shanghai Best Oray Information Technology Co., Ltd.",application,EXCLUDE,awesun
+"3,576",eSPT Masa PPh pasal 15 v1.1,Direktorat Jenderal Pajak,,EXCLUDE,espt masa pph pasal 15 v1.1
+"38,618",FilmCraft,Learning Machines LLC,application,EXCLUDE,filmcraft
+"38,192",Mozilla Maintenance Service,Mozilla,application,EXCLUDE,mozilla maintenance service
+"26,643",Get started,Microsoft Corporation,,EXCLUDE,get started
+"5,859",Autodesk Advanced Material Library Image Library 2017,AUTODESK,,EXCLUDE,autodesk advanced material library image library 2017
+"27,865",Microsoft Windows Desktop Targeting Pack - 9.0.3 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 9.0.3 (x64)
+"23,674",Send Files to TV version 0.3.4,Yablio,application,EXCLUDE,send files to tv version 0.3.4
+"32,911",Camersoft Webcam Capture 2.2.32,Camersoft Studio,application,EXCLUDE,camersoft webcam capture 2.2.32
+"28,983",Python 3.13.2 pip Bootstrap (32-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.2 pip bootstrap (32-bit)
+"6,108",CorelDRAW Graphics Suite 2020 - Setup Files (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2020 - setup files (x64)
+"9,428",COSY_5_6_0_32,Adobe Inc.,,EXCLUDE,cosy_5_6_0_32
+"36,574",Quickstart Agent,OEM,application,EXCLUDE,quickstart agent
+"35,919",OMNIKEY Workbench Tool 2.2.0,HID Global,application,EXCLUDE,omnikey workbench tool 2.2.0
+"26,114",Quest KACE Agent,Quest Software Inc.,system_component,EXCLUDE,quest kace agent
+"7,615",Python 3.9.1 pip Bootstrap (64-bit),Python Software Foundation,,EXCLUDE,python 3.9.1 pip bootstrap (64-bit)
+"21,819",ACEF - Aplikasi Cetak Foto,,application,EXCLUDE,acef - aplikasi cetak foto
+"6,404",Nero Burning ROM 2020,Nero,,EXCLUDE,nero burning rom 2020
+"6,842",CCXP_2_6_1_1_32,Adobe Systems Incorporated,,EXCLUDE,ccxp_2_6_1_1_32
+"27,832",openssl,,,EXCLUDE,openssl
+"24,700",Windows App Runtime DDLM 5001.119.156.0-x6,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 5001.119.156.0-x6
+"3,953",Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding (x64),Microsoft,,EXCLUDE,microsoft visual studio team foundation server 2015 update 3 ctp1 storyboarding (x64)
+"31,881",ACR_18_2_3_32,Adobe Inc.,application,EXCLUDE,acr_18_2_3_32
+"34,709",QR Master - QR Code Generator,The HasCoding Team,store,EXCLUDE,qr master - qr code generator
+"33,561",Oracle VirtualBox 7.2.4,Oracle and/or its affiliates,application,EXCLUDE,oracle virtualbox 7.2.4
+"9,745",Go Programming Language amd64 go1.19,https://golang.org,,EXCLUDE,go programming language amd64 go1.19
+"7,097",INISAFE CrossWeb EX V3,"Initech, Inc.",,EXCLUDE,inisafe crossweb ex v3
+"3,459",SIMATIC HMI Symbol Library,Siemens AG,,EXCLUDE,simatic hmi symbol library
+"37,042",RealVNC Connect 8.4.2,RealVNC,application,EXCLUDE,realvnc connect 8.4.2
+"25,960",Sophos AutoUpdate,Sophos Limited,system_component,EXCLUDE,sophos autoupdate
+"27,315",X-VPN - Free Unlimited VPN Proxy,Free Connected Limited.,store,EXCLUDE,x-vpn - free unlimited vpn proxy
+"37,267",Microsoft MSPaint,Microsoft Corporation,store,EXCLUDE,microsoft mspaint
+"27,235",Microsoft Visio LTSC Professional 2024 - en-us,Microsoft Corporation,application,INCLUDE,microsoft visio ltsc professional 2024 - en-us
+"28,405",ABB 670 series 2.0.0 en-US ANSI Add-on,ABB AB,application,EXCLUDE,abb 670 series 2.0.0 en-us ansi add-on
+"23,385",Python 3.12.3 pip Bootstrap (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.12.3 pip bootstrap (64-bit)
+94,Microsoft Office 2013 Sngl OLP,Microsoft,License,INCLUDE,microsoft office 2013 sngl olp
+"16,974",DTS Sound Unbound,"DTS, Inc.",store,EXCLUDE,dts sound unbound
+"20,239",Bandicam MPEG-1 Decoder,Bandicam.com,application,EXCLUDE,bandicam mpeg-1 decoder
+"6,498",windows immersivecontrolpanel,"CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",,EXCLUDE,windows immersivecontrolpanel
+"21,812",Movavi Video Editor 23.3.0,LR,application,EXCLUDE,movavi video editor 23.3.0
+"36,543",FileZilla 3.70.6,Tim Kosse,application,EXCLUDE,filezilla 3.70.6
+"19,265",CorelDRAW Graphics Suite X7 - DE (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite x7 - de (x64)
+"27,624",OMNITREND Center Server,PRUFTECHNIK,application,EXCLUDE,omnitrend center server
+"33,422",Foxit PDF Reader,Foxit Software Inc.,application,EXCLUDE,foxit pdf reader
+"19,622",Windows Live UX Platform,Microsoft Corporation,system_component,EXCLUDE,windows live ux platform
+"32,504",NI LabVIEW 2016 Help File,National Instruments,system_component,EXCLUDE,ni labview 2016 help file
+"19,283",CorelDRAW Graphics Suite X7 - FR (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite x7 - fr (x64)
+"28,181",Dragon Application Assemblies,Emerson,system_component,EXCLUDE,dragon application assemblies
+"4,875",Microsoft Visio Professional 2013,Microsoft Corporation,,INCLUDE,microsoft visio professional 2013
+"23,813",Windows App Runtime DDLM 3000.882.2207.0-x6,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 3000.882.2207.0-x6
+"3,839",Mail and Calendar,Microsoft Platform Extensions,,EXCLUDE,mail and calendar
+"6,361",Sentinel Protection Installer 7.6.2,"SafeNet, Inc.",,EXCLUDE,sentinel protection installer 7.6.2
+"26,230",Microsoft Visual Basic for Applications 7.1 (x64) Japanese,Microsoft Corporation,system_component,EXCLUDE,microsoft visual basic for applications 7.1 (x64) japanese
+"26,829",UnRar Metro,QuantumVM,store,EXCLUDE,unrar metro
+"18,633",Microsoft Windows Desktop Runtime - 6.0.7 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 6.0.7 (x64)
+"32,594",Google Books Downloader version 2.0,GBOOKSDOWNLOADER.COM,application,EXCLUDE,google books downloader version 2.0
+"6,993",TPB version 3.1.6,DJBC,,EXCLUDE,tpb version 3.1.6
+"21,811",Logitech Unifying Software 2.52,Logitech,application,EXCLUDE,logitech unifying software 2.52
+"33,430",PDF X,NG PDF Lab,store,EXCLUDE,pdf x
+"5,138",Autodesk Featured Apps 2016-2018,AUTODESK,,EXCLUDE,autodesk featured apps 2016-2018
+"29,072",ACR_17_2_32,Adobe Inc.,application,EXCLUDE,acr_17_2_32
+"5,145",Autodesk Download Manager,"Autodesk, Inc.",,EXCLUDE,autodesk download manager
+"34,645",Desktop Magic,Stone_Red,store,EXCLUDE,desktop magic
+"23,115",Siemens Totally Integrated Automation Portal V13 - Hardware Support Base Package 03 V13.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v13 - hardware support base package 03 v13.0
+"7,685",Microsoft Visio - en-us,Microsoft Corporation,,INCLUDE,microsoft visio - en-us
+"21,853",Microsoft Office Standard 2016 - en-us,Microsoft Corporation,application,INCLUDE,microsoft office standard 2016 - en-us
+"22,828",CorelDRAW Graphics Suite 2017 - VBA (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2017 - vba (x64)
+"24,818",Aspire.Hosting.Sdk (x64),Microsoft Corporation,system_component,EXCLUDE,aspire.hosting.sdk (x64)
+"24,676",MicrosoftWindows.58681517.Voiess,Microsoft Corporation,system,EXCLUDE,microsoftwindows.58681517.voiess
+"3,910",GlobalMapper 19 (64-bit),Blue Marble Geographics,,EXCLUDE,globalmapper 19 (64-bit)
+"28,313",Global Mapper 25.1 64-bit,Blue Marble Geographics,application,EXCLUDE,global mapper 25.1 64-bit
+"24,358",Python 3.13.6 Tcl/Tk Support (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.6 tcl/tk support (64-bit)
+"25,582",DTS Audio Processing,"DTS, Inc.",store,EXCLUDE,dts audio processing
+"24,361",Python 3.13.6 pip Bootstrap (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.6 pip bootstrap (64-bit)
+"21,903",Administrative Templates (.admx) for Windows 10 May 2021 Update,Microsoft Coporation,application,EXCLUDE,administrative templates (.admx) for windows 10 may 2021 update
+"28,312",QGIS 3.28.13 'Firenze',QGIS.org,application,EXCLUDE,qgis 3.28.13 'firenze'
+"17,105",Revo Uninstaller Pro 4.5.5,"VS Revo Group, Ltd.",application,EXCLUDE,revo uninstaller pro 4.5.5
+"6,828",Dell WLAN Radio Switch Driver,Dell Inc,,EXCLUDE,dell wlan radio switch driver
+"28,919",Portal Cemindo Gemilang,cemindo-apps.com,none,EXCLUDE,portal cemindo gemilang
+"32,380",NI-RPC 16.0.0f0 for Phar Lap ETS,National Instruments,system_component,EXCLUDE,ni-rpc 16.0.0f0 for phar lap ets
+"27,970",WCF RIA Services V1.0 SP2,Microsoft Corporation,application,EXCLUDE,wcf ria services v1.0 sp2
+"5,909","8 Zip - unpack RAR, ZIP, 7z for free",Finebits OÜ,,EXCLUDE,"8 zip - unpack rar, zip, 7z for free"
+"20,729",Siemens Totally Integrated Automation Portal V17 - STEP 7 Safety Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v17 - step 7 safety single setuppackage v17.0
+"28,712",Network Tools Collection Desktop Edition,"Wuhan Bami Technology Co., Ltd.",store,EXCLUDE,network tools collection desktop edition
+"26,610",Wasabi Explorer for Cloud Storage 6.7,Wasabi,application,EXCLUDE,wasabi explorer for cloud storage 6.7
+"3,671",SAP GUI for Windows 7.50  (Patch 4),SAP SE,,EXCLUDE,sap gui for windows 7.50 (patch 4)
+"20,660",Andal PayMaster 2016 - TI,Andal Software,application,EXCLUDE,andal paymaster 2016 - ti
+"25,401",AOMEI Partition Assistant 10.10.0,AOMEI International Network Limited.,application,EXCLUDE,aomei partition assistant 10.10.0
+"25,243",Google Workspace Sync for Microsoft Outlook® 4.3.94.0,"Google, Inc.",application,EXCLUDE,google workspace sync for microsoft outlook® 4.3.94.0
+"8,487",Add Folder Suggestions dialog,Microsoft Windows,,EXCLUDE,add folder suggestions dialog
+"20,876",Autodesk Navisworks Freedom 2022 - ?? ? - ???(Korean),AUTODESK,system_component,EXCLUDE,autodesk navisworks freedom 2022 - ?? ? - ???(korean)
+"37,259",Acronis Backup & Recovery 11.5 Tray Monitor,Acronis,application,EXCLUDE,acronis backup & recovery 11.5 tray monitor
+"27,830",ncurses,,,EXCLUDE,ncurses
+"20,157",Global Mapper 22.0 64-bit,Blue Marble Geographics,application,EXCLUDE,global mapper 22.0 64-bit
+"3,843",Microsoft Sticky Notes,Microsoft Platform Extensions,,EXCLUDE,microsoft sticky notes
+"27,835",pacman-contrib,,,EXCLUDE,pacman-contrib
+"25,291",HCWebControl,"Hangzhou Hikvision Digital Technology Co., Ltd.",application,EXCLUDE,hcwebcontrol
+"22,709",McAfee,"McAfee, LLC",developer,EXCLUDE,mcafee
+"6,403",Adobe Acrobat DC (2015),Adobe Systems Incorporated,,INCLUDE,adobe acrobat dc (2015)
+"23,245",OpenSSL 3.2.0 Light (64-bit),OpenSSL Win64 Installer Team,application,EXCLUDE,openssl 3.2.0 light (64-bit)
+"8,661",Snow Sculptures,Microsoft Corporation,,EXCLUDE,snow sculptures
+"8,560",Microsoft_VC80_MFC_x86_x64,Adobe,,EXCLUDE,microsoft_vc80_mfc_x86_x64
+"32,650",HMS Core,"Huawei technologies Co., Ltd.",application,EXCLUDE,hms core
+"29,084",OBSBOT Center version 2.0.13.29,"Remo Tech, Inc.",application,EXCLUDE,obsbot center version 2.0.13.29
+"24,072",SenarySmartAudio,Senary Technology Limited,store,EXCLUDE,senarysmartaudio
+"4,114",Test Tools for Microsoft Visual Studio 2015,Microsoft Corporation,,EXCLUDE,test tools for microsoft visual studio 2015
+"23,637",Smart Microphone Settings,"Elevoc Technology Co., Ltd.",store,EXCLUDE,smart microphone settings
+"4,167",Microsoft Visual Studio 2015 Test Tools Language Pack - ENU,Microsoft Corporation,,EXCLUDE,microsoft visual studio 2015 test tools language pack - enu
+"26,731",Microsoft Windows Desktop Runtime - 8.0.15 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 8.0.15 (x64)
+"8,757",Python 3.9.6 Test Suite (64-bit),Python Software Foundation,,EXCLUDE,python 3.9.6 test suite (64-bit)
+"5,850",ACA & MEP 2017 Object Enabler,AUTODESK,,EXCLUDE,aca & mep 2017 object enabler
+"36,078",DisplayWidget Center,Asus,application,EXCLUDE,displaywidget center
+"27,716",TakeOwnershipEx,http://winaero.com,application,EXCLUDE,takeownershipex
+"5,575",UnRar Windows,QuantumVM,,EXCLUDE,unrar windows
+"37,162",Bitwar Data Recovery 7.56,Bitwar.net,application,EXCLUDE,bitwar data recovery 7.56
+"4,765",Python 3.8.1 Tcl/Tk Support (32-bit),Python Software Foundation,,EXCLUDE,python 3.8.1 tcl/tk support (32-bit)
+"37,205",Nickvision Parabolic 2026.5.0,Nickvision,application,EXCLUDE,nickvision parabolic 2026.5.0
+"33,639",Python 3.13.13 Standard Library (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.13 standard library (64-bit)
+"19,399",Microsoft SQL Server 2008 Native Client,Microsoft Corporation,application,EXCLUDE,microsoft sql server 2008 native client
+"26,734",Autodesk Navisworks Manage 2024,"Autodesk, Inc.",application,EXCLUDE,autodesk navisworks manage 2024
+"22,873",Windows App Runtime DDLM 5001.214.1843.0-x6,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 5001.214.1843.0-x6
+"36,637",Icecream PDF Editor 3.20,LR,application,EXCLUDE,icecream pdf editor 3.20
+"21,220",DriverEasy 4.7.10,Easeware,application,EXCLUDE,drivereasy 4.7.10
+"19,681",DirectX,Microsoft Corporation,store,EXCLUDE,directx
+"22,134",Remote Mouse,Remote Mouse Team,store,EXCLUDE,remote mouse
+"22,069",TransMac version 14.8,Acute Systems,application,EXCLUDE,transmac version 14.8
+"23,783",Lenovo Smart Storage(server),Lenovo Group Ltd.,application,EXCLUDE,lenovo smart storage(server)
+"28,672",Outbyte PC Repair,Outbyte Computing Pty Ltd,application,EXCLUDE,outbyte pc repair
+"26,749",Autodesk Revit 2026,"Autodesk, Inc.",application,EXCLUDE,autodesk revit 2026
+"28,426",NovaLCT V5.5.0,Nova Star,application,EXCLUDE,novalct v5.5.0
+"26,448",Autodesk Vehicle Tracking 2025 (64 bit) Core,"Autodesk, Inc.",system_component,EXCLUDE,autodesk vehicle tracking 2025 (64 bit) core
+"36,707",Everything 1.4.1.1017 (x64),voidtools,application,EXCLUDE,everything 1.4.1.1017 (x64)
+"36,749",The Iron Oath,Curious Panda Games,application,EXCLUDE,the iron oath
+"4,970",Mixed Reality Viewer,Microsoft Corporation,,EXCLUDE,mixed reality viewer
+"20,131",Python 3.10.1 Executables (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.10.1 executables (64-bit)
+"22,594",Folder Size 5.4.0.1,"MindGems, Inc.",application,EXCLUDE,folder size 5.4.0.1
+"23,964",CPUID CPU-Z 2.15,"CPUID, Inc.",application,EXCLUDE,cpuid cpu-z 2.15
+"9,550",Binance 1.35.0,BinanceTech,,EXCLUDE,binance 1.35.0
+"4,747",AMD User Experience Program Installer,"Advanced Micro Devices, Inc.",,EXCLUDE,amd user experience program installer
+"25,993",Simple Video Trim &#38; Merge,bSoft Studio,store,EXCLUDE,simple video trim &#38; merge
+"24,558",Microsoft Windows Desktop Targeting Pack - 9.0.9 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 9.0.9 (x64)
+"9,143",CCXP_4_7_2_32,Adobe Inc.,,EXCLUDE,ccxp_4_7_2_32
+"26,463",Autodesk Revit Content Essential-CHS 2021,,application,EXCLUDE,autodesk revit content essential-chs 2021
+"36,935",MySQL Connector/C++ 9.3,Oracle Corporation,application,EXCLUDE,mysql connector/c++ 9.3
+"7,458",K-Lite Codec Pack 11.2.0 Full,,,EXCLUDE,k-lite codec pack 11.2.0 full
+"28,291",Endress+Hauser NXA HART Comm DTM,Endress+Hauser,application,EXCLUDE,endress+hauser nxa hart comm dtm
+"28,588",iMyFone D-Back 9.2.3.3,"Shenzhen iMyFone Technology Co., Ltd.",application,EXCLUDE,imyfone d-back 9.2.3.3
+"8,878",CorelDRAW Graphics Suite 2021 - CT (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - ct (x64)
+"34,710",QR Code Generator Free,????,store,EXCLUDE,qr code generator free
+"5,174",CorelDRAW Graphics Suite X4 - FontNav,Corel Corporation,,EXCLUDE,coreldraw graphics suite x4 - fontnav
+"3,561",MPC-HC 1.7.10,MPC-HC Team,,EXCLUDE,mpc-hc 1.7.10
+"3,673",Windows Live MIME IFilter,Microsoft Corporation,,EXCLUDE,windows live mime ifilter
+"28,992",Zip Extractor And Unzip Pro,CoolLeGet Inc,store,EXCLUDE,zip extractor and unzip pro
+"23,210",Python 3.11.2 pip Bootstrap (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.11.2 pip bootstrap (64-bit)
+"5,727",Dell Display Manager,EnTech Taiwan,,EXCLUDE,dell display manager
+"3,554",hpStatusAlertsM435,Hewlett-Packard,,EXCLUDE,hpstatusalertsm435
+"8,906",CorelDRAW Graphics Suite 2021 - Custom Data (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - custom data (x64)
+"23,744",Spotify 1.2.59.515,LR,application,EXCLUDE,spotify 1.2.59.515
+"27,340",Microsoft Windows Desktop Targeting Pack - 8.0.17 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 8.0.17 (x64)
+"3,431",TIA Portal Single SetupPackage - WINCCBASUCL  V11.0 + SP11,Siemens AG,,EXCLUDE,tia portal single setuppackage - winccbasucl v11.0 + sp11
+"28,489",TasksBoard,tasksboard.com,none,EXCLUDE,tasksboard
+"17,947",Windows SDK for Windows Store Managed Apps Libs,Microsoft Corporation,system_component,EXCLUDE,windows sdk for windows store managed apps libs
+"37,286",QGIS 4.2.0 'Belém do Pará',QGIS.org,application,EXCLUDE,qgis 4.2.0 'belém do pará'
+"27,181",Windows Package Manager Source (platform) V2,"CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",store,EXCLUDE,windows package manager source (platform) v2
+"37,837",Heimdal RD Viewer 5.0.2551.156,Heimdal Security,application,EXCLUDE,heimdal rd viewer 5.0.2551.156
+"6,861",Samsung Magician,Samsung Electronics,,EXCLUDE,samsung magician
+"22,972",LAME v3.99.3 (for Windows),,application,EXCLUDE,lame v3.99.3 (for windows)
+"28,518",Python 3.12.1 Test Suite (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.12.1 test suite (64-bit)
+"26,132",Dell Optimizer Service,Dell Inc.,application,EXCLUDE,dell optimizer service
+"5,577",Weather,Microsoft Platform Extensions,,EXCLUDE,weather
+"23,420",Sniptool,DanStromi,application,EXCLUDE,sniptool
+"22,845",CorelDRAW Graphics Suite 2017 - Common Retail (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2017 - common retail (x64)
+"33,508",Bullzip PDF Printer 14.0.0.2944,Bullzip,application,EXCLUDE,bullzip pdf printer 14.0.0.2944
+"32,928",V380.1.2.5.780,M@cro-video Technologies Co.,application,EXCLUDE,v380.1.2.5.780
+"8,889",CorelDRAW Graphics Suite 2021 - IPM Content PL (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - ipm content pl (x64)
+"25,611",RealVNC Viewer 7.13.1,RealVNC,application,EXCLUDE,realvnc viewer 7.13.1
+"27,828",msys2-runtime,,,EXCLUDE,msys2-runtime
+"25,114",SQL Server 2016 Database Engine Shared,Microsoft Corporation,system_component,EXCLUDE,sql server 2016 database engine shared
+"9,208",Audacity 3.1.3,Audacity Team,,EXCLUDE,audacity 3.1.3
+"7,266",K-Lite Codec Pack 15.7.7 Full,KLCP,,EXCLUDE,k-lite codec pack 15.7.7 full
+"26,148",MPC-HC 2.1.5 (64-bit),MPC-HC Team,application,EXCLUDE,mpc-hc 2.1.5 (64-bit)
+"17,419",Microsoft Office Excel MUI (English) 2010,Microsoft Corporation,system_component,EXCLUDE,microsoft office excel mui (english) 2010
+"8,870",CorelDRAW Graphics Suite 2021 - Common (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - common (x64)
+"7,555",TOTOLINK RT2870 Wireless LAN Card,TOTOLINK,,EXCLUDE,totolink rt2870 wireless lan card
+"33,091",MATLAB R2017a,MathWorks,application,EXCLUDE,matlab r2017a
+"28,034",Microsoft Visual Studio Professional 2013 - ENU,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio professional 2013 - enu
+"24,975",DBeaverUltimate 24.2.0,DBeaver Corp,application,EXCLUDE,dbeaverultimate 24.2.0
+"3,931",Microsoft Help Viewer 1.0,Microsoft Corporation,,EXCLUDE,microsoft help viewer 1.0
+"37,143",QGIS 3.44.11 'Solothurn',QGIS.org,application,EXCLUDE,qgis 3.44.11 'solothurn'
+"3,510",HP Deskjet 1000 J110 series Product Improvement Study,Hewlett-Packard Co.,,EXCLUDE,hp deskjet 1000 j110 series product improvement study
+"38,059",BCA2B5D8-E1A0-48F0-9371-BACC61B89D39_is1,,application,EXCLUDE,bca2b5d8-e1a0-48f0-9371-bacc61b89d39_is1
+"33,456",PDF-Viewer,Tracker Software Products Ltd,application,EXCLUDE,pdf-viewer
+"3,221",Microsoft Office Enterprise 2007,Microsoft Corporation,,INCLUDE,microsoft office enterprise 2007
+"32,495",NI LabVIEW 2016 Help,National Instruments,system_component,EXCLUDE,ni labview 2016 help
+"4,537",SIMATIC WinCC Common Archiving,Siemens AG,,EXCLUDE,simatic wincc common archiving
+"33,621",Microsoft SQL Server 2012 Policies,Microsoft Corporation,application,EXCLUDE,microsoft sql server 2012 policies
+"19,507",MySQL Connector Net 8.0.23,Oracle,application,EXCLUDE,mysql connector net 8.0.23
+"22,268",XCA,Christian Hohnstädt,store,EXCLUDE,xca
+"8,219",Roxio Central Copy,Roxio,,EXCLUDE,roxio central copy
+"21,985",Creative Audio Device Selection Unicode,Creative Technology Limited,application,EXCLUDE,creative audio device selection unicode
+"22,864",InstallWIX_{FF2A12B8-AEB7-48C0-95C8-E2E3D67DFCB2},,application,EXCLUDE,installwix_{ff2a12b8-aeb7-48c0-95c8-e2e3d67dfcb2}
+"33,597",doPDF,Softland,system_component,EXCLUDE,dopdf
+"4,090",Composer - Php Dependency Manager,getcomposer.org,,EXCLUDE,composer - php dependency manager
+"7,639",FileZilla Client 3.50.0,Tim Kosse,,EXCLUDE,filezilla client 3.50.0
+"27,921",Python 3.13.1 Tcl/Tk Support (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.1 tcl/tk support (64-bit)
+"7,223",Hovercraft: Takedown,High Score Hero LLC,,EXCLUDE,hovercraft: takedown
+"7,666",GPX viewer and recorder,stefano64,,EXCLUDE,gpx viewer and recorder
+"36,801",Rockstar Games Launcher,Rockstar Games,application,EXCLUDE,rockstar games launcher
+"37,859",Nmap 7.991,Nmap Project,application,EXCLUDE,nmap 7.991
+"17,870",Universal CRT Tools x64,Microsoft Corporation,system_component,EXCLUDE,universal crt tools x64
+"6,618",Python 3.7.9 Development Libraries (64-bit),Python Software Foundation,,EXCLUDE,python 3.7.9 development libraries (64-bit)
+"6,037",CorelDRAW Graphics Suite 2018,Corel Corporation,,EXCLUDE,coreldraw graphics suite 2018
+"22,442",Python 3.12.0 Add to Path (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.12.0 add to path (64-bit)
+"17,487",eSPT PPh Masa Pasal 22,DJP,application,EXCLUDE,espt pph masa pasal 22
+"21,173",64 Bit HP CIO Components Installer,Hewlett-Packard,system_component,EXCLUDE,64 bit hp cio components installer
+"5,618",Farmerama,"MyPlayCity, Inc.",,EXCLUDE,farmerama
+"18,760",RAV Endpoint Protection,Reason Cybersecurity Inc.,application,EXCLUDE,rav endpoint protection
+"36,512",Tungsten eCopy ShareScan 2025.3 Web Components,"Tungsten Automation, Corp.",application,EXCLUDE,tungsten ecopy sharescan 2025.3 web components
+"29,749",Microsoft Windows Desktop Targeting Pack - 8.0.25 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 8.0.25 (x64)
+"4,059",Microsoft Visual Studio 2015 Profiling Tools,Microsoft Corporation,,EXCLUDE,microsoft visual studio 2015 profiling tools
+"4,086",vs_minshellmsires,Microsoft Corporation,,EXCLUDE,vs_minshellmsires
+"4,143",vs_professionalmsi,Microsoft Corporation,,EXCLUDE,vs_professionalmsi
+"5,338",Learn To Speak English 7.0,,,EXCLUDE,learn to speak english 7.0
+"7,722",Python 3.8.6 Development Libraries (64-bit),Python Software Foundation,,EXCLUDE,python 3.8.6 development libraries (64-bit)
+"27,935",Visual Studio Professional 2022,Microsoft Corporation,application,EXCLUDE,visual studio professional 2022
+"3,780",CORG_1_1_32,Adobe Systems Incorporated,,EXCLUDE,corg_1_1_32
+"6,364",Autodesk Material Library Base Resolution Image Library 2015,AUTODESK,,EXCLUDE,autodesk material library base resolution image library 2015
+"4,866",Workplace or school account,Microsoft Corporation,,EXCLUDE,workplace or school account
+"23,548",FTP Utility,KONICA MINOLTA,application,EXCLUDE,ftp utility
+"25,347",UltraViewer version 6.2.0.46,DucFabulous,application,EXCLUDE,ultraviewer version 6.2.0.46
+"19,999",TreeSize Free V4.5.1,JAM Software,application,EXCLUDE,treesize free v4.5.1
+"3,160",Microsoft SQL Server 2014 Setup (English),Microsoft Corporation,,EXCLUDE,microsoft sql server 2014 setup (english)
+"6,880",SQL Server vNext CTP2.0 Connection Info,Microsoft Corporation,,EXCLUDE,sql server vnext ctp2.0 connection info
+"24,441",Speech Pack - Japanese (Japan),Microsoft Corporation,store,EXCLUDE,speech pack - japanese (japan)
+"33,593",PDF Converter X Pro,NG PDF Lab,store,EXCLUDE,pdf converter x pro
+"7,032",WIBU-KEY Setup (WIBU-KEY Remove),WIBU-SYSTEMS AG,,EXCLUDE,wibu-key setup (wibu-key remove)
+"20,255",Oracle VM VirtualBox 6.1.34,Oracle Corporation,application,EXCLUDE,oracle vm virtualbox 6.1.34
+"37,919",Comp_Def,,application,EXCLUDE,comp_def
+"4,832",Wondershare Helper Compact 2.5.3,Wondershare,,EXCLUDE,wondershare helper compact 2.5.3
+"3,373",Fast MP4 3GP AVI MPG WMV RM MOV FLV Converter 6.3,AVN Media Technologies.,,EXCLUDE,fast mp4 3gp avi mpg wmv rm mov flv converter 6.3
+"5,908",McAfee Security Scan,,,EXCLUDE,mcafee security scan
+"37,123",draw.io Diagrams,draw.io Ltd,store,EXCLUDE,draw.io diagrams
+"25,542",Safety Suite Device Configurator,Honeywell,application,EXCLUDE,safety suite device configurator
+"8,420",OPC UA SDK 1.00 Redistributables 250.8,OPC Foundation,,EXCLUDE,opc ua sdk 1.00 redistributables 250.8
+"6,593",Microsoft CommsPhone,Microsoft Corporation,,EXCLUDE,microsoft commsphone
+"7,277",Logitech SetPoint 6.67,Logitech,,EXCLUDE,logitech setpoint 6.67
+"22,038",Microsoft SQL Server Compact 4.0 SP1 x64 ENU,Microsoft Corporation,application,EXCLUDE,microsoft sql server compact 4.0 sp1 x64 enu
+"33,455",Nuance PDF Viewer SE,"Nuance Communications, Inc.",application,EXCLUDE,nuance pdf viewer se
+"28,966",Python 3.13.2 pip Bootstrap (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.2 pip bootstrap (64-bit)
+"7,431",QlikView x64,QlikTech International AB,,EXCLUDE,qlikview x64
+"37,942",Revo Uninstaller 2.7.0,"VS Revo Group, Ltd.",application,EXCLUDE,revo uninstaller 2.7.0
+"22,228",AutoCAD 2021 - English,AUTODESK,system_component,INCLUDE,autocad 2021 - english
+"8,698",Office Std 2019 OLP NL,,,INCLUDE,office std 2019 olp nl
+"24,669",Adobe Native Client,Adobe Systems Incorporated,developer,EXCLUDE,adobe native client
+"23,723",AutoCAD Plant 3D 2025 - English,AUTODESK,system_component,INCLUDE,autocad plant 3d 2025 - english
+"37,380",User Experience Improvement Program Service,Acer Incorporated,application,EXCLUDE,user experience improvement program service
+"22,183",AutoCAD LT Private,AUTODESK,system_component,EXCLUDE,autocad lt private
+"4,911",WibuKey Setup (WibuKey Remove),WIBU-SYSTEMS AG,,EXCLUDE,wibukey setup (wibukey remove)
+"17,127",ExpressVPN,ExpressVPN,application,EXCLUDE,expressvpn
+"21,967",Python 3.9.0 Utility Scripts (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.9.0 utility scripts (64-bit)
+"26,450",Autodesk AutoCAD Map 3D 2026.0.1 Update,"Autodesk, Inc.",application,EXCLUDE,autodesk autocad map 3d 2026.0.1 update
+"26,729",FormIt Converter for Revit 2026,AUTODESK,system_component,EXCLUDE,formit converter for revit 2026
+"28,565",ConTEXT v0.98.6,ConTEXT Project Ltd,application,EXCLUDE,context v0.98.6
+"6,608",Spark AR Studio,Facebook Inc.,,EXCLUDE,spark ar studio
+"29,720",AdminManager(OKI Setup Utility),Okidata,application,EXCLUDE,adminmanager(oki setup utility)
+"6,808",Autodesk DWG TrueView 2018 - English,AUTODESK,,EXCLUDE,autodesk dwg trueview 2018 - english
+"29,932","Maps - Transit &#38; Food, GPS Navigation",PicsCanvas,store,EXCLUDE,"maps - transit &#38; food, gps navigation"
+"29,210",Mosquitto-Broker 1.5.4.3,Pruftechnik Condition Monitoring GmbH,application,EXCLUDE,mosquitto-broker 1.5.4.3
+"28,299",FieldCare Profibus Profile,Endress+Hauser Process Solutions AG,system_component,EXCLUDE,fieldcare profibus profile
+"26,456",EZ APK App Installer,HUXSoft,store,EXCLUDE,ez apk app installer
+"4,860",Synaptics Touchpad Settings Manager â Commercial,Synaptics Incorporated,,EXCLUDE,synaptics touchpad settings manager â commercial
+"17,592",HWiNFO64 Version 7.42,Martin Malík - REALiX,application,EXCLUDE,hwinfo64 version 7.42
+"25,997",RØDE Application Fonts,RØDE Microphones,application,EXCLUDE,røde application fonts
+"7,495",Logitech Capture,Logitech,,EXCLUDE,logitech capture
+"20,196",HP EmailSMTP Plugin,HP,application,EXCLUDE,hp emailsmtp plugin
+"22,867",Microsoft Windows Desktop Runtime - 5.0.10 (x86),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 5.0.10 (x86)
+"33,108",AutoCAD 2010 - English,AUTODESK,system_component,INCLUDE,autocad 2010 - english
+"27,858",Bruno,Anoop M D,application,EXCLUDE,bruno
+"34,481",AdobeAcrobatReaderCoreApp,Microsoft Corporation,developer,EXCLUDE,adobeacrobatreadercoreapp
+"27,963",Microsoft Visual Studio 2013 Team Explorer Language Pack - ENU,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio 2013 team explorer language pack - enu
+"7,544",HeavyLoad V3.6 (64 bit),JAM Software,,EXCLUDE,heavyload v3.6 (64 bit)
+"6,266",Paint 4 Kids,Ela & Pietro,,EXCLUDE,paint 4 kids
+"29,899",COMMGR 2.11.0.14,"Delta Electronics, Inc.",application,EXCLUDE,commgr 2.11.0.14
+"3,895",Catalyst Control Center Next Localization KO,"Advanced Micro Devices, Inc.",,EXCLUDE,catalyst control center next localization ko
+"23,431",webplugin.exe3.0.0.2,,application,EXCLUDE,webplugin.exe3.0.0.2
+"3,477",K-Lite Codec Pack 9.2.0 (Full),,,EXCLUDE,k-lite codec pack 9.2.0 (full)
+"23,817",Windows App Runtime DDLM 4000.964.11.0-x8,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 4000.964.11.0-x8
+"20,373",AD Account Reset Tool,Cjwdev,application,EXCLUDE,ad account reset tool
+"28,270",IOForth.FilmForth,IOForth,store,EXCLUDE,ioforth.filmforth
+"5,831",FileZilla Client 3.49.1,Tim Kosse,,EXCLUDE,filezilla client 3.49.1
+"20,656",hppusgP1100P1560P1600Series,Hewlett-Packard,system_component,EXCLUDE,hppusgp1100p1560p1600series
+"17,788",Autodesk SketchBook,AUTODESK,store,EXCLUDE,autodesk sketchbook
+"4,037",Microsoft Visual Studio 2010 SharePoint Developer Tools,Microsoft Corporation,,EXCLUDE,microsoft visual studio 2010 sharepoint developer tools
+"7,674",Samsung Printer Experience,Samsung Electronics Co. Ltd.,,EXCLUDE,samsung printer experience
+"32,446",Common Components3,MITSUBISHI,system_component,EXCLUDE,common components3
+"25,134",SQL Server 2016 Batch Parser,Microsoft Corporation,system_component,EXCLUDE,sql server 2016 batch parser
+"25,181",Python 3.11.7 Development Libraries (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.11.7 development libraries (64-bit)
+"3,571",Catalyst Control Center Profiles Desktop,"Advanced Micro Devices, Inc.",,EXCLUDE,catalyst control center profiles desktop
+"35,945",??(??)?????,Microsoft Corporation,store,EXCLUDE,??(??)?????
+"5,491",IronPython 2.7.3,IronPython Team,,EXCLUDE,ironpython 2.7.3
+"27,523",Autodesk Advance Steel 2023 Object Enabler,"Autodesk, Inc.",application,EXCLUDE,autodesk advance steel 2023 object enabler
+"28,007",LocalESPCui for en-us Dev12,Microsoft,system_component,EXCLUDE,localespcui for en-us dev12
+"23,658",Proton Mail Bridge,Proton AG,application,EXCLUDE,proton mail bridge
+"34,632",Australian Landscapes by Ian Johnson,"CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",store,EXCLUDE,australian landscapes by ian johnson
+"26,710",Autodesk AutoCAD Map 3D 2025.0.1 Update,"Autodesk, Inc.",application,EXCLUDE,autodesk autocad map 3d 2025.0.1 update
+"4,518",Tool Suite PRO,Siemens LD A,,EXCLUDE,tool suite pro
+"38,746",QGIS 4.2.3 'Belém do Pará',QGIS.org,application,EXCLUDE,qgis 4.2.3 'belém do pará'
+"28,779",Autodesk AutoCAD LT 2026.1.1 Update,"Autodesk, Inc.",application,EXCLUDE,autodesk autocad lt 2026.1.1 update
+"3,987",Microsoft System CLR Types for SQL Server 2014,Microsoft Corporation,,EXCLUDE,microsoft system clr types for sql server 2014
+"27,179",Microsoft Outlook 2019 - en-us,Microsoft Corporation,application,EXCLUDE,microsoft outlook 2019 - en-us
+"37,997",mingw-w64-x86_64-libsystre,,,EXCLUDE,mingw-w64-x86_64-libsystre
+"32,358",NI VC2010SP1MSMs x64,National Instruments,system_component,EXCLUDE,ni vc2010sp1msms x64
+"26,218",Siemens Totally Integrated Automation Portal V16 - WinCC Transfer Mandatory Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v16 - wincc transfer mandatory single setuppackage v16.0
+"37,171",Free MP3 Cutter Joiner,dvdvideomedia,store,EXCLUDE,free mp3 cutter joiner
+"4,637",Microsoft Office Visio MUI (English) 2010,Microsoft Corporation,,EXCLUDE,microsoft office visio mui (english) 2010
+"19,269",Oracle VM VirtualBox 7.0.4,Oracle and/or its affiliates,application,EXCLUDE,oracle vm virtualbox 7.0.4
+"26,650",SCOUT STARTER S7DOS64 Components,Siemens AG,system_component,EXCLUDE,scout starter s7dos64 components
+"36,748",Vault of the Void,Spider Nest Games,application,EXCLUDE,vault of the void
+"27,007",Microsoft SQL Server 2012 (64-bit),,system_component,EXCLUDE,microsoft sql server 2012 (64-bit)
+"6,719",Plaxis 8.x,,,EXCLUDE,plaxis 8.x
+"27,053",Microsoft SQL Server 2012 T-SQL Language Service,Microsoft Corporation,application,EXCLUDE,microsoft sql server 2012 t-sql language service
+"9,023",NT6000,ÄÏ¾©¿ÆÔ¶×Ô¶¯»¯¼¯ÍÅ,,EXCLUDE,nt6000
+"8,370",CCXP_4_4_4_32,Adobe Inc.,,EXCLUDE,ccxp_4_4_4_32
+"36,645","Trimble Solutions ImportSDK, Revit Plugin 1.35 (x64 build)",Trimble Solutions Corporation,application,EXCLUDE,"trimble solutions importsdk, revit plugin 1.35 (x64 build)"
+"21,481",STEP 7 MicroWIN V4.0.9.25,Siemens,application,EXCLUDE,step 7 microwin v4.0.9.25
+"26,250",Siemens Totally Integrated Automation Portal V18 - Hardware Support Base Package 02 V18.0 + SP1,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v18 - hardware support base package 02 v18.0 + sp1
+"36,651","Trimble ImportSDK, LandXML plugin 1.28.0 (x64 build)",Trimble Inc.,application,EXCLUDE,"trimble importsdk, landxml plugin 1.28.0 (x64 build)"
+"3,878",ELAN Touchpad 15.2.6.13_X64_WHQL,ELAN Microelectronic Corp.,,EXCLUDE,elan touchpad 15.2.6.13_x64_whql
+"37,658",GameSDK Service,ASUSTeK COMPUTER INC.,application,EXCLUDE,gamesdk service
+"19,732",Google Earth Plug-in,Google,application,EXCLUDE,google earth plug-in
+"27,762",bash-completion,,,EXCLUDE,bash-completion
+"3,498",Microsoft Visual Studio 6.0 Enterprise Edition,,,EXCLUDE,microsoft visual studio 6.0 enterprise edition
+"37,577",UltraViewer version 6.6.26,DucFabulous,application,EXCLUDE,ultraviewer version 6.6.26
+"6,951",PremiumSoft Navicat Premium 15.0,PremiumSoft CyberTech Ltd.,,EXCLUDE,premiumsoft navicat premium 15.0
+"9,530",TouchVPN,Pango Inc.,,EXCLUDE,touchvpn
+"5,179",Visual Basic for Applications (R) Core,Microsoft Corporation,,EXCLUDE,visual basic for applications (r) core
+"29,401",Microsoft MixedRealityLink,Microsoft Corporation,store,EXCLUDE,microsoft mixedrealitylink
+"33,608",GlobalMapper 18 (64-bit),Blue Marble Geographics,application,EXCLUDE,globalmapper 18 (64-bit)
+"27,067",Microsoft Windows Desktop Runtime - 3.1.32 (x86),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop runtime - 3.1.32 (x86)
+"28,815",Wireshark 3.0.6 64-bit,"The Wireshark developer community, https://www.wireshark.org",application,EXCLUDE,wireshark 3.0.6 64-bit
+"37,466",Microsoft OneNote - fr-fr,Microsoft Corporation,application,EXCLUDE,microsoft onenote - fr-fr
+"5,640",TreeSize Free V4.3.1,JAM Software,,EXCLUDE,treesize free v4.3.1
+"4,373",Autodesk Navisworks Freedom 2019 - English Language Pack,AUTODESK,,EXCLUDE,autodesk navisworks freedom 2019 - english language pack
+"20,625",e-SPT PPN 1111,DJP,application,EXCLUDE,e-spt ppn 1111
+"33,420",Kofax PDF Viewer SE,Kofax Inc.,application,EXCLUDE,kofax pdf viewer se
+"26,744",Revit 2026,AUTODESK,system_component,EXCLUDE,revit 2026
+"5,117",Autodesk AutoCAD 2018 - English,AUTODESK,,INCLUDE,autodesk autocad 2018 - english
+"7,198",SHAREit,Lenovo,,EXCLUDE,shareit
+"19,963",UltraISO Premium V9.76,"EZB Systems, Inc.",application,EXCLUDE,ultraiso premium v9.76
+"5,741",Cooking Fever,Nordcurrent,,EXCLUDE,cooking fever
+"9,162",SoftwareUpdateNotification,"Brother Industries, Ltd.",,EXCLUDE,softwareupdatenotification
+"3,418",CX-Server Common Driver,Omron,,EXCLUDE,cx-server common driver
+"37,362",HP Inc. Energy Star,Microsoft Corporation,system,EXCLUDE,hp inc. energy star
+"37,237",PDF Merger & Splitter,"AnywaySoft, Inc.",store,EXCLUDE,pdf merger & splitter
+"8,239",SDTtelecom USBDrv v3.0 for x64,SDTtelecom,,EXCLUDE,sdttelecom usbdrv v3.0 for x64
+"5,895",Supermarket Mania Journey: A Time Management Adventure,G5 Entertainment AB,,EXCLUDE,supermarket mania journey: a time management adventure
+"8,742",Gears of War - Mad World,Microsoft Corporation,,EXCLUDE,gears of war - mad world
+"26,688",Drive Composer pro Installer,ABB,application,EXCLUDE,drive composer pro installer
+"25,263",Named Entity Recognition Session,Microsoft Corporation,developer,EXCLUDE,named entity recognition session
+"5,800",DesktopView,Microsoft Corporation,,EXCLUDE,desktopview
+"19,296",Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support - DEU-Sprachpaket,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio tools for applications 2012 x86 hosting support - deu-sprachpaket
+"4,487",TIA Portal Multiuser Server V15.1,Siemens AG,,EXCLUDE,tia portal multiuser server v15.1
+"21,100",SQL Server 2017 Batch Parser,Microsoft Corporation,system_component,EXCLUDE,sql server 2017 batch parser
+"29,095",Kingdoms of Amalur Reckoning,,application,EXCLUDE,kingdoms of amalur reckoning
+"24,566",Microsoft.Maui.Controls (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft.maui.controls (x64)
+"6,280",Autodesk Navisworks 2020 Exporters - 64 bit,AUTODESK,,EXCLUDE,autodesk navisworks 2020 exporters - 64 bit
+"29,002",Adobe Flash Player 12 Plugin,Adobe Systems Incorporated,application,EXCLUDE,adobe flash player 12 plugin
+"36,650","Trimble ImportSDK, IFC plugin 6.83.0 (x64 build)",Trimble Inc.,application,EXCLUDE,"trimble importsdk, ifc plugin 6.83.0 (x64 build)"
+"5,967",TechPowerUp GPU-Z,TechPowerUp,,EXCLUDE,techpowerup gpu-z
+"38,217",ArcGIS Pro 3.7 Patch 2 (3.7.2),"Environmental Systems Research Institute, Inc.",application,EXCLUDE,arcgis pro 3.7 patch 2 (3.7.2)
+"21,733",Broadcom 802.11 Wireless LAN Adapter,Broadcom Corporation,application,EXCLUDE,broadcom 802.11 wireless lan adapter
+"23,126",Siemens Totally Integrated Automation Portal V14 - WinCC Single SetupPackage 32 Bit V14.0 + SP1,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v14 - wincc single setuppackage 32 bit v14.0 + sp1
+"9,035",STEP 7-Micro/WIN SMART,Siemens,,EXCLUDE,step 7-micro/win smart
+"3,388",Paladins,Hi-Rez Studios,,EXCLUDE,paladins
+"23,750",DBeaver 25.0.2,DBeaver Corp,application,EXCLUDE,dbeaver 25.0.2
+"18,307",Microsoft SecHealthUI,Microsoft Platform Extensions,store,EXCLUDE,microsoft sechealthui
+"24,835",Microsoft Windows Desktop Runtime - 7.0.20 (x86),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop runtime - 7.0.20 (x86)
+"7,438",Microsoft OfficeLens,Microsoft Corporation,,EXCLUDE,microsoft officelens
+"26,259",TIA Administrator - TIA Administrator V1.0 SP2,Siemens AG,system_component,EXCLUDE,tia administrator - tia administrator v1.0 sp2
+"3,971",Microsoft Web Deploy 3.6,Microsoft Corporation,,EXCLUDE,microsoft web deploy 3.6
+"31,890",Microsoft Visual Studio Team Foundation Server 2012 Team Explorer Language Pack - ENU,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio team foundation server 2012 team explorer language pack - enu
+"19,733",SunSystems Security,Infor,application,EXCLUDE,sunsystems security
+"3,383",Lernout & Hauspie TruVoice American English TTS Engine,,,EXCLUDE,lernout & hauspie truvoice american english tts engine
+"4,080",vs_minshellmsi,Microsoft Corporation,,EXCLUDE,vs_minshellmsi
+"9,382",InputApp,Microsoft Windows,,EXCLUDE,inputapp
+"21,832",Passware Kit Forensic 2017 v1 (32-bit),Passware,application,EXCLUDE,passware kit forensic 2017 v1 (32-bit)
+"27,601",MOVITOOLS-MotionStudio,SEW-EURODRIVE GmbH &#38; Co KG,application,EXCLUDE,movitools-motionstudio
+"28,341",Spotify  Web Player,open.spotify.com,none,EXCLUDE,spotify  web player
+"21,185",hpStatusAlertsM177,Hewlett-Packard,system_component,EXCLUDE,hpstatusalertsm177
+"7,546",Total Commander 64+32-bit (Remove or Repair),Ghisler Software GmbH,,EXCLUDE,total commander 64+32-bit (remove or repair)
+"22,335",COSY_6_6_4_32,Adobe Inc.,application,EXCLUDE,cosy_6_6_4_32
+"28,222",Endress+Hauser NI FF CommDTM V1.5.4.2,Endress+Hauser Process Solutions AG,application,EXCLUDE,endress+hauser ni ff commdtm v1.5.4.2
+"6,784",Adobe Flash Player 9 Plugin,"Adobe Systems, Inc.",,EXCLUDE,adobe flash player 9 plugin
+"7,164",Lenovo PowerENGAGE,LENOVO INC.,,EXCLUDE,lenovo powerengage
+"22,801",MicrosoftWindows.LKG.IrisService,Microsoft Corporation,system,EXCLUDE,microsoftwindows.lkg.irisservice
+"7,435",Microsoft Office Sway,Microsoft Corporation,,EXCLUDE,microsoft office sway
+"36,263",SMADAV version 10.6.1,SmadSoft,application,EXCLUDE,smadav version 10.6.1
+"22,857",Microsoft Windows Ai Copilot Provider,"CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",developer,EXCLUDE,microsoft windows ai copilot provider
+"32,483",NI JSON Map Files,National Instruments,system_component,EXCLUDE,ni json map files
+"24,427",Microsoft Windows Desktop Targeting Pack - 9.0.8 (x86),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 9.0.8 (x86)
+"22,769",MicrosoftWindows.Client.LKG,Microsoft Corporation,system,EXCLUDE,microsoftwindows.client.lkg
+"25,909",Alcor Micro USB Card Reader Driver,Alcor Micro Corp.,application,EXCLUDE,alcor micro usb card reader driver
+"8,780",COSY_4_19_0_32,Adobe Inc.,,EXCLUDE,cosy_4_19_0_32
+"28,792",Avast SecureLine VPN,Avast Software,application,EXCLUDE,avast secureline vpn
+"8,796",VNC Enterprise Edition E4.5,RealVNC Ltd.,,EXCLUDE,vnc enterprise edition e4.5
+"8,723",Zen: Coloring book for adults,JH Digital Solutions,,EXCLUDE,zen: coloring book for adults
+"25,938",INVENTORY,,application,EXCLUDE,inventory
+"29,900",Crunchyroll,"Crunchyroll, LLC",store,EXCLUDE,crunchyroll
+"20,736",Siemens Totally Integrated Automation Portal V17 - Hardware Support Base Package 04 V17.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v17 - hardware support base package 04 v17.0
+"5,548",Kuantum Resonansi Analisa Magnetik (4) 4.7.0,Quantum,,EXCLUDE,kuantum resonansi analisa magnetik (4) 4.7.0
+"6,436",Microsoft_VC100_CRT_SP1_x64,Nokia,,EXCLUDE,microsoft_vc100_crt_sp1_x64
+"34,642",Apple TV Severance Theme,Wargaming Group Limited,store,EXCLUDE,apple tv severance theme
+"36,080",EOS Lens Registration Tool,Canon Inc.,application,EXCLUDE,eos lens registration tool
+"29,041",Bandizip,Bandisoft.com,application,EXCLUDE,bandizip
+"29,239",XiaomiRecoverySideload V6,MikoForce,application,EXCLUDE,xiaomirecoverysideload v6
+"7,479",Duplicate Cleaner Pro 4.1.4,DigitalVolcano Software Ltd,,EXCLUDE,duplicate cleaner pro 4.1.4
+"9,705",WinZip 26.0,Corel Corporation,,EXCLUDE,winzip 26.0
+"21,979",ASRock eXtreme Tuner v0.1.78,,application,EXCLUDE,asrock extreme tuner v0.1.78
+"33,742",Python 3.14.4 Core Interpreter (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.14.4 core interpreter (64-bit)
+"5,172",CorelDRAW Graphics Suite X4 - Content,Corel Corporation,,EXCLUDE,coreldraw graphics suite x4 - content
+"28,507",draw.io 29.5.2,JGraph,application,EXCLUDE,draw.io 29.5.2
+"25,266",Query BlockList Session,Microsoft Corporation,developer,EXCLUDE,query blocklist session
+"26,870",VdhCoApp 1.6.3,DownloadHelper,application,EXCLUDE,vdhcoapp 1.6.3
+"36,704",PuTTY release 0.84 (64-bit),Simon Tatham,application,EXCLUDE,putty release 0.84 (64-bit)
+"5,144",Autodesk AutoCAD 2018.0.2,AUTODESK,,INCLUDE,autodesk autocad 2018.0.2
+"17,406",Microsoft Office Professional Plus 2010,Microsoft Corporation,application,INCLUDE,microsoft office professional plus 2010
+"38,769",{09842c3b-91de-4dee-8227-8b6140d6af1b},,application,EXCLUDE,{09842c3b-91de-4dee-8227-8b6140d6af1b}
+"4,485",SIMATIC WinCC Runtime Advanced V15.1,Siemens AG,,EXCLUDE,simatic wincc runtime advanced v15.1
+"22,347",Tipard Video Converter Ultimate 10.3.38,Tipard Studio,application,EXCLUDE,tipard video converter ultimate 10.3.38
+"5,039",Vulkan Run Time Libraries 1.0.21.0,"LunarG, Inc.",,EXCLUDE,vulkan run time libraries 1.0.21.0
+"26,243",Siemens Totally Integrated Automation Portal V16 - Hardware Support Base Package WCF-01 V16.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v16 - hardware support base package wcf-01 v16.0
+"23,188",AutoCAD - DWG Viewer and Editor,AUTODESK,store,INCLUDE,autocad - dwg viewer and editor
+"25,133",SQL Server 2016 Shared Management Objects,Microsoft Corporation,system_component,EXCLUDE,sql server 2016 shared management objects
+"4,925",Autodesk Material Library 2013,AUTODESK,,EXCLUDE,autodesk material library 2013
+"20,371",Wasabi Explorer for Cloud Storage 6.2.2,Wasabi,application,EXCLUDE,wasabi explorer for cloud storage 6.2.2
+"27,718",WinSCP 6.3.2,Martin Prikryl,application,EXCLUDE,winscp 6.3.2
+"9,048",Fluke Connect,Fluke,,EXCLUDE,fluke connect
+"23,448",Web Plugins,,application,EXCLUDE,web plugins
+"17,414",MSXML4.0 redistributable,SAP,application,EXCLUDE,msxml4.0 redistributable
+"36,909",Outlook (classic),Microsoft Corporation,developer,EXCLUDE,outlook (classic)
+"20,704",ETWEventCollector,Siemens AG,system_component,EXCLUDE,etweventcollector
+"25,219",South Park Theme,CBS Interactive Inc.,store,EXCLUDE,south park theme
+"23,851",DiskGenius V6.0.0,"Yizisoo Software Co., Ltd.",application,EXCLUDE,diskgenius v6.0.0
+"33,517",PDF24 Creator 11.13.1,PDF24.org,application,EXCLUDE,pdf24 creator 11.13.1
+"28,622",FieldCare SFE500 DB Configuration Installation Package,Endress+Hauser,system_component,EXCLUDE,fieldcare sfe500 db configuration installation package
+"34,647",Seelen UI,Seelen,store,EXCLUDE,seelen ui
+"5,842",GlassFish Server Open Source Edition 4.1,,,EXCLUDE,glassfish server open source edition 4.1
+"38,834",DriverToolkit version 8.5.0.0,Megaify Software,application,EXCLUDE,drivertoolkit version 8.5.0.0
+"36,754",ACR_18_4_1_32,Adobe Inc.,application,EXCLUDE,acr_18_4_1_32
+"20,461",WildTangent Helper,WildTangent,system_component,EXCLUDE,wildtangent helper
+"27,801",libhogweed,,libraries,EXCLUDE,libhogweed
+"5,854",McAfee Safe Connect,McAfee,,EXCLUDE,mcafee safe connect
+"29,225",iMyFone iMyTrans,"Shenzhen iMyFone Technology Co., Ltd.",application,EXCLUDE,imyfone imytrans
+"23,859",Python 3.13.3 Standard Library (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.3 standard library (64-bit)
+"33,636",Python 3.13.13 Test Suite (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.13 test suite (64-bit)
+"28,308",DTM library 2.49.00,Endress+Hauser Process Solutions AG,application,EXCLUDE,dtm library 2.49.00
+"23,596",MicrosoftWindows.UndockedDevKit,"CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",system,EXCLUDE,microsoftwindows.undockeddevkit
+"6,885",SQL Server vNext CTP2.0 Shared Management Objects,Microsoft Corporation,,EXCLUDE,sql server vnext ctp2.0 shared management objects
+"18,582",Python 3.10.10 Development Libraries (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.10.10 development libraries (64-bit)
+"4,375",Microsoft Office Standard 2019 - en-us,Microsoft Corporation,,INCLUDE,microsoft office standard 2019 - en-us
+"5,196",WebAdvisor by McAfee,"McAfee, LLC",,EXCLUDE,webadvisor by mcafee
+"7,616",Serial Port Monitor 8.0.388,ELTIMA Software,,EXCLUDE,serial port monitor 8.0.388
+"38,195",Mozilla Thunderbird (x64 en-US),Mozilla,application,EXCLUDE,mozilla thunderbird (x64 en-us)
+"20,496",K-Lite Codec Pack 7.9.0 (Full),,application,EXCLUDE,k-lite codec pack 7.9.0 (full)
+"5,356",Pet Rescue Saga,king.com,,EXCLUDE,pet rescue saga
+"17,268",Twitter,Twitter Inc.,store,EXCLUDE,twitter
+"18,253",Microsoft SQL Server 2012 Native Client,Microsoft Corporation,application,EXCLUDE,microsoft sql server 2012 native client
+"32,534",NI MXS 16.0.0,National Instruments,system_component,EXCLUDE,ni mxs 16.0.0
+"26,677",RielloUPSTools,RPS S.p.a.,application,EXCLUDE,rielloupstools
+"29,042",ShellBandizip,Bandisoft,developer,EXCLUDE,shellbandizip
+"33,519",K-Lite Codec Pack 19.6.8 Full,KLCP,application,EXCLUDE,k-lite codec pack 19.6.8 full
+"37,030",Camera HD,Player is Player,store,EXCLUDE,camera hd
+"6,098",CorelDRAW Graphics Suite 2020 - IPM (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2020 - ipm (x64)
+"6,251",Apple Application Support,Apple Inc.,,EXCLUDE,apple application support
+"3,415",Microsoft SQL Server 2008 Common Files,Microsoft Corporation,,EXCLUDE,microsoft sql server 2008 common files
+"35,117",HidHide,Nefarius Software Solutions e.U.,application,EXCLUDE,hidhide
+"37,797",Quick 'n Easy Web Builder 12.2.0,Pablo Software Solutions,application,EXCLUDE,quick 'n easy web builder 12.2.0
+"5,210",7000E809a_Help,Hewlett-Packard,,EXCLUDE,7000e809a_help
+"26,185",Siemens Totally Integrated Automation Portal V18 - Simatic Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v18 - simatic single setuppackage v18.0 + sp1
+"7,436",46928bounde.EclipseManager,Ounce Digital,,EXCLUDE,46928bounde.eclipsemanager
+"5,377",Mobile Plans,Microsoft Platform Extensions,,EXCLUDE,mobile plans
+"4,462",Siemens Totally Integrated Automation Portal V15.1 - WinCC Single SetupPackage  V15.1,Siemens AG,,EXCLUDE,siemens totally integrated automation portal v15.1 - wincc single setuppackage v15.1
+"25,513",Microsoft Windows Desktop Runtime - 6.0.13 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 6.0.13 (x64)
+"28,020",Advanced Port Scanner 2.5,Famatech,application,EXCLUDE,advanced port scanner 2.5
+"17,966",Universal CRT Headers Libraries and Sources,Microsoft Corporation,system_component,EXCLUDE,universal crt headers libraries and sources
+"34,432",HIKMICRO Analyzer,"Hangzhou Microimage Software Co., Ltd.",application,EXCLUDE,hikmicro analyzer
+"24,366",Python 3.13.6 Documentation (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.6 documentation (64-bit)
+"32,500",Python 3.6.8 Utility Scripts (32-bit),Python Software Foundation,system_component,EXCLUDE,python 3.6.8 utility scripts (32-bit)
+"4,835",K-Lite Codec Pack 8.4.0 (Full),,,EXCLUDE,k-lite codec pack 8.4.0 (full)
+"9,008",ACAI_0_2_1,Adobe Inc.,,EXCLUDE,acai_0_2_1
+"17,823",Catalyst Control Center InstallProxy,"Advanced Micro Devices, Inc.",system_component,EXCLUDE,catalyst control center installproxy
+"6,418",Nero Info,Nero AG,,EXCLUDE,nero info
+"7,456",Revo Uninstaller Pro 3.1.9,"VS Revo Group, Ltd.",,EXCLUDE,revo uninstaller pro 3.1.9
+"3,645",AutoFOP 24.0,,,EXCLUDE,autofop 24.0
+"24,629",LAV Filters 0.80,Hendrik Leppkes,application,EXCLUDE,lav filters 0.80
+"32,529",Python 3.6.8 pip Bootstrap (32-bit),Python Software Foundation,system_component,EXCLUDE,python 3.6.8 pip bootstrap (32-bit)
+"34,422",Microsoft SQL Server Native Client,Microsoft Corporation,application,EXCLUDE,microsoft sql server native client
+"6,615",Python 3.7.9 Utility Scripts (64-bit),Python Software Foundation,,EXCLUDE,python 3.7.9 utility scripts (64-bit)
+"22,157",Struk SPBU Ver 2.15,Pemburu Dollar FX,application,EXCLUDE,struk spbu ver 2.15
+"37,131",Google Legacy Browser Support,Google Inc,application,EXCLUDE,google legacy browser support
+"19,246",CorelDRAW Graphics Suite X7 - Draw (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite x7 - draw (x64)
+"20,404",2 Factor Authenticator,Dhananjay Odhekar,store,EXCLUDE,2 factor authenticator
+"28,704",Synology Drive Client,Synology,application,EXCLUDE,synology drive client
+"22,819",CorelDRAW Graphics Suite 2017 - RU (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2017 - ru (x64)
+"8,648",Python 3.9.6 Core Interpreter (64-bit),Python Software Foundation,,EXCLUDE,python 3.9.6 core interpreter (64-bit)
+"29,245",SPDS Extension for AutoCAD® 2021,"Autodesk, Inc.",application,EXCLUDE,spds extension for autocad® 2021
+"20,397",AMD_Chipset_Drivers,"Advanced Micro Devices, Inc.",system_component,EXCLUDE,amd_chipset_drivers
+"3,142",K-Lite Codec Pack 11.4.0 Full,,,EXCLUDE,k-lite codec pack 11.4.0 full
+"4,163",Microsoft Visual Studio Community 2015,Microsoft Corporation,,EXCLUDE,microsoft visual studio community 2015
+"6,639",Autodesk AutoCAD Map 3D 2019 Core,AUTODESK,,EXCLUDE,autodesk autocad map 3d 2019 core
+"23,599",Microsoft MicrosoftJournal,Microsoft Corporation,store,EXCLUDE,microsoft microsoftjournal
+"27,208",Photo Booth Pro,Giotto,store,EXCLUDE,photo booth pro
+"26,303",IOLinkInterpreterDTMSetup,IO-Link,application,EXCLUDE,iolinkinterpreterdtmsetup
+"5,254",Python 3.8.3 Standard Library (64-bit),Python Software Foundation,,EXCLUDE,python 3.8.3 standard library (64-bit)
+"8,430",SIMATIC WinCC/WebNavigator Plug-In Builder V7.3  ,Siemens AG,,EXCLUDE,simatic wincc/webnavigator plug-in builder v7.3
+"7,645",Microsoft Access 2000 Runtime,Microsoft Corporation,,EXCLUDE,microsoft access 2000 runtime
+"33,542",Siemens Totally Integrated Automation Portal V13 - Simatic Single SetupPackage V13.0 + SP2,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v13 - simatic single setuppackage v13.0 + sp2
+"29,175",Business Radio CPS,Motorola Solutions,application,EXCLUDE,business radio cps
+"38,407",SAntivirus Realtime Protection Lite,Corp DCom,application,EXCLUDE,santivirus realtime protection lite
+"17,364",Floor Adjustment,Assigned by your organization,system,EXCLUDE,floor adjustment
+"29,722",OKI DIPUS,Okidata,application,EXCLUDE,oki dipus
+"36,791",Lemonade Server,AMD,application,EXCLUDE,lemonade server
+"32,473",NI LabVIEW 2012 Real-Time NBFifo,National Instruments,system_component,EXCLUDE,ni labview 2012 real-time nbfifo
+"6,183",K-Lite Mega Codec Pack 5.1.0,,,EXCLUDE,k-lite mega codec pack 5.1.0
+"19,339",vs_devenx64vmsi,Microsoft Corporation,system_component,EXCLUDE,vs_devenx64vmsi
+"5,863",BreeZip,BreeZip,,EXCLUDE,breezip
+"37,387",Acer QuickPanel OSD,ULIC Tek Inc.,application,EXCLUDE,acer quickpanel osd
+"34,640",Hues of Nature,"CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",store,EXCLUDE,hues of nature
+"26,186",SQL Server 2016 Standard Edition Database Engine Services,Microsoft Corporation,system_component,EXCLUDE,sql server 2016 standard edition database engine services
+"24,590",Microsoft.AspNetCore.Components.WebView.Maui (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft.aspnetcore.components.webview.maui (x64)
+"23,726",Autodesk Access,"Autodesk, Inc.",application,EXCLUDE,autodesk access
+"37,770",Microsoft Windows Application Compatibility Fix Database,,application,EXCLUDE,microsoft windows application compatibility fix database
+"28,397",ABB REG670 2.1.0 Configuration Templates,ABB Technology Ltd.,application,EXCLUDE,abb reg670 2.1.0 configuration templates
+"27,286",Move Mouse,ellabi,store,EXCLUDE,move mouse
+"34,692",Nickvision Parabolic 2026.4.1,Nickvision,application,EXCLUDE,nickvision parabolic 2026.4.1
+"8,128",Endress+Hauser PAM Service,Endress+Hauser,,EXCLUDE,endress+hauser pam service
+"24,121",Go Programming Language amd64 go1.24.5,https://go.dev,application,EXCLUDE,go programming language amd64 go1.24.5
+"7,013",PS_AIO_07_K510_SW_Min,Hewlett-Packard,,EXCLUDE,ps_aio_07_k510_sw_min
+"27,364",Lumion 10.3.2,Act-3D B.V.,application,EXCLUDE,lumion 10.3.2
+"8,895",CorelDRAW Graphics Suite 2021 - DE (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - de (x64)
+"7,410",Instrumentation Widgets 4.0,Perpetuum Software,,EXCLUDE,instrumentation widgets 4.0
+"24,412",Microsoft Windows Desktop Targeting Pack - 8.0.19 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 8.0.19 (x64)
+"6,638",AutoCAD 2019 Language Pack - English,AUTODESK,,EXCLUDE,autocad 2019 language pack - english
+"9,632",AutoCAD LT 2022,AUTODESK,Subscription,INCLUDE,autocad lt 2022
+"7,648",TPMpc,,,EXCLUDE,tpmpc
+"5,361",JuniorWatch,"Timeon Technologies, LLC",,EXCLUDE,juniorwatch
+"22,834",CorelDRAW Graphics Suite 2017 - CT (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2017 - ct (x64)
+"23,178",supportserver,,application,EXCLUDE,supportserver
+"20,032",ANT Drivers Installer x64,Garmin Ltd or its subsidiaries,system_component,EXCLUDE,ant drivers installer x64
+"26,678",PSTX USB Driver,ABB,application,EXCLUDE,pstx usb driver
+"3,842",Office,Microsoft Platform Extensions,,INCLUDE,office
+"6,915",Microsoft Access Setup Metadata MUI (English) 2016,Microsoft Corporation,,EXCLUDE,microsoft access setup metadata mui (english) 2016
+"20,039",Shockwave,,application,EXCLUDE,shockwave
+"4,385",Office 16 Click-to-Run Localization Component,Microsoft Corporation,,EXCLUDE,office 16 click-to-run localization component
+"7,098",Delfino G3 (x86) version 3.6.1.0,Wizvera,,EXCLUDE,delfino g3 (x86) version 3.6.1.0
+"18,561",Python 3.10.10 Executables (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.10.10 executables (64-bit)
+"5,267",SPRK_25_3_12,Adobe Systems Incorporated,,EXCLUDE,sprk_25_3_12
+"5,857",Autodesk AutoCAD Performance Feedback Tool 1.2.5,AUTODESK,,EXCLUDE,autodesk autocad performance feedback tool 1.2.5
+"36,925",Google Workspace Sync for Microsoft Outlook® 4.3.99.0,"Google, Inc.",application,EXCLUDE,google workspace sync for microsoft outlook® 4.3.99.0
+"28,360",Microsoft SQL Server 2008 Management Objects,Microsoft Corporation,application,EXCLUDE,microsoft sql server 2008 management objects
+"24,844",VSPlayer version V7.4.2.0,"Hikvision Digital Technology Co., Ltd",application,EXCLUDE,vsplayer version v7.4.2.0
+"5,289",Adobe Photoshop CS2,"Adobe Systems, Inc.",,INCLUDE,adobe photoshop cs2
+"3,689",Adobe Linguistics CS3,Adobe Systems Incorporated,,EXCLUDE,adobe linguistics cs3
+"28,354",SQL Server 2019 DMF,Microsoft Corporation,system_component,EXCLUDE,sql server 2019 dmf
+"28,320",Windows App Runtime DDLM 5001.311.2039.0-x8,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 5001.311.2039.0-x8
+"22,820",CorelDRAW Graphics Suite 2017 - JP (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2017 - jp (x64)
+"4,061",Microsoft SQL Server 2008 R2 Management Objects,Microsoft Corporation,,EXCLUDE,microsoft sql server 2008 r2 management objects
+"7,549",PingID,Ping Identity,,EXCLUDE,pingid
+"33,314",NetDvr,KongTop,application,EXCLUDE,netdvr
+"27,833",p11-kit,,,EXCLUDE,p11-kit
+"27,193",Goodix Fingerprint Reader Preboot Manager,Goodix,store,EXCLUDE,goodix fingerprint reader preboot manager
+"5,605",Break-Link-Tool,Henrik Schiffner,,EXCLUDE,break-link-tool
+"23,602",E0469640.LenovoSmartCommunication,LENOVO INC,store,EXCLUDE,e0469640.lenovosmartcommunication
+"19,244",CorelDRAW Graphics Suite X7 - CT (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite x7 - ct (x64)
+"21,144",Check MK Agent 2.2,Checkmk GmbH,application,EXCLUDE,check mk agent 2.2
+"23,202",Python 3.11.2 Add to Path (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.11.2 add to path (64-bit)
+"7,779",Work or school account,Assigned by your organization,,EXCLUDE,work or school account
+"24,939",Cats Anytime,Microsoft Corporation,store,EXCLUDE,cats anytime
+"31,896",Microsoft Visual Studio 2012 Shell (Minimum) Resources,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio 2012 shell (minimum) resources
+"27,261",Microsoft Sonia (Natural) - English (United Kingdom),Microsoft Corporation,store,EXCLUDE,microsoft sonia (natural) - english (united kingdom)
+"24,910",Python 3.14.0 Executables (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.14.0 executables (64-bit)
+"36,678",Microsoft Windows Desktop Runtime 10.0.3 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime 10.0.3 (x64)
+"28,427",Kofax PaperPort 14,Kofax Inc.,application,EXCLUDE,kofax paperport 14
+"32,202",GIMP 2.10.24,The GIMP Team,application,EXCLUDE,gimp 2.10.24
+"23,279",Microsoft Windows 10 Home,,,INCLUDE,microsoft windows 10 home
+"36,606",Ubuntu,Canonical Group Limited,store,EXCLUDE,ubuntu
+"22,967",Dassault Systemes Software B14,,application,EXCLUDE,dassault systemes software b14
+"22,497",SuperMap iDesktopX 11i(2023),"SuperMap Software Co., Ltd.",application,EXCLUDE,supermap idesktopx 11i(2023)
+"17,331",Lenovo Welcome,Lenovo Group Ltd.,application,EXCLUDE,lenovo welcome
+"5,752",RD9700 USB Ethernet Adapter,Corechip Semiconductor,,EXCLUDE,rd9700 usb ethernet adapter
+"21,256",Handset WinDriver 1.02.03.00,"Huawei technologies Co., Ltd.",application,EXCLUDE,handset windriver 1.02.03.00
+"10,093",iTunes,Apple Inc.,store,EXCLUDE,itunes
+"25,527",DJI Assistant 2 For Mavic version V2.0.14.1,DJI,application,EXCLUDE,dji assistant 2 for mavic version v2.0.14.1
+"23,978",DBeaver 25.1.1,DBeaver Corp,application,EXCLUDE,dbeaver 25.1.1
+"26,320",HaiwellScada3,Haiwell,application,EXCLUDE,haiwellscada3
+"5,195",Booking,Booking,,EXCLUDE,booking
+"9,408",CrystalDiskInfo 8.15.0,Crystal Dew World,,EXCLUDE,crystaldiskinfo 8.15.0
+"20,186",Windows Live ID Sign-in Assistant,Microsoft Corporation,system_component,EXCLUDE,windows live id sign-in assistant
+"37,580",Autodesk DWF Viewer 7,"Autodesk, Inc.",application,EXCLUDE,autodesk dwf viewer 7
+"9,702",Autodesk AutoCAD LT 2023 - English,"Autodesk, Inc.",,INCLUDE,autodesk autocad lt 2023 - english
+"33,739",Python 3.14.4 Standard Library (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.14.4 standard library (64-bit)
+"21,053",Smart Recovery 2 B15.0626.1 (x64),GIGABYTE,application,EXCLUDE,smart recovery 2 b15.0626.1 (x64)
+"22,439",Python 3.12.0 Standard Library (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.12.0 standard library (64-bit)
+"21,566",PrinterShare Suite 2.4.04,Printer Anywhere Inc.,application,EXCLUDE,printershare suite 2.4.04
+"27,773",findutils,,,EXCLUDE,findutils
+"36,264",CCXP_7_8_0_32,Adobe Inc.,application,EXCLUDE,ccxp_7_8_0_32
+"22,753",Microsoft Windows Desktop Runtime - 6.0.9 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop runtime - 6.0.9 (x64)
+"26,477",Autodesk SHP Import/Export Utility 2020.1,,application,EXCLUDE,autodesk shp import/export utility 2020.1
+"23,231",Wondershare EdrawMax(Build 13.0.5.1119),"EdrawSoft Co.,Ltd.",application,EXCLUDE,wondershare edrawmax(build 13.0.5.1119)
+"21,670",MongoDB 6.0.2 2008R2Plus SSL (64 bit),MongoDB Inc.,application,EXCLUDE,mongodb 6.0.2 2008r2plus ssl (64 bit)
+"18,372",HP-NB-AIO,,application,EXCLUDE,hp-nb-aio
+"3,938",IIS 10.0 Express,Microsoft Corporation,,EXCLUDE,iis 10.0 express
+"22,001",eSPT PPN 1107 v3.1,Direktorat Jenderal Pajak,application,EXCLUDE,espt ppn 1107 v3.1
+"27,423",Dukto R6,Emanuele Colombo,application,EXCLUDE,dukto r6
+"37,307",RabbitMQ Server 3.7.3,"Pivotal Software, Inc.",application,EXCLUDE,rabbitmq server 3.7.3
+"8,437",SIMOTION OPC File Manager,Siemens AG,,EXCLUDE,simotion opc file manager
+"9,564",Python 3.10.4 Executables (64-bit),Python Software Foundation,,EXCLUDE,python 3.10.4 executables (64-bit)
+"28,775",EaseUS Key Finder 4.1.6,EaseUS,application,EXCLUDE,easeus key finder 4.1.6
+251,Microsoft Project 2016 SNGL OLP NL FA,Microsoft,License,EXCLUDE,microsoft project 2016 sngl olp nl fa
+"24,462",WebP Image Extension,Microsoft Corporation,store,EXCLUDE,webp image extension
+"7,800",PrebootManager,Synaptics Incorporated,,EXCLUDE,prebootmanager
+"8,308",Pou â¢,MAGIC BIGO TECHNOLOGY PTE. LTD.,,EXCLUDE,pou â¢
+"32,252",BeWidgets,BeXCool,store,EXCLUDE,bewidgets
+"6,126",DriverManager x64,Schneider Electric,,EXCLUDE,drivermanager x64
+"5,849",AutoCAD 2017 - English,AUTODESK,,INCLUDE,autocad 2017 - english
+"24,884",Logi RightSightForWebcams 1.1.207,Logitech,system_component,EXCLUDE,logi rightsightforwebcams 1.1.207
+"23,891",wpsappext2,Kingsoft,developer,EXCLUDE,wpsappext2
+"22,100",Driver Booster 10,IObit,application,EXCLUDE,driver booster 10
+"24,554",Microsoft.Android.Runtime.35.android-x64 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft.android.runtime.35.android-x64 (x64)
+"26,047",WD SES Driver Setup,Western Digital,system_component,EXCLUDE,wd ses driver setup
+"26,706",SharpKeys,RandyRants.com,application,EXCLUDE,sharpkeys
+"26,116",IObit Uninstaller 10.0.2.20,lrepacks.ru,application,EXCLUDE,iobit uninstaller 10.0.2.20
+"4,565",HP Deskjet 1050 J410 series Help,Hewlett Packard,,EXCLUDE,hp deskjet 1050 j410 series help
+"32,374",NI MXS 16.0.0 for 64 Bit Windows,National Instruments,system_component,EXCLUDE,ni mxs 16.0.0 for 64 bit windows
+"25,449",HID OMNIKEY CCID Driver,HID Global,application,EXCLUDE,hid omnikey ccid driver
+"3,463",Microsoft Primary Interoperability Assemblies 2005,Microsoft Corporation,,EXCLUDE,microsoft primary interoperability assemblies 2005
+"36,897",Notion,Notion,developer,EXCLUDE,notion
+"7,709",DBeaver 7.2.3,DBeaver Corp,,EXCLUDE,dbeaver 7.2.3
+"21,676",Python 3.8.10 Utility Scripts (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.8.10 utility scripts (64-bit)
+"38,827",FactoryTalk View Site Edition Client 10.00.00 (CPR 9 SR 10),"Rockwell Automation, Inc.",application,EXCLUDE,factorytalk view site edition client 10.00.00 (cpr 9 sr 10)
+"24,877",Autodesk Desktop Connector,"Autodesk, Inc.",application,EXCLUDE,autodesk desktop connector
+"36,401",K-Lite Codec Pack 19.8.2 Standard,KLCP,application,EXCLUDE,k-lite codec pack 19.8.2 standard
+"22,144",LocalCooling,Uniblue Ltd,system_component,EXCLUDE,localcooling
+"17,657",Microsoft Access MUI (English) 2013,Microsoft Corporation,system_component,EXCLUDE,microsoft access mui (english) 2013
+"23,229",Photodex Presenter,Photodex Corporation,application,EXCLUDE,photodex presenter
+"7,228",MarkAny Inc. e-PageSafer V2.5 NoAX ( Report )_2.5.1.55,MarkAny Inc.,,EXCLUDE,markany inc. e-pagesafer v2.5 noax ( report )_2.5.1.55
+"6,345",Autodesk Advanced Material Library Low Resolution Image Library 2020,AUTODESK,,EXCLUDE,autodesk advanced material library low resolution image library 2020
+"8,323",Sherlock: Hidden Match-3 Cases,G5 Entertainment AB,,EXCLUDE,sherlock: hidden match-3 cases
+"6,105",CorelDRAW Graphics Suite 2020 - Capture (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2020 - capture (x64)
+"5,926",Dynamo Revit 1.2.2,Dynamo,,EXCLUDE,dynamo revit 1.2.2
+"6,438",Android Store 1.2.8.4379,"Baidu, Inc.",,EXCLUDE,android store 1.2.8.4379
+"6,146",Toad for Oracle 11.5,"Quest Software, Inc.",,EXCLUDE,toad for oracle 11.5
+"27,087",NiceLabel 2017,Euro Plus d.o.o.,application,EXCLUDE,nicelabel 2017
+"6,970",Fishdom,"MyPlayCity, Inc.",,EXCLUDE,fishdom
+"20,752",Siemens Totally Integrated Automation Portal V17 - WinCC Single SetupPackage 32 Bit V17.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v17 - wincc single setuppackage 32 bit v17.0
+"5,137",Autodesk AutoCAD Performance Feedback Tool 1.2.8,AUTODESK,,EXCLUDE,autodesk autocad performance feedback tool 1.2.8
+"21,093",Microsoft SQL Server 2017 (64-bit),,system_component,EXCLUDE,microsoft sql server 2017 (64-bit)
+"4,003",Microsoft Sync Framework SDK v1.0 SP1,Microsoft Corporation,,EXCLUDE,microsoft sync framework sdk v1.0 sp1
+"26,415",TOEIC CBT version 2.0,PT. ITC-Indonesia,application,EXCLUDE,toeic cbt version 2.0
+"5,160",Microsoft HEIFImageExtension,Microsoft Corporation,,EXCLUDE,microsoft heifimageextension
+"32,250",Chicks and Bunnies,Microsoft Corporation,store,EXCLUDE,chicks and bunnies
+"28,952",Brother P-touch Update Software,"Brother Industries, Ltd.",application,EXCLUDE,brother p-touch update software
+"23,226",ExifPro 2.1 Photo Viewer,,application,EXCLUDE,exifpro 2.1 photo viewer
+"5,667",Microsoft Office File Validation Add-In,Microsoft Corporation,,EXCLUDE,microsoft office file validation add-in
+"5,001",USBPcap 1.2.0.3,Tomasz Mon,,EXCLUDE,usbpcap 1.2.0.3
+"28,981",Python 3.13.2 Executables (32-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.2 executables (32-bit)
+"26,319",Siemens Totally Integrated Automation Portal V18 - Simatic Single SetupPackage 32 Bit V18.0 + SP1,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v18 - simatic single setuppackage 32 bit v18.0 + sp1
+"28,307",Endress+Hauser Profibus Profile DTM V1.06.00,Endress+Hauser,application,EXCLUDE,endress+hauser profibus profile dtm v1.06.00
+"8,348",EaseUS Partition Master 14.0,EaseUS,,EXCLUDE,easeus partition master 14.0
+"17,306",Candy Crush Friends,Microsoft Corporation,store,EXCLUDE,candy crush friends
+"5,781",GIGABYTE Smart USB Backup 5.0.20180601,"GIGABYTE TECHNOLOGY CO.,LTD.",,EXCLUDE,gigabyte smart usb backup 5.0.20180601
+"24,154",Eclipse Temurin JDK with Hotspot 17.0.16+8 (x64),Eclipse Adoptium,application,EXCLUDE,eclipse temurin jdk with hotspot 17.0.16+8 (x64)
+"37,608",Apple Application Support (64-bit),Apple Inc.,application,EXCLUDE,apple application support (64-bit)
+"3,320",Phototastic Collage,Thumbmunkeys Ltd,,EXCLUDE,phototastic collage
+"17,586",Microsoft ScreenSketch,"CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",store,EXCLUDE,microsoft screensketch
+"3,889",Catalyst Control Center Next Localization JA,"Advanced Micro Devices, Inc.",,EXCLUDE,catalyst control center next localization ja
+"4,183",PhotoScape,,,EXCLUDE,photoscape
+"19,986",6918E89D.THECHESSLV.100,UNBALANCE corp.,store,EXCLUDE,6918e89d.thechesslv.100
+"5,240",SoftEther VPN Server,SoftEther VPN Project,,EXCLUDE,softether vpn server
+"9,756",HeidiSQL 12.1.0.6537,Ansgar Becker,,EXCLUDE,heidisql 12.1.0.6537
+"28,188",Adobe Flash Player 14 Plugin,Adobe Systems Incorporate,application,EXCLUDE,adobe flash player 14 plugin
+"8,990",LIBS_3_14_19_32,Adobe Inc.,,EXCLUDE,libs_3_14_19_32
+"20,764",SADP,"Hangzhou Hikvision Digital Technology Co., Ltd.",application,EXCLUDE,sadp
+"26,978",Windows App Runtime DDLM 6000.318.2304.0-x8,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 6000.318.2304.0-x8
+"9,563",Python 3.10.4 Documentation (64-bit),Python Software Foundation,,EXCLUDE,python 3.10.4 documentation (64-bit)
+"38,060",Microsoft Windows Desktop Runtime - 7.0.11 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 7.0.11 (x64)
+"20,875",Autodesk Navisworks Freedom 2022 - ???(Japanese) Language Pack,AUTODESK,system_component,EXCLUDE,autodesk navisworks freedom 2022 - ???(japanese) language pack
+"33,604",Microsoft SQL Server 2012 RS Add-in for SharePoint,Microsoft Corporation,application,EXCLUDE,microsoft sql server 2012 rs add-in for sharepoint
+"23,785",Microsoft Journal,Microsoft Corporation,store,EXCLUDE,microsoft journal
+"38,816",Studio 5000 Logix Designer Start Page Media v30.00.00,"Rockwell Automation, Inc.",application,EXCLUDE,studio 5000 logix designer start page media v30.00.00
+"6,397",Dolby Atmos for Headphones,Dolby Laboratories,,EXCLUDE,dolby atmos for headphones
+"37,588",Clipchamp,Microsoft Corp.,store,EXCLUDE,clipchamp
+"21,186",HPCLJProMFPM177,Hewlett-Packard,application,EXCLUDE,hpcljpromfpm177
+"19,279",Pacote de Idiomas do Microsoft Visual Studio Tools for Applications 2012 x64 Hosting Support - PTB,Microsoft Corporation,system_component,EXCLUDE,pacote de idiomas do microsoft visual studio tools for applications 2012 x64 hosting support - ptb
+"38,853",O+ Connect,,application,EXCLUDE,o+ connect
+"23,444",Acronis Backup &#38; Recovery 11.5 Agent for Windows,Acronis,application,EXCLUDE,acronis backup &#38; recovery 11.5 agent for windows
+"28,486",Elliptic Virtual Lock Sensor,Elliptic Labs,application,EXCLUDE,elliptic virtual lock sensor
+"22,569",K-Lite Codec Pack 17.2.5 Full,KLCP,application,EXCLUDE,k-lite codec pack 17.2.5 full
+"4,420",Dell Free Fall Data Protection,STMICROELECTRONICS S.R.L.,,EXCLUDE,dell free fall data protection
+"6,923",Microsoft ODBC Driver 13 for SQL Server,Microsoft Corporation,,EXCLUDE,microsoft odbc driver 13 for sql server
+"24,698",Resso,Moon Video Inc.,store,EXCLUDE,resso
+"22,806",Microsoft ApplicationCompatibilityEnhancements,Microsoft,store,EXCLUDE,microsoft applicationcompatibilityenhancements
+"25,994",spacedesk,datronicsoft Technology GmbH,store,EXCLUDE,spacedesk
+"5,278",ApowerREC V1.4.5.66,APOWERSOFT LIMITED,,EXCLUDE,apowerrec v1.4.5.66
+"21,119",SQL Server 2017 SQL Diagnostics,Microsoft Corporation,system_component,EXCLUDE,sql server 2017 sql diagnostics
+"7,489",TurboVPN 2.1.3.0 stable,inconnecting.com,,EXCLUDE,turbovpn 2.1.3.0 stable
+"5,236",PIB Version 6.0 For Win NT/2000/XP,Direktorat Jenderal Bea dan Cukai,,EXCLUDE,pib version 6.0 for win nt/2000/xp
+"5,148",Muslim Prayers,Holy Land Times,,EXCLUDE,muslim prayers
+"26,987",Python 3.11.5 pip Bootstrap (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.11.5 pip bootstrap (64-bit)
+"8,957",XPrinter Driver V7.77 version 7.77,"ZhuHai J-Speed technology Co.,ltd",,EXCLUDE,xprinter driver v7.77 version 7.77
+"28,675",QGIS 3.44.7 'Solothurn',QGIS.org,application,EXCLUDE,qgis 3.44.7 'solothurn'
+"8,532",Microsoft HEVCVideoExtension,Microsoft Corporation,,EXCLUDE,microsoft hevcvideoextension
+"21,463",HP Support Assistant,Hewlett-Packard Company,store,EXCLUDE,hp support assistant
+"27,360",Autodesk Civil View for 3ds Max 2018 64-bit,,application,EXCLUDE,autodesk civil view for 3ds max 2018 64-bit
+"18,803",Cheating-Death 4.32.0,,application,EXCLUDE,cheating-death 4.32.0
+"34,621",7-Zip 24.05 (x64),Igor Pavlov,application,EXCLUDE,7-zip 24.05 (x64)
+"37,992",mingw-w64-x86_64-headers-git,,mingw-w64-x86_64-toolchain,EXCLUDE,mingw-w64-x86_64-headers-git
+"38,071",Realtek Audio Control,Microsoft Platform Extensions,system,EXCLUDE,realtek audio control
+"33,105",Microsoft Security Essentials,Microsoft Corporation,application,EXCLUDE,microsoft security essentials
+"18,810",Steam,Valve Corporation,application,EXCLUDE,steam
+"5,141",Autodesk Material Library 2018,AUTODESK,,EXCLUDE,autodesk material library 2018
+"28,510",Python 3.12.1 Executables (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.12.1 executables (64-bit)
+"38,261",FileZilla 3.63.2.1,Tim Kosse,application,EXCLUDE,filezilla 3.63.2.1
+"8,378",SIMATIC NET PC Software V12.0 + SP2,Siemens AG,,EXCLUDE,simatic net pc software v12.0 + sp2
+"8,248",Amazon Prime Video for Windows,Amazon Development Centre (London) Ltd,,EXCLUDE,amazon prime video for windows
+"28,418",Autodesk DWG TrueView 2025 - English,"Autodesk, Inc.",application,EXCLUDE,autodesk dwg trueview 2025 - english
+"5,951",Autodesk AutoCAD LT 2020.1.3 Update,AUTODESK,,EXCLUDE,autodesk autocad lt 2020.1.3 update
+"8,849",LIBS_3_14_18_32,Adobe Inc.,,EXCLUDE,libs_3_14_18_32
+"5,006",VirtViewer 5.0-256 (64-bit),Virt Manager Project,,EXCLUDE,virtviewer 5.0-256 (64-bit)
+"29,344",MicrosoftWindows.60719890.Voiess,"CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",system,EXCLUDE,microsoftwindows.60719890.voiess
+"28,400",ABB REG670 1.1 Module,ABB AB,application,EXCLUDE,abb reg670 1.1 module
+"26,934",PatchTPBv3.1.11.34 version 3.1.11.34,DJBC,application,EXCLUDE,patchtpbv3.1.11.34 version 3.1.11.34
+"21,540",Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio tools for applications 2012 x86 hosting support
+"37,499",NIIMBOT 3.12.16,??????????????,application,EXCLUDE,niimbot 3.12.16
+"22,763",HP SFTP Plugin,HP,application,EXCLUDE,hp sftp plugin
+"4,881","Adobe Photoshop Express: Image Editor, Adjustments, Filters, Effects, Borders",Adobe Systems Incorporated,,INCLUDE,"adobe photoshop express: image editor, adjustments, filters, effects, borders"
+"22,522",SAII,Conexant Systems,application,EXCLUDE,saii
+"26,417",ArcGIS Pro 3.3 Patch 2 (3.3.2),"Environmental Systems Research Institute, Inc.",application,EXCLUDE,arcgis pro 3.3 patch 2 (3.3.2)
+"3,423",Hi-Rez Studios Authenticate and Update Service,Hi-Rez Studios,,EXCLUDE,hi-rez studios authenticate and update service
+"25,565",Microsoft Office ??? 2024 - zh-cn,Microsoft Corporation,application,EXCLUDE,microsoft office ??? 2024 - zh-cn
+"6,239",SABDA 4.30,,,EXCLUDE,sabda 4.30
+"5,862",Adobe Help Center 1.0,Adobe Systems,,EXCLUDE,adobe help center 1.0
+"22,875",Microsoft Minesweeper,Microsoft Corporation,store,EXCLUDE,microsoft minesweeper
+"37,693",Windows App Runtime DDLM 8000.921.1539.0-x8,Microsoft Platform Extensions,developer,EXCLUDE,windows app runtime ddlm 8000.921.1539.0-x8
+"27,760",base,,,EXCLUDE,base
+"6,296",V-Ray Swarm,Chaos Software Ltd,,EXCLUDE,v-ray swarm
+"22,519",cAudioFilterAgent,Conexant Systems,application,EXCLUDE,caudiofilteragent
+"34,615",K-Lite Codec Pack 19.7.0 Full,KLCP,application,EXCLUDE,k-lite codec pack 19.7.0 full
+"27,106",VNC Server 5.0.5,RealVNC Ltd,application,EXCLUDE,vnc server 5.0.5
+"36,690",SimaPro 10.3.0.4 Demo,PRé Sustainability,application,EXCLUDE,simapro 10.3.0.4 demo
+77,User Client Access Licenses (CALs) 50 User,Microsoft,License,EXCLUDE,user client access licenses (cals) 50 user
+"33,562",Tableau Public 2025.3 (20253.26.0109.0333),"Salesforce, Inc",application,EXCLUDE,tableau public 2025.3 (20253.26.0109.0333)
+"26,474",Autodesk Revit Content Essential-PLK 2021,,application,EXCLUDE,autodesk revit content essential-plk 2021
+"4,078",vs_networkemulationmsi_x64,Microsoft Corporation,,EXCLUDE,vs_networkemulationmsi_x64
+"25,843",VNC Viewer 7.1.0,RealVNC,application,EXCLUDE,vnc viewer 7.1.0
+"26,225",Siemens Totally Integrated Automation Portal V16 - STEP 7 Single SetupPackage V16.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v16 - step 7 single setuppackage v16.0
+"5,280",Krita (x64) 4.2.6,Krita Foundation,,EXCLUDE,krita (x64) 4.2.6
+"5,463",Revit Content Libraries 2019,AUTODESK,,EXCLUDE,revit content libraries 2019
+"24,986",K-Lite Mega Codec Pack 19.3.5,KLCP,application,EXCLUDE,k-lite mega codec pack 19.3.5
+"9,448",Paessler MIB Importer V3,Paessler AG,,EXCLUDE,paessler mib importer v3
+"5,502",Bootstrapper,"Minitab, Inc.",,EXCLUDE,bootstrapper
+"29,477",FlutterFlow,app.flutterflow.io,none,EXCLUDE,flutterflow
+"20,467",Microsoft Treasure Hunt,Microsoft Corporation,store,EXCLUDE,microsoft treasure hunt
+"9,239",Microsoft Teams,Microsoft Platform Extensions,,EXCLUDE,microsoft teams
+"22,881",Windows App Runtime DDLM 4000.1082.2259.0-x8,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 4000.1082.2259.0-x8
+"26,914",CorelDRAW Graphics Suite 2022 - Filters (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2022 - filters (x64)
+"24,430",HP Audio Control,"CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",system,EXCLUDE,hp audio control
+"18,815",XSplit Gamecaster,SplitmediaLabs,application,EXCLUDE,xsplit gamecaster
+"32,365",NI LabWindows/CVI 2013 SP2 Network Streams Library (64-bit),National Instruments,system_component,EXCLUDE,ni labwindows/cvi 2013 sp2 network streams library (64-bit)
+"38,050",Entity Framework Designer for Visual Studio 2012 - enu,Microsoft Corporation,application,EXCLUDE,entity framework designer for visual studio 2012 - enu
+"26,952",Point Blank ID,PT. Zepetto Interactive Indonesia,application,EXCLUDE,point blank id
+"15,985",OneDrive,Microsoft Corporation,developer,EXCLUDE,onedrive
+"7,907",Leawo Video Converter Ultimate version  7.7.0.0,Leawo Software,,EXCLUDE,leawo video converter ultimate version 7.7.0.0
+"7,276",Zoom Rooms Installer,"Zoom Video Communications, Inc.",,EXCLUDE,zoom rooms installer
+"7,740",SIMATIC S7-PLCSIM V5.4 + SP5 + Upd2 Professional 2010 SR2  ,Siemens AG,,EXCLUDE,simatic s7-plcsim v5.4 + sp5 + upd2 professional 2010 sr2
+"32,466",NI LabVIEW Runtime Interop 2015,National Instruments,system_component,EXCLUDE,ni labview runtime interop 2015
+"25,744",Python Launcher,Python Software Foundation,application,EXCLUDE,python launcher
+"8,364",Sniper Ops 3D Shooter - Top Sniper Shooting Game,Modern Alchemists OG,,EXCLUDE,sniper ops 3d shooter - top sniper shooting game
+"29,241",Minimal ADB and Fastboot version 1.3,Sam Rodberg,application,EXCLUDE,minimal adb and fastboot version 1.3
+"26,468",Autodesk Revit Content Essential-ENU 2021,,application,EXCLUDE,autodesk revit content essential-enu 2021
+"4,018",Microsoft Visual Studio 2015 Devenv Resources,Microsoft Corporation,,EXCLUDE,microsoft visual studio 2015 devenv resources
+"16,972",Google Maps,www.google.com,none,EXCLUDE,google maps
+"29,218",OMNITREND Web-Single,PRUFTECHNIK,application,EXCLUDE,omnitrend web-single
+"3,633",Travelport SmartRefunds,Travelport,,EXCLUDE,travelport smartrefunds
+"26,210",User Management Component - UserManagementComponentx64 V2.10,Siemens AG,system_component,EXCLUDE,user management component - usermanagementcomponentx64 v2.10
+"8,456",Kernel EML Viewer ver 11.05.01,Lepide Software Pvt.Ltd.,,EXCLUDE,kernel eml viewer ver 11.05.01
+"8,630",ADManager Plus Free Tools,ZOHO Corp,,EXCLUDE,admanager plus free tools
+"27,679",TunSafe 1.4,TunSafe,application,EXCLUDE,tunsafe 1.4
+"36,683",AirServer Windows Desktop Edition,App Dynamic ehf.,store,EXCLUDE,airserver windows desktop edition
+"9,106",AutoCAD Electrical 2019 Content Pack,AUTODESK,,EXCLUDE,autocad electrical 2019 content pack
+"3,687",Adobe Illustrator CS6,Adobe Systems Incorporated,,INCLUDE,adobe illustrator cs6
+"29,231",RK Keyboard,RK,application,EXCLUDE,rk keyboard
+"3,643",Altea Duplicator 2.3.4,,,EXCLUDE,altea duplicator 2.3.4
+"20,840",ReadAloud,Optimilia Studios,store,EXCLUDE,readaloud
+"22,973",ME ThreadPal Trial,Close Tolerance Software,application,EXCLUDE,me threadpal trial
+"35,838",MySQL Workbench 8.0 CE,Oracle Corporation,application,EXCLUDE,mysql workbench 8.0 ce
+"6,746",QQ International,Tencent Technology(Shenzhen) Company Limited,,EXCLUDE,qq international
+"27,015",Python 3.12.6 pip Bootstrap (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.12.6 pip bootstrap (64-bit)
+"34,487",GiliSoft Video Editor Pro,Gilisoft International LLC.,application,EXCLUDE,gilisoft video editor pro
+"6,415",Nero Core Components,Nero AG,,EXCLUDE,nero core components
+"18,908",Autodesk Navisworks Freedom 2023 - Paquete de idioma Español (Spanish),AUTODESK,system_component,EXCLUDE,autodesk navisworks freedom 2023 - paquete de idioma español (spanish)
+"4,907",ARCHICAD 20 NZE,GRAPHISOFT,,EXCLUDE,archicad 20 nze
+"18,151",Microsoft Analysis Services OLE DB Provider,Microsoft Corporation,system_component,EXCLUDE,microsoft analysis services ole db provider
+"7,437",ThumbmunkeysLtd.PhototasticCollage,Thumbmunkeys Ltd,,EXCLUDE,thumbmunkeysltd.phototasticcollage
+"32,379",NI LabWindows/CVI 2013 SP2 TDMS Library,National Instruments,system_component,EXCLUDE,ni labwindows/cvi 2013 sp2 tdms library
+"8,903",CorelDRAW Graphics Suite 2021 - Discovery (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - discovery (x64)
+"8,485",File Explorer,Microsoft Windows,,EXCLUDE,file explorer
+"28,662",DWGSee CAD 2026,AutoDWG,application,EXCLUDE,dwgsee cad 2026
+"8,491",CapturePicker,Microsoft Windows,,EXCLUDE,capturepicker
+"25,085",Microsoft Windows Desktop Targeting Pack - 8.0.23 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 8.0.23 (x64)
+"37,998",mingw-w64-x86_64-libtre,,,EXCLUDE,mingw-w64-x86_64-libtre
+"8,703",AutoCAD 2022 Language Pack - English,AUTODESK,,EXCLUDE,autocad 2022 language pack - english
+"17,497",Farm Heroes Saga,king.com,store,EXCLUDE,farm heroes saga
+"36,888",Quick Assist,Microsoft Platform Extensions,store,EXCLUDE,quick assist
+"25,838",Microsoft OfficePushNotificationUtility,Microsoft Corporation,developer,EXCLUDE,microsoft officepushnotificationutility
+"9,138",P5 USB Driver,Schneider Electric,,EXCLUDE,p5 usb driver
+"37,984",mingw-w64-x86_64-crt-git,,mingw-w64-x86_64-toolchain,EXCLUDE,mingw-w64-x86_64-crt-git
+"28,416",Penalty Challenge Multiplayer,www.msn.com,none,EXCLUDE,penalty challenge multiplayer
+"25,898",QGIS 3.22.10 'Bia?owie?a',QGIS.org,application,EXCLUDE,qgis 3.22.10 'bia?owie?a'
+"34,431",Adobe Acrobat Reader DC MUI,Adobe Systems Incorporated,application,EXCLUDE,adobe acrobat reader dc mui
+"32,351",NI System Web Server Base 2016 (64-bit),National Instruments,system_component,EXCLUDE,ni system web server base 2016 (64-bit)
+"27,923",Microsoft Visual Studio Team Foundation Server 2013 Storyboarding Language Pack (x64) - ENU,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio team foundation server 2013 storyboarding language pack (x64) - enu
+"37,184",Privilege Manager Agents Directory Services Agent,Delinea Inc.,application,EXCLUDE,privilege manager agents directory services agent
+"5,237",Zoolz2,,,EXCLUDE,zoolz2
+"8,892",CorelDRAW Graphics Suite 2021 - VBA (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - vba (x64)
+"9,752",DiskGenius V5.4.6,"Eassos Co., Ltd.",,EXCLUDE,diskgenius v5.4.6
+"7,301",PaperCut Print Logger 1.7,PaperCut Software Int. Pty. Ltd.,,EXCLUDE,papercut print logger 1.7
+"8,389",Microsoft Visual Basic for Applications 7.1 (x86) Italian,Microsoft Corporation,,EXCLUDE,microsoft visual basic for applications 7.1 (x86) italian
+"26,441",Notepad For Windows 10,PiceScorp Ltd,store,EXCLUDE,notepad for windows 10
+"4,920",Autodesk Content Service,AUTODESK,,EXCLUDE,autodesk content service
+"5,777",Citrix Receiver,"Citrix Systems, Inc.",,EXCLUDE,citrix receiver
+"5,170",CorelDRAW Graphics Suite X4 - Draw,Corel Corporation,,EXCLUDE,coreldraw graphics suite x4 - draw
+"3,810",Eye Control,Microsoft Platform Extensions,,EXCLUDE,eye control
+"7,416",TreeSize V6.3.7 (64 bit),JAM Software,,EXCLUDE,treesize v6.3.7 (64 bit)
+"25,492",Revo Uninstaller Pro 4.2.3,"VS Revo Group, Ltd.",application,EXCLUDE,revo uninstaller pro 4.2.3
+"8,637",MudRunner,Saber Interactive,,EXCLUDE,mudrunner
+"32,418",Python 3.6.8 Standard Library (32-bit),Python Software Foundation,system_component,EXCLUDE,python 3.6.8 standard library (32-bit)
+"4,734",Microsoft Visio Professional 2016,Microsoft Corporation,,INCLUDE,microsoft visio professional 2016
+"37,717",WinSCP 5.21.3,Martin Prikryl,application,EXCLUDE,winscp 5.21.3
+"19,211",Microsoft Application Error Reporting,Microsoft Corporation,system_component,EXCLUDE,microsoft application error reporting
+"9,247",Microsoft Windows 11 Pro,,,INCLUDE,microsoft windows 11 pro
+"24,634",Cursor,Anysphere,application,EXCLUDE,cursor
+"6,065",CorelDRAW Graphics Suite 2018 - EN (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2018 - en (x64)
+"35,990",{01ef7197-4deb-4997-a10c-3627ffe1b4c8},,application,EXCLUDE,{01ef7197-4deb-4997-a10c-3627ffe1b4c8}
+"21,815",GEDCOM Validator,Chronoplex Software,system_component,EXCLUDE,gedcom validator
+"20,774",SIMATIC Device Drivers WoW,Siemens AG,system_component,EXCLUDE,simatic device drivers wow
+"28,631",EH.SFE500.WamManager.InstallationPackage,Endress+Hauser,system_component,EXCLUDE,eh.sfe500.wammanager.installationpackage
+"23,653",Revo Uninstaller 2.5.7,"VS Revo Group, Ltd.",application,EXCLUDE,revo uninstaller 2.5.7
+"25,128",SQL Server 2016 Shared Management Objects Extensions,Microsoft Corporation,system_component,EXCLUDE,sql server 2016 shared management objects extensions
+"9,388",Tekla Structures 2021 Service Pack 7,Trimble Solutions Corporation,,EXCLUDE,tekla structures 2021 service pack 7
+"8,876",CorelDRAW Graphics Suite 2021 - IPM Content CZ (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - ipm content cz (x64)
+"8,624",MSVCRT_amd64,Microsoft,,EXCLUDE,msvcrt_amd64
+"18,321",VIA Platform Device Manager,"VIA Technologies, Inc.",application,EXCLUDE,via platform device manager
+"37,996",mingw-w64-x86_64-libmangle-git,,mingw-w64-x86_64-toolchain,EXCLUDE,mingw-w64-x86_64-libmangle-git
+"28,661",PL23XX USB-to-Serial,Prolific Technology INC,application,EXCLUDE,pl23xx usb-to-serial
+"8,764",Call of the Raven,Microsoft Corporation,,EXCLUDE,call of the raven
+"9,634",K-Lite Mega Codec Pack 17.1.0,KLCP,,EXCLUDE,k-lite mega codec pack 17.1.0
+"8,417",SIMATIC WinCC OPC-UA Server V1.0 + SP3 + Upd1  ,Siemens AG,,EXCLUDE,simatic wincc opc-ua server v1.0 + sp3 + upd1
+"27,299",Autodesk Application Manager,AUTODESK,application,EXCLUDE,autodesk application manager
+"25,759",TeamViewer,TeamViewer,application,EXCLUDE,teamviewer
+"28,179",tools-linux,"VMware, Inc.",system_component,EXCLUDE,tools-linux
+"7,224",Microsoft LanguageExperiencePackid-ID,Microsoft Corporation,,EXCLUDE,microsoft languageexperiencepackid-id
+"7,743",Optima TCT,ABB Automation,,EXCLUDE,optima tct
+"8,531",Facebook.Facebook,Facebook Inc,,EXCLUDE,facebook.facebook
+"24,721",CCleaner 7,Piriform,application,EXCLUDE,ccleaner 7
+"28,950",Python 3.10.11 Executables (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.10.11 executables (64-bit)
+"23,165",LanTopoLog 2 2.51.6,Yuriy Volokitin,application,EXCLUDE,lantopolog 2 2.51.6
+"21,041",TurboVPN 2.21.0.0 stable,inconnecting.com,application,EXCLUDE,turbovpn 2.21.0.0 stable
+"37,339",AMD Radeon Settings Lite,Advanced Micro Devices Inc.,store,EXCLUDE,amd radeon settings lite
+"9,033",STEP 7-Micro/WIN SMART V2.6,Siemens,,EXCLUDE,step 7-micro/win smart v2.6
+"37,624",PowerDVD for Lenovo,CYBERLINKCOM CORPORATION,store,EXCLUDE,powerdvd for lenovo
+"28,280",Endress+Hauser SFG500 CommDTM,Endress+Hauser Process Solutions AG,application,EXCLUDE,endress+hauser sfg500 commdtm
+"17,418",Microsoft Office Access MUI (English) 2010,Microsoft Corporation,system_component,EXCLUDE,microsoft office access mui (english) 2010
+"19,255",CorelDRAW Graphics Suite X7 - FontNav (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite x7 - fontnav (x64)
+"7,402",LAV Filters 0.74.1,Hendrik Leppkes,,EXCLUDE,lav filters 0.74.1
+"5,290",AmiBroker 5.60.3,AmiBroker.com,,EXCLUDE,amibroker 5.60.3
+"29,121",MiniTool Partition Wizard Free 13.6,MiniTool Software Limited,application,EXCLUDE,minitool partition wizard free 13.6
+"35,115",Mp3tag v3.34,Florian Heidenreich,application,EXCLUDE,mp3tag v3.34
+"3,424",IPro,Inor,,EXCLUDE,ipro
+"36,224",SMADAV version 15.0.2,SmadSoft,application,EXCLUDE,smadav version 15.0.2
+"24,495",iMyFone MirrorTo 6.0.2.1,"iMyFone Technology Co., Ltd.",application,EXCLUDE,imyfone mirrorto 6.0.2.1
+"6,938",Microsoft Visual Studio 2015 Shell (Isolated) Resources,Microsoft Corporation,,EXCLUDE,microsoft visual studio 2015 shell (isolated) resources
+"23,073",Siemens Totally Integrated Automation Portal V14 - WinCC Single SetupPackage V14.0 + SP1,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v14 - wincc single setuppackage v14.0 + sp1
+"33,435",PDF To JPG Converter 4.7,PDF To JPG Converter,application,EXCLUDE,pdf to jpg converter 4.7
+"33,493",CorelDRAW Graphics Suite 2019 - PHOTO-PAINT (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2019 - photo-paint (x64)
+"22,128",OPC Core Components Redistributable (x86) 3.0.107.24,OPC Foundation,application,EXCLUDE,opc core components redistributable (x86) 3.0.107.24
+"6,761",DataSecurity Plus,ZOHOCorp,,EXCLUDE,datasecurity plus
+"3,175",K-Lite Codec Pack 14.5.5 Full,KLCP,,EXCLUDE,k-lite codec pack 14.5.5 full
+"3,395",Four Js Genero Studio 2.40.11,Four Js Development Tools Europe Ltd.,,EXCLUDE,four js genero studio 2.40.11
+"5,654",HP Drive Encryption,Hewlett-Packard Company,,EXCLUDE,hp drive encryption
+"4,749",Cambium Networks LINKPlanner version 5.2.3,Cambium Networks,,EXCLUDE,cambium networks linkplanner version 5.2.3
+"26,195",Siemens Totally Integrated Automation Portal V18 - WinCC Transfer Legacy All Single SetupPackage V18.0 + SP1,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v18 - wincc transfer legacy all single setuppackage v18.0 + sp1
+"33,574",Football Manager 2016,,application,EXCLUDE,football manager 2016
+"24,845",HikCentral Professional Control Client,"Hangzhou Hikvision Digital Technology Co., Ltd.",application,EXCLUDE,hikcentral professional control client
+"32,438",NI Search Shared,National Instruments,system_component,EXCLUDE,ni search shared
+"28,399",ABB IED Connectivity Package REF615C Ver. 5.1.2 User Documentation,ABB Asea Brown Boveri Ltd,application,EXCLUDE,abb ied connectivity package ref615c ver. 5.1.2 user documentation
+"23,973",HEIF Image Extension,Microsoft Corporation,store,EXCLUDE,heif image extension
+"22,968",FormatFactory 4.3.0.0,Free Time,application,EXCLUDE,formatfactory 4.3.0.0
+"36,977",CodeMeter Runtime Kit v8.40a,WIBU-SYSTEMS AG,application,EXCLUDE,codemeter runtime kit v8.40a
+"32,389",NI Logos LabVIEW 2016 Support,National Instruments,system_component,EXCLUDE,ni logos labview 2016 support
+"38,243",File Analyzer,Bitberry Software,store,EXCLUDE,file analyzer
+"17,204",ELAN Touchpad 18.2.21.1_X64_WHQL,ELAN Microelectronic Corp.,application,EXCLUDE,elan touchpad 18.2.21.1_x64_whql
+"5,169",CorelDRAW Graphics Suite X4 - Capture,Corel Corporation,,EXCLUDE,coreldraw graphics suite x4 - capture
+"33,107",Microsoft Security Client,Microsoft Corporation,system_component,EXCLUDE,microsoft security client
+"18,295",Microsoft D3DMappingLayers,Microsoft Platform Extensions,store,EXCLUDE,microsoft d3dmappinglayers
+"27,616",Alienware Customer Connect,Dell Inc,store,EXCLUDE,alienware customer connect
+"32,359",NI LabVIEW 2016 (32-bit),National Instruments,system_component,EXCLUDE,ni labview 2016 (32-bit)
+"28,348",Microsoft VSS Writer for SQL Server 2019,Microsoft Corporation,application,EXCLUDE,microsoft vss writer for sql server 2019
+"8,795",K-Lite Mega Codec Pack 16.3.5,KLCP,,EXCLUDE,k-lite mega codec pack 16.3.5
+"37,716",Zoiper5,Securax Ltd.,application,EXCLUDE,zoiper5
+"21,168",Eclipse Temurin JDK with Hotspot 11.0.16.1+1 (x64),Eclipse Adoptium,application,EXCLUDE,eclipse temurin jdk with hotspot 11.0.16.1+1 (x64)
+"24,496",IM-Magic Partition Resizer Free,IM-Magic Inc.,application,EXCLUDE,im-magic partition resizer free
+"24,329",Autodesk Navisworks Freedom 2026 - Paquete de idioma Español (Spanish),AUTODESK,system_component,EXCLUDE,autodesk navisworks freedom 2026 - paquete de idioma español (spanish)
+"8,934",Windows PC Health Check,Microsoft Corporation,,EXCLUDE,windows pc health check
+"25,107",SQL Server 2016 DMF,Microsoft Corporation,system_component,EXCLUDE,sql server 2016 dmf
+"38,785",Photos,Microsoft Corporation,application,EXCLUDE,photos
+"3,899",Catalyst Control Center Next Localization EL,"Advanced Micro Devices, Inc.",,EXCLUDE,catalyst control center next localization el
+"32,543",NI LabVIEW 2016 Database Connectivity Toolkit License,National Instruments,system_component,EXCLUDE,ni labview 2016 database connectivity toolkit license
+"29,039",Ti?ng Vi?t Gói tr?i nghi?m c?c b?,Microsoft,store,EXCLUDE,ti?ng vi?t gói tr?i nghi?m c?c b?
+"33,059",RealVNC Server 7.16.0,RealVNC,application,EXCLUDE,realvnc server 7.16.0
+"18,678",HP Unified IO,HP,system_component,EXCLUDE,hp unified io
+"33,087",Streamlabs Desktop 1.12.5,"General Workings, Inc.",application,EXCLUDE,streamlabs desktop 1.12.5
+"23,213",Python 3.11.2 Development Libraries (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.11.2 development libraries (64-bit)
+"32,137",Windows App Runtime DDLM 8000.731.1532.0-x6,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 8000.731.1532.0-x6
+"32,391",NI SSL LabVIEW RTE 2014 Support,National Instruments,system_component,EXCLUDE,ni ssl labview rte 2014 support
+"23,039",MaintSmart_Prerequisite,"MaintSmart Software, Inc",application,EXCLUDE,maintsmart_prerequisite
+"26,278",YASKAWA SigmaWin+ Ver.7,YASKAWA Electric Corp.,application,EXCLUDE,yaskawa sigmawin+ ver.7
+"29,321",Draw the Bridge,www.msn.com,none,EXCLUDE,draw the bridge
+"26,111",Simple MP3 Downloader and Converter,Isabella Victoria,store,EXCLUDE,simple mp3 downloader and converter
+"3,575",eSPT PPh Masa Pasal 4(2) v1.1,Direktorat Jenderal Pajak,,EXCLUDE,espt pph masa pasal 4(2) v1.1
+"4,434",Siemens Totally Integrated Automation Portal V15.1 - SIMATIC S7-PLCSIM  V15.1,Siemens AG,,EXCLUDE,siemens totally integrated automation portal v15.1 - simatic s7-plcsim v15.1
+"36,976",LocalSend version 1.17.0,Tien Do Nam,application,EXCLUDE,localsend version 1.17.0
+"27,232",IPOT 5.7.12.144,Indo Premier Securities,application,EXCLUDE,ipot 5.7.12.144
+"33,515",Cirrus Audio Driver,Cirrus Logic Inc.,application,EXCLUDE,cirrus audio driver
+"9,177",iTubeGo version 5.0.0,"LuckyDog Software, Inc.",,EXCLUDE,itubego version 5.0.0
+"25,299",HikCentral Professional,"Hangzhou Hikvision Digital Technology Co., Ltd.",application,EXCLUDE,hikcentral professional
+"27,816",libreadline,,libraries,EXCLUDE,libreadline
+"6,287",Autodesk Revit Model Review 2020,AUTODESK,,EXCLUDE,autodesk revit model review 2020
+"26,445",Autodesk Civil 3D 2026 Private Pack,AUTODESK,system_component,EXCLUDE,autodesk civil 3d 2026 private pack
+"9,221",CCXP_4_7_3_32,Adobe Inc.,,EXCLUDE,ccxp_4_7_3_32
+"24,167",Microsoft Windows Desktop Targeting Pack - 8.0.18 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 8.0.18 (x64)
+"4,045",vs_communitymsires,Microsoft Corporation,,EXCLUDE,vs_communitymsires
+"35,926",????,"Wuhan Net Power Technology Co., Ltd",store,EXCLUDE,????
+"5,229",EmEditor (64-bit),Emurasoft,,EXCLUDE,emeditor (64-bit)
+"6,621",Python 3.7.9 Test Suite (64-bit),Python Software Foundation,,EXCLUDE,python 3.7.9 test suite (64-bit)
+"25,417",Microsoft MPI (7.0.12437.8),Microsoft Corporation,application,EXCLUDE,microsoft mpi (7.0.12437.8)
+"8,736",AutoCAD LT 2022 - English,AUTODESK,,INCLUDE,autocad lt 2022 - english
+"18,879",Microsoft Services Store Engagement,Microsoft Corporation,store,EXCLUDE,microsoft services store engagement
+"9,506",A278AB0D.DisneyMagicKingdoms,Gameloft SE,,EXCLUDE,a278ab0d.disneymagickingdoms
+"23,883",PowerPoint,powerpoint.office.com,none,EXCLUDE,powerpoint
+"28,377",ABB 650 series 1.1 EN-US ANSI Add-on,ABB AB,application,EXCLUDE,abb 650 series 1.1 en-us ansi add-on
+"19,634",MSVCRT110,Microsoft,system_component,EXCLUDE,msvcrt110
+"8,582",Sentinel System Driver Installer 7.5.8,"SafeNet, Inc.",,EXCLUDE,sentinel system driver installer 7.5.8
+"3,806",Microsoft.UI.Xaml.2.2,Microsoft Platform Extensions,,EXCLUDE,microsoft.ui.xaml.2.2
+"5,532",TAP-Windows 9.24.2,"OpenVPN Technologies, Inc.",,EXCLUDE,tap-windows 9.24.2
+"6,282",Autodesk Navisworks Freedom 2020,AUTODESK,,EXCLUDE,autodesk navisworks freedom 2020
+"21,287",ArcSoft Perfect365,"ArcSoft, Inc.",application,EXCLUDE,arcsoft perfect365
+"3,372",Mobile Assistant,Lenovo,,EXCLUDE,mobile assistant
+"29,007",Microsoft Windows Desktop Runtime - 7.0.7 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 7.0.7 (x64)
+"32,328",NI LabWindows/CVI Shared Run-Time Engine 2013 SP2 (64-bit),National Instruments,system_component,EXCLUDE,ni labwindows/cvi shared run-time engine 2013 sp2 (64-bit)
+"4,012",Multi-Device Hybrid Apps using C# - Templates - ENU,Microsoft Corporation,,EXCLUDE,multi-device hybrid apps using c# - templates - enu
+"20,462",HP Impreza Pen,Elan Microelectronics Corp.,store,EXCLUDE,hp impreza pen
+"32,488",NI LabVIEW 2016 Search,National Instruments,system_component,EXCLUDE,ni labview 2016 search
+"29,897",eComm 2.00.00,,application,EXCLUDE,ecomm 2.00.00
+"37,723",GPX Player,Heptazane,store,EXCLUDE,gpx player
+"27,592",Alienware SupportAssist Remediation,Dell Inc.,application,EXCLUDE,alienware supportassist remediation
+"23,831",Microsoft Windows Desktop Runtime - 8.0.12 (x86),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 8.0.12 (x86)
+"20,422",KYOCERA Print Center,KYOCERA Document Solutions Inc,store,EXCLUDE,kyocera print center
+"20,930",ACA &#38; MEP 2020 Object Enabler,AUTODESK,system_component,EXCLUDE,aca &#38; mep 2020 object enabler
+"27,133",Python 3.11.4 Core Interpreter (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.11.4 core interpreter (64-bit)
+"27,089",Microsoft Project Professional 2024 - en-us,Microsoft Corporation,application,EXCLUDE,microsoft project professional 2024 - en-us
+"32,441",Python 3.6.8 Core Interpreter (32-bit),Python Software Foundation,system_component,EXCLUDE,python 3.6.8 core interpreter (32-bit)
+"24,384",KeePass Password Safe 2.59,Dominik Reichl,application,EXCLUDE,keepass password safe 2.59
+"25,452",Firebird 2.5.9.27139 (Win32),Firebird Project,application,EXCLUDE,firebird 2.5.9.27139 (win32)
+"8,898",CorelDRAW Graphics Suite 2021 - IT (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - it (x64)
+"8,115",K-Lite Codec Pack 16.0.5 Full,KLCP,,EXCLUDE,k-lite codec pack 16.0.5 full
+"5,214",Status,Hewlett-Packard,,EXCLUDE,status
+"24,241",Visual Studio Enterprise 2022,Microsoft Corporation,application,EXCLUDE,visual studio enterprise 2022
+"4,498",DriveWindow 2,ABB Oy Helsinki Finland,,EXCLUDE,drivewindow 2
+"28,772",Wireshark 4.6.0 x64,"The Wireshark developer community, https://www.wireshark.org",application,EXCLUDE,wireshark 4.6.0 x64
+"6,412",Prerequisite installer,Nero AG,,EXCLUDE,prerequisite installer
+"6,393",SpeedFan (remove only),,,EXCLUDE,speedfan (remove only)
+"27,779",gmp,,libraries,EXCLUDE,gmp
+"8,132",FieldCare Profibus,Metso Endress+Hauser Technology AG,,EXCLUDE,fieldcare profibus
+"38,275",An African Safari,Microsoft Corporation,store,EXCLUDE,an african safari
+"17,671",e-SPT Tahunan PPh Orang Pribadi,DJP,application,EXCLUDE,e-spt tahunan pph orang pribadi
+"5,038",ELAN Touchpad 18.2.14.2_X64_WHQL,ELAN Microelectronic Corp.,,EXCLUDE,elan touchpad 18.2.14.2_x64_whql
+"4,077",Microsoft Visual Studio Premium 2015,Microsoft Corporation,,EXCLUDE,microsoft visual studio premium 2015
+"17,998",Microsoft Office Office 64-bit Components 2010,Microsoft Corporation,system_component,EXCLUDE,microsoft office office 64-bit components 2010
+"33,535","Siemens Totally Integrated Automation Portal V16 - SINAMICS Startdrive G110M, G120, G120C, G120D, G120P, G115D V16.0 + Upd5",Siemens AG,system_component,EXCLUDE,"siemens totally integrated automation portal v16 - sinamics startdrive g110m, g120, g120c, g120d, g120p, g115d v16.0 + upd5"
+"19,241",CorelDRAW Graphics Suite X7 (64-Bit),Corel Corporation,application,EXCLUDE,coreldraw graphics suite x7 (64-bit)
+"27,781",grep,,,EXCLUDE,grep
+"6,933",Microsoft SQL Server  vNext  Policies CTP2.0,Microsoft Corporation,,EXCLUDE,microsoft sql server vnext policies ctp2.0
+"28,603",IOTService,Hi-Flying,application,EXCLUDE,iotservice
+"17,949",Windows SDK Desktop Tools arm64,Microsoft Corporation,system_component,EXCLUDE,windows sdk desktop tools arm64
+"5,297",LAV Filters 0.55.3,Hendrik Leppkes,,EXCLUDE,lav filters 0.55.3
+"21,664",Python 3.8.10 Standard Library (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.8.10 standard library (64-bit)
+"27,895",Microsoft Windows Desktop Targeting Pack - 8.0.14 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 8.0.14 (x64)
+"25,410",HeavyLoad V3.3 (64 bit),JAM Software,application,EXCLUDE,heavyload v3.3 (64 bit)
+"19,243",CorelDRAW Graphics Suite X7 - Photozoom Plugin (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite x7 - photozoom plugin (x64)
+"24,982",OpenWebStart 1.13.0,Karakun AG,application,EXCLUDE,openwebstart 1.13.0
+"32,599",QR Scanner,"Zhizhou Technology Co.,Ltd.",store,EXCLUDE,qr scanner
+"7,401",Hasleo Data Recovery version 5.6,Hasleo Software,,EXCLUDE,hasleo data recovery version 5.6
+"5,022",Avaya Integrated Management Site Administration,Avaya,,EXCLUDE,avaya integrated management site administration
+"21,515",UltraViewer version 6.6.37,DucFabulous,application,EXCLUDE,ultraviewer version 6.6.37
+"33,545",CCXP_7_5_0_32,Adobe Inc.,application,EXCLUDE,ccxp_7_5_0_32
+"9,220",AutoCAD Mobile,AUTODESK,,INCLUDE,autocad mobile
+"7,205",K-Lite Mega Codec Pack 14.3.6,KLCP,,EXCLUDE,k-lite mega codec pack 14.3.6
+"28,964",Microsoft Visio LTSC Professional 2024 - en-us.proof,Microsoft Corporation,application,EXCLUDE,microsoft visio ltsc professional 2024 - en-us.proof
+"3,678",Windows Live Mail,Microsoft Corporation,,EXCLUDE,windows live mail
+"4,910",UltraVnc,uvnc bvba,,EXCLUDE,ultravnc
+"25,336",1 File Viewer,regulars,store,EXCLUDE,1 file viewer
+"6,642",ACA & MEP 2019 Object Enabler,AUTODESK,,EXCLUDE,aca & mep 2019 object enabler
+"24,264",SQL Server 2022 Advanced Analytics,Microsoft Corporation,system_component,EXCLUDE,sql server 2022 advanced analytics
+"32,536",NI LabVIEW 2016 License,National Instruments,system_component,EXCLUDE,ni labview 2016 license
+"7,412",Cisco AnyConnect Secure Mobility Client ,"Cisco Systems, Inc.",,EXCLUDE,cisco anyconnect secure mobility client
+"28,676",Windows Installer,AdvancedWindowsManager,system_component,EXCLUDE,windows installer
+"5,757",HEVC Video Extensions from the Device Manufacturer,Microsoft Corporation,,EXCLUDE,hevc video extensions from the device manufacturer
+"19,642",D3DX10,Microsoft,system_component,EXCLUDE,d3dx10
+"37,896",Autodesk Navisworks Freedom 2022 Update 4,"Autodesk, Inc.",application,EXCLUDE,autodesk navisworks freedom 2022 update 4
+"5,732",Microsoft Office Access 2007,Microsoft Corporation,,INCLUDE,microsoft office access 2007
+"18,292",eSPT PPh Masa Pasal 4 Ayat (2),DJP,application,EXCLUDE,espt pph masa pasal 4 ayat (2)
+"26,660",DELTA 4000 (Driver Removal),Megger,application,EXCLUDE,delta 4000 (driver removal)
+"8,865",fre:ac v1.1.5,,,EXCLUDE,fre:ac v1.1.5
+"18,386",Sys Aplikasi,IT. CREATIVE,application,EXCLUDE,sys aplikasi
+"23,738",HWiNFO® 64,"Martin Malik, REALiX s.r.o.",application,EXCLUDE,hwinfo® 64
+"9,232",Windows Print,Microsoft Corporation,,EXCLUDE,windows print
+"9,495",DiskGenius V5.4.3,"Eassos Co., Ltd.",,EXCLUDE,diskgenius v5.4.3
+"26,633",MiniTool Partition Wizard Free 13.5,MiniTool Software Limited,application,EXCLUDE,minitool partition wizard free 13.5
+"32,347",NI LabWindows/CVI 2013 SP2 TDMS Library (64-bit),National Instruments,system_component,EXCLUDE,ni labwindows/cvi 2013 sp2 tdms library (64-bit)
+"37,731",Pusheen Gamer Official Theme,msstorefast,store,EXCLUDE,pusheen gamer official theme
+"7,209",Paid WiFi & Mobile,Microsoft Corporation,,EXCLUDE,paid wifi & mobile
+"7,302",Administative Templates for Windows Server 2008 (.admx),Microsoft Corporation,,EXCLUDE,administative templates for windows server 2008 (.admx)
+"8,692",Bitnami WordPress Stack,Bitnami,,EXCLUDE,bitnami wordpress stack
+"9,545",Microsoft Office Home and Business 2021 - en-us,Microsoft Corporation,,INCLUDE,microsoft office home and business 2021 - en-us
+"17,295",AOMEI Centralized Backupper Agent,"AOMEI Technology Co., Ltd.",application,EXCLUDE,aomei centralized backupper agent
+"23,159",VirtViewer 11.0-256 (64-bit),Virt Viewer Project,application,EXCLUDE,virtviewer 11.0-256 (64-bit)
+"18,370",Pantone Color of the Year 2022,Microsoft Corporation,store,EXCLUDE,pantone color of the year 2022
+"25,361",BRLink 1.1.0.34,Barrot Technology Limited,application,EXCLUDE,brlink 1.1.0.34
+"4,087",vs_enterprisemsi,Microsoft Corporation,,EXCLUDE,vs_enterprisemsi
+"29,221",Known Issue Rollback Policy Definitions,Microsoft Corp,application,EXCLUDE,known issue rollback policy definitions
+"36,940",Microsoft OneDriveSync,Microsoft Platform Extensions,developer,EXCLUDE,microsoft onedrivesync
+"27,006",Daydream,Microsoft Corporation,store,EXCLUDE,daydream
+"27,691",Go Programming Language amd64 go1.23.2,https://go.dev,application,EXCLUDE,go programming language amd64 go1.23.2
+"7,011",HPLJUTM201_202,HP,,EXCLUDE,hpljutm201_202
+"32,382",NI LabVIEW 2015 Run-Time Engine Web Server,National Instruments,system_component,EXCLUDE,ni labview 2015 run-time engine web server
+"22,703",JUMO ST-Editor,JUMO GmbH &#38; Co. KG,application,EXCLUDE,jumo st-editor
+"9,380",Paessler SNMP Tester,Paessler AG,,EXCLUDE,paessler snmp tester
+"5,534",K-Lite Mega Codec Pack 14.3.0,KLCP,,EXCLUDE,k-lite mega codec pack 14.3.0
+"6,827",Autodesk AutoCAD LT 2021 - English,AUTODESK,,INCLUDE,autodesk autocad lt 2021 - english
+"27,144",Microsoft Windows 10 Enterprise LTSC,,,INCLUDE,microsoft windows 10 enterprise ltsc
+"32,399",NI TDM Streaming 16.0,National Instruments,system_component,EXCLUDE,ni tdm streaming 16.0
+"28,593",aescripts + aeplugins,aescripts + aeplugins,application,EXCLUDE,aescripts + aeplugins
+"3,688",Adobe Color EU Extra Settings,Adobe Systems Incorporated,,EXCLUDE,adobe color eu extra settings
+"26,310",PLCSIM Advanced Single SetupPackage - PLCSIM Advanced Single SetupPackage V5.0,Siemens AG,system_component,EXCLUDE,plcsim advanced single setuppackage - plcsim advanced single setuppackage v5.0
+"32,427",NI Instrument IO Assistant for LabVIEW 2016 32-bit,National Instruments,system_component,EXCLUDE,ni instrument io assistant for labview 2016 32-bit
+"19,612",Photo Wall - Collage Maker,Everyday Tools LLC,store,EXCLUDE,photo wall - collage maker
+"36,649","Trimble ImportSDK, DWG plugin 1.62.0 (x64 build)",Trimble Inc.,application,EXCLUDE,"trimble importsdk, dwg plugin 1.62.0 (x64 build)"
+"26,931",M3 RAW Drive Recovery version 5.6.8,M3 Data Recovery,application,EXCLUDE,m3 raw drive recovery version 5.6.8
+"17,553",Adobe Reader XI (11.0.23),Adobe Systems Incorporated,application,INCLUDE,adobe reader xi (11.0.23)
+"27,389",Adobe Character Animator CC (Beta),Adobe Systems Incorporated,application,EXCLUDE,adobe character animator cc (beta)
+"33,485",CorelDRAW Graphics Suite 2019 - IPM (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2019 - ipm (x64)
+"4,882",March of Empires: War of Lords,Gameloft.,,EXCLUDE,march of empires: war of lords
+"26,005",Microsoft Windows Desktop Targeting Pack - 9.0.1 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 9.0.1 (x64)
+"23,047",WinISO,WinISO Computing Inc.,application,EXCLUDE,winiso
+"38,529",Heimdal RD Agent 5.0.2551.192,Heimdal Security,application,EXCLUDE,heimdal rd agent 5.0.2551.192
+"3,112",Oracle Database 10g Express Edition,Oracle Corporation,,EXCLUDE,oracle database 10g express edition
+"37,318",SmartUtility Light version 3.0.10.28746,Schaeffler Monitoring Services GmbH,application,EXCLUDE,smartutility light version 3.0.10.28746
+"24,020",AutoCAD 2026 - English,AUTODESK,system_component,INCLUDE,autocad 2026 - english
+"22,923",SIMATIC S7-PCT V3.4 + HF2 Professional 2017,Siemens AG,application,EXCLUDE,simatic s7-pct v3.4 + hf2 professional 2017
+"20,188",MSVCRT110_amd64,Microsoft,system_component,EXCLUDE,msvcrt110_amd64
+"18,967",GetDataBack Pro version 5.55,"Runtime Software, LLC",application,EXCLUDE,getdataback pro version 5.55
+"29,219",X-Rite Color Assistant 2.12.0.0,"X-Rite, Inc",application,EXCLUDE,x-rite color assistant 2.12.0.0
+"5,830",VNC Viewer 6.20.529,RealVNC Ltd,,EXCLUDE,vnc viewer 6.20.529
+"20,909",Microsoft 365 - id-id,Microsoft Corporation,application,EXCLUDE,microsoft 365 - id-id
+"9,104",AutoCAD Electrical 2019,AUTODESK,,INCLUDE,autocad electrical 2019
+"28,439",TikTok LIVE Studio,TikTok Pte. Ltd.,application,EXCLUDE,tiktok live studio
+"9,633",Wondershare Dr.Fone (Version 11.4.12),"Wondershare Technology Co.,Ltd.",,EXCLUDE,wondershare dr.fone (version 11.4.12)
+"7,706",Smart Update v4.1.8,"GIGABYTE TECHNOLOGY CO.,LTD.",,EXCLUDE,smart update v4.1.8
+"8,301",CCleaner v5.79.8704,Piriform Ltd. (RePack by Dodakaedr),,EXCLUDE,ccleaner v5.79.8704
+"22,034",Unzip: Zip &#38; RAR Extractor,UNO UNO UNO Go,store,EXCLUDE,unzip: zip &#38; rar extractor
+"20,318",Visual Studio Build Tools 2019,Microsoft Corporation,application,EXCLUDE,visual studio build tools 2019
+"9,658",Avast Update Helper,Avast Software,,EXCLUDE,avast update helper
+"18,527",Crossy Road,Yodo1 Ltd,store,EXCLUDE,crossy road
+"23,239",UltraViewer version 6.6.84,DucFabulous,application,EXCLUDE,ultraviewer version 6.6.84
+"25,345",Microsoft Office Home and Business 2019 - id-id,Microsoft Corporation,application,INCLUDE,microsoft office home and business 2019 - id-id
+"10,422",AutoCAD - Including Specialized Toolsets AD 2022,,Subscription,INCLUDE,autocad - including specialized toolsets ad 2022
+"23,569",Driver Easy 6.1.2,Easeware,application,EXCLUDE,driver easy 6.1.2
+"6,303",Autodesk CAD Manager Tools,AUTODESK,,EXCLUDE,autodesk cad manager tools
+"18,912",Autodesk Navisworks Freedom 2023 - ?? ? - ???(Korean),AUTODESK,system_component,EXCLUDE,autodesk navisworks freedom 2023 - ?? ? - ???(korean)
+"5,385",Snagit 2019,TechSmith Corporation,,EXCLUDE,snagit 2019
+"32,463",NI LabVIEW 2014 SP1 Run-Time Engine Web Server,National Instruments,system_component,EXCLUDE,ni labview 2014 sp1 run-time engine web server
+"38,260",7-Zip 19.00,Igor Pavlov,application,EXCLUDE,7-zip 19.00
+"8,449",SIMATIC WinCC/ConnectivityPack Server,Siemens AG,,EXCLUDE,simatic wincc/connectivitypack server
+"3,147",GPL Ghostscript,Artifex Software Inc.,,EXCLUDE,gpl ghostscript
+"38,826",FactoryTalk Linx 6.00.00 (CPR 9 SR 10.0),"Rockwell Automation, Inc.",application,EXCLUDE,factorytalk linx 6.00.00 (cpr 9 sr 10.0)
+"20,861",RAM Concept CONNECT Edition V8 Update 3,"Bentley Systems, Inc.",system_component,EXCLUDE,ram concept connect edition v8 update 3
+"26,741",Worksharing Monitor for Autodesk Revit 2026,AUTODESK,system_component,EXCLUDE,worksharing monitor for autodesk revit 2026
+"26,819",EasyGPS 7.40.0.0,TopoGrafix,application,EXCLUDE,easygps 7.40.0.0
+"25,012",MA4String,Conexant Systems,application,EXCLUDE,ma4string
+"28,926",Microsoft Windows Desktop Runtime - 3.1.22 (x86),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 3.1.22 (x86)
+"9,154",Adobe Premiere Pro 2022,Adobe Inc.,,EXCLUDE,adobe premiere pro 2022
+"9,359",LIBS_3_18_3_32,Adobe Inc.,,EXCLUDE,libs_3_18_3_32
+"22,412",commsbepx64,Motorola,application,EXCLUDE,commsbepx64
+"22,518",Screen Recorder+,Mobility in Life applications,store,EXCLUDE,screen recorder+
+"25,171",Python 3.11.7 Executables (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.11.7 executables (64-bit)
+"34,693",Microsoft Windows Desktop Runtime 10.0.8 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime 10.0.8 (x64)
+"21,992",XFastUsb,,application,EXCLUDE,xfastusb
+"26,199",S7-PLCSIM - S7-PLCSIM Setup V18.0,Siemens AG,system_component,EXCLUDE,s7-plcsim - s7-plcsim setup v18.0
+"5,438",KMSnano 24,,,EXCLUDE,kmsnano 24
+"33,595",doPDF 11 Printer Driver,Softland,application,EXCLUDE,dopdf 11 printer driver
+"23,585",Microsoft Windows CapturePicker,"CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",system,EXCLUDE,microsoft windows capturepicker
+"24,104",Microsoft Office Professional Plus 2024 - en-us,Microsoft Corporation,application,INCLUDE,microsoft office professional plus 2024 - en-us
+"4,441",User Management Component -  UserManagementComponentx64  01.9 + SP1,Siemens AG,,EXCLUDE,user management component - usermanagementcomponentx64 01.9 + sp1
+"8,496",Windows Security,Microsoft Windows,,EXCLUDE,windows security
+"17,903",SDK ARM Additions,Microsoft Corporation,system_component,EXCLUDE,sdk arm additions
+"21,492",Microsoft Office 2010 Language Pack Service Pack 1 (SP1),Microsoft,system_component,EXCLUDE,microsoft office 2010 language pack service pack 1 (sp1)
+"18,286",Adobe Acrobat,Adobe Acrobat,developer,INCLUDE,adobe acrobat
+"28,041",Microsoft C++ Azure Mobile SDK for Visual Studio 2013,Microsoft Corporation,system_component,EXCLUDE,microsoft c++ azure mobile sdk for visual studio 2013
+"8,974",Autochartist MetaTrader Expert Advisor,MDIO Software,,EXCLUDE,autochartist metatrader expert advisor
+"28,719",Samsung Notes,"Samsung Electronics Co, Ltd.",store,EXCLUDE,samsung notes
+"33,388",IrfanView (remove only),,application,EXCLUDE,irfanview (remove only)
+"8,230",Dragon Throne - Battle of Red Cliffs,,,EXCLUDE,dragon throne - battle of red cliffs
+"32,364",iisnode for iis 7.x (x64) full,Microsoft Corporation,application,EXCLUDE,iisnode for iis 7.x (x64) full
+"24,223",Microsoft Windows Desktop Runtime - 9.0.7 (x86),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop runtime - 9.0.7 (x86)
+"5,881",VPN Pro - Best Free VPN & Unlimited Wifi Proxy,FIYING ORONOCO LTD,,EXCLUDE,vpn pro - best free vpn & unlimited wifi proxy
+"6,130",CANopenCommunicationDTMLibrary,Schneider Electric,,EXCLUDE,canopencommunicationdtmlibrary
+"3,717",Adobe Color JA Extra Settings,Adobe Systems Incorporated,,EXCLUDE,adobe color ja extra settings
+"19,710",Fitbit Coach,Fitbit,store,EXCLUDE,fitbit coach
+"33,432",Free PDF Reader,Free PDF Solutions,application,EXCLUDE,free pdf reader
+"37,621",Apple Application Support (32-bit),Apple Inc.,application,EXCLUDE,apple application support (32-bit)
+"26,294",Siemens SIMATIC S7-PLCSIM V18,Siemens AG,application,EXCLUDE,siemens simatic s7-plcsim v18
+"3,751",Installer eSPT PPh Badan 2009,Direktorat Jenderal Pajak,,EXCLUDE,installer espt pph badan 2009
+"26,699",SIMATIC STEP 7 V5.7 + SP1 + HF3 OEM2,Siemens AG,application,EXCLUDE,simatic step 7 v5.7 + sp1 + hf3 oem2
+"24,926",MicrosoftWindows.57242383.Tasbar,Microsoft Corporation,system,EXCLUDE,microsoftwindows.57242383.tasbar
+"3,154",ETAP 7.5.0,"Operation Technology, Inc.",,EXCLUDE,etap 7.5.0
+91,Bitdefender Security For EndPoint,BitDefender,License,EXCLUDE,bitdefender security for endpoint
+"33,733",Microsoft Save as PDF Add-in for 2007 Microsoft Office programs,Microsoft Corporation,application,EXCLUDE,microsoft save as pdf add-in for 2007 microsoft office programs
+"27,377",Adobe After Effects CC 2018,Adobe Systems Incorporated,application,EXCLUDE,adobe after effects cc 2018
+"21,856",A278AB0D.Asphalt9,Gameloft SE,store,EXCLUDE,a278ab0d.asphalt9
+"33,425",PDF-XChange PRO,Tracker Software Products (Canada) Ltd.,application,EXCLUDE,pdf-xchange pro
+"4,431",Siemens  Totally Integrated Automation Portal V15 - WinCC Transfer Current All Single SetupPackage  V15.0,Siemens AG,,EXCLUDE,siemens totally integrated automation portal v15 - wincc transfer current all single setuppackage v15.0
+"8,872",CorelDRAW Graphics Suite 2021 - IPM Content ES (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - ipm content es (x64)
+"20,418",Festo FluidSim 3.6,"My Company, Inc.",application,EXCLUDE,festo fluidsim 3.6
+"38,763",Movavi Share Online,MOVAVI,application,EXCLUDE,movavi share online
+"36,727",SMADAV versi 10.5.1,SmadSoft,application,EXCLUDE,smadav versi 10.5.1
+"21,269",Wondershare Filmora(Build 7.8.9),Wondershare Software,application,EXCLUDE,wondershare filmora(build 7.8.9)
+"21,981",AudELSvc,Creative Technology Limited,application,EXCLUDE,audelsvc
+"8,681",Lake Baikal,Microsoft Corporation,,EXCLUDE,lake baikal
+"19,631",Windows Live UX Platform Language Pack,Microsoft Corporation,system_component,EXCLUDE,windows live ux platform language pack
+"27,740",SQL Server 2016 Management Studio for Analysis Services Localization,Microsoft Corporation,system_component,EXCLUDE,sql server 2016 management studio for analysis services localization
+"9,688",Python 3.10.6 pip Bootstrap (64-bit),Python Software Foundation,,EXCLUDE,python 3.10.6 pip bootstrap (64-bit)
+"27,993",Microsoft Visual Studio 2013 Shell (Minimum) Resources,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio 2013 shell (minimum) resources
+"33,330",DBeaver 26.0.3,DBeaver Corp,application,EXCLUDE,dbeaver 26.0.3
+"5,312",Adobe Bridge 1.0,Adobe Systems,,EXCLUDE,adobe bridge 1.0
+"26,864",Always on Top,ayamadori,store,EXCLUDE,always on top
+"27,188",iTop Data Recovery,iTop Inc.,application,EXCLUDE,itop data recovery
+"17,999",Microsoft Office Shared 64-bit MUI (English) 2010,Microsoft Corporation,system_component,EXCLUDE,microsoft office shared 64-bit mui (english) 2010
+"22,764",draw.io 24.7.5,JGraph,application,EXCLUDE,draw.io 24.7.5
+"38,500",audiusGmbH.557491C7AA1A,audius GmbH,store,EXCLUDE,audiusgmbh.557491c7aa1a
+"8,350",LIBS_3_13_3_32,Adobe Inc.,,EXCLUDE,libs_3_13_3_32
+"4,339",WinPcap 4.1.2,CACE Technologies,,EXCLUDE,winpcap 4.1.2
+"4,833",Allavsoft 3.14.6.6367,Allavsoft Corporation,,EXCLUDE,allavsoft 3.14.6.6367
+"25,386",Lenovo Voice,LENOVO INC.,store,EXCLUDE,lenovo voice
+"22,802",MicrosoftWindows.LKG.RulesEngine,Microsoft Corporation,system,EXCLUDE,microsoftwindows.lkg.rulesengine
+"17,001",I.R.I.S. OCR,HP,application,EXCLUDE,i.r.i.s. ocr
+"36,331",PDF Reader Pro - PDF Editor & Converter,"PDF Technologies, Inc.",store,EXCLUDE,pdf reader pro - pdf editor & converter
+"4,172",Microsoft Azure Shared Components for Visual Studio 2015 - v1.8,Microsoft Corporation,,EXCLUDE,microsoft azure shared components for visual studio 2015 - v1.8
+"28,632",IOT Link version 2.2.2,Alexandre Leites,application,EXCLUDE,iot link version 2.2.2
+"26,457",UABPlanner5D.Planner5D-HomeInteriorDesign,UAB Planner5D,store,EXCLUDE,uabplanner5d.planner5d-homeinteriordesign
+"38,685",Food Truck Chef: Cooking Game,Tilting Point,store,EXCLUDE,food truck chef: cooking game
+"6,733",UltraViewer version 6.2.97,DucFabulous,,EXCLUDE,ultraviewer version 6.2.97
+"26,666",Microsoft Windows Desktop Runtime - 6.0.14 (x86),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 6.0.14 (x86)
+"29,370",UC232 Series_Win 10_64bit,"Aten International Co., Ltd.",application,EXCLUDE,uc232 series_win 10_64bit
+"18,298",Microsoft RawImageExtension,Microsoft Platform Extensions,store,EXCLUDE,microsoft rawimageextension
+"27,027",Microsoft VSS Writer for SQL Server 2012,Microsoft Corporation,application,EXCLUDE,microsoft vss writer for sql server 2012
+"4,459",TIA Administrator - AWB Licensing Module  V1.0 + SP1,Siemens AG,,EXCLUDE,tia administrator - awb licensing module v1.0 + sp1
+"5,389",JRiver Media Center 24,"JRiver, Inc.",,EXCLUDE,jriver media center 24
+"23,713",Cross Device Experience Host,Microsoft Corporation,store,EXCLUDE,cross device experience host
+"22,039",RCDC 2023,"Bentley Systems, Incorporated",application,EXCLUDE,rcdc 2023
+"26,260",Siemens Totally Integrated Automation Portal V18 - Hardware Support Base Package WCF-01 V18.0 + SP1,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v18 - hardware support base package wcf-01 v18.0 + sp1
+"24,316",STAAD Foundation Advanced 2025 Documentation,"Bentley Systems, Incorporated",system_component,EXCLUDE,staad foundation advanced 2025 documentation
+"25,255",Image Generation Extension,Microsoft Corporation,system,EXCLUDE,image generation extension
+"9,216",One Calendar,Code Spark,,EXCLUDE,one calendar
+"38,589",Microsoft Windows Desktop Runtime 10.0.13 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime 10.0.13 (x64)
+"21,929",MOXA VPort ActiveX SDK PLUS,MOXA Networking,application,EXCLUDE,moxa vport activex sdk plus
+"4,740",Microsoft Visio MUI (English) 2016,Microsoft Corporation,,EXCLUDE,microsoft visio mui (english) 2016
+"5,123",AutoCAD 2018 - English,AUTODESK,,INCLUDE,autocad 2018 - english
+"5,151",A360 Desktop 8.2.3.1800,,,EXCLUDE,a360 desktop 8.2.3.1800
+"38,040",Microsoft Windows Desktop Runtime 10.0.12 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime 10.0.12 (x64)
+"36,384",GlassWire 3.8 (remove only),GlassWire,application,EXCLUDE,glasswire 3.8 (remove only)
+"36,034",Service Pack 2 for SQL Server 2014 (KB3171021),Microsoft Corporation,application,EXCLUDE,service pack 2 for sql server 2014 (kb3171021)
+"8,592",Microsoft_VC80_MFCLOC_x86,Adobe,,EXCLUDE,microsoft_vc80_mfcloc_x86
+"5,376",UltraViewer version 6.2.80,DucFabulous,,EXCLUDE,ultraviewer version 6.2.80
+"25,728",Microsoft Office Shared 32-bit MUI (English) 2016,Microsoft Corporation,system_component,EXCLUDE,microsoft office shared 32-bit mui (english) 2016
+"23,113",Siemens Totally Integrated Automation Portal V13 - TIACOMPCHECK Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v13 - tiacompcheck single setuppackage v13.0
+"24,311",SmartPSSLite 1.003.0000004.4,"Dahua Technology Co.,Ltd",application,EXCLUDE,smartpsslite 1.003.0000004.4
+"17,275",Synaptics Touchpad Settings Manager  Commercial,Synaptics Incorporated,store,EXCLUDE,synaptics touchpad settings manager  commercial
+"25,720",Microsoft Office Proofing Tools 2016 - English,Microsoft Corporation,system_component,EXCLUDE,microsoft office proofing tools 2016 - english
+"21,912",FastReport 4,FastReports,application,EXCLUDE,fastreport 4
+"3,149",ETAP License Manager 7.5.0 for 64-bit Machine,"Operation Technology, Inc.",,EXCLUDE,etap license manager 7.5.0 for 64-bit machine
+"37,217",QGIS 3.28.6 'Firenze',QGIS.org,application,EXCLUDE,qgis 3.28.6 'firenze'
+"7,054",Microsoft Access Runtime 2016,Microsoft Corporation,,EXCLUDE,microsoft access runtime 2016
+"25,729",Microsoft Office OSM MUI (English) 2016,Microsoft Corporation,system_component,EXCLUDE,microsoft office osm mui (english) 2016
+"4,754",WinSCP 5.15.9,Martin Prikryl,,EXCLUDE,winscp 5.15.9
+"26,564",ForteConfig,Conexant Systems,application,EXCLUDE,forteconfig
+"21,680",Python 3.8.10 pip Bootstrap (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.8.10 pip bootstrap (64-bit)
+"9,176",UltraViewer version 6.5.6,DucFabulous,,EXCLUDE,ultraviewer version 6.5.6
+"27,305",ConnectionTag Link for STAAD.Pro V8i (Build 20.16.6.22),"Bentley Systems, Inc.",application,EXCLUDE,connectiontag link for staad.pro v8i (build 20.16.6.22)
+"27,683",OpenSSL Light 3.3.0 (64-bit),Shining Light Productions,application,EXCLUDE,openssl light 3.3.0 (64-bit)
+"27,096",VdhCoApp 1.4.0,DownloadHelper,application,EXCLUDE,vdhcoapp 1.4.0
+"28,284",Endress+Hauser WirelessHART DTM Library V1.03.10,Endress+Hauser Process Solutions AG,application,EXCLUDE,endress+hauser wirelesshart dtm library v1.03.10
+"36,998",TP-Link Wireless Adapter WPS Tool,TP-LINK,application,EXCLUDE,tp-link wireless adapter wps tool
+"32,535",NI System API Web-Service 32-bit 16.0.0,National Instruments,system_component,EXCLUDE,ni system api web-service 32-bit 16.0.0
+"22,257",McAfee®,"McAfee, LLC",application,EXCLUDE,mcafee®
+"28,650",Farm Merge Valley,www.msn.com,none,EXCLUDE,farm merge valley
+"7,279",king.com.CandyCrushFriends,king.com,,EXCLUDE,king.com.candycrushfriends
+"28,959",Microsoft Windows Desktop Runtime - 6.0.25 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 6.0.25 (x64)
+"6,919",Microsoft Visual Studio Tools for Applications 2015 x64 Hosting Support,Microsoft Corporation,,EXCLUDE,microsoft visual studio tools for applications 2015 x64 hosting support
+"22,971",Kamus 2.04,Ebta Setiawan,application,EXCLUDE,kamus 2.04
+"28,671",MultiSpeedUp,MultiSpeedUp Craft,application,EXCLUDE,multispeedup
+"6,316",Autodesk Subassembly Composer 2020,AUTODESK,,EXCLUDE,autodesk subassembly composer 2020
+"4,093",Microsoft SQL Server 2008 R2 Transact-SQL Language Service,Microsoft Corporation,,EXCLUDE,microsoft sql server 2008 r2 transact-sql language service
+"8,568",Mapwel 2013 (32-bit),© BALARAD,,EXCLUDE,mapwel 2013 (32-bit)
+"24,905",Python 3.14.0 Add to Path (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.14.0 add to path (64-bit)
+"4,377",Dell Power Manager Service,Dell Inc.,,EXCLUDE,dell power manager service
+"26,983",Python 3.11.5 Development Libraries (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.11.5 development libraries (64-bit)
+"7,045",HPDiagnosticCoreDll,Hewlett Packard,,EXCLUDE,hpdiagnosticcoredll
+"33,552",WicReset version 5.58.0.0,WWW.WIC.SUPPORT,application,EXCLUDE,wicreset version 5.58.0.0
+"28,571",Educandy Studio,Linguascope,store,EXCLUDE,educandy studio
+"19,356",Microsoft System CLR Types for SQL Server 2019,Microsoft Corporation,application,EXCLUDE,microsoft system clr types for sql server 2019
+"38,747",Movavi Video Suite 18,Movavi Software,application,EXCLUDE,movavi video suite 18
+"28,355",SQL Server 2019 Shared Management Objects Extensions,Microsoft Corporation,system_component,EXCLUDE,sql server 2019 shared management objects extensions
+"4,880",HP Wireless Button Driver,Hewlett-Packard,,EXCLUDE,hp wireless button driver
+"26,283",Smart Active Parts,Omron,system_component,EXCLUDE,smart active parts
+"19,674",Microsoft Windows PeopleExperienceHost,"CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",system,EXCLUDE,microsoft windows peopleexperiencehost
+"4,982",Adobe Creative Cloud,Adobe Systems Incorporated,,EXCLUDE,adobe creative cloud
+"34,611",VMware Tools,"VMware, Inc.",application,EXCLUDE,vmware tools
+"25,193",Autodesk AutoCAD Plant 3D 2025.1.1 Update,"Autodesk, Inc.",application,EXCLUDE,autodesk autocad plant 3d 2025.1.1 update
+"19,579",Hotspot Shield VPN - Wifi Proxy,Pango Inc.,store,EXCLUDE,hotspot shield vpn - wifi proxy
+"37,229",Oh My Posh,Jan Joris De Dobbeleer,developer,EXCLUDE,oh my posh
+"4,831",Aimersoft Helper Compact 2.5.2,Aimersoft,,EXCLUDE,aimersoft helper compact 2.5.2
+"25,964",Sophos Endpoint Self Help,Sophos Limited,system_component,EXCLUDE,sophos endpoint self help
+"8,534",9E2F88E3.Twitter,Twitter Inc.,,EXCLUDE,9e2f88e3.twitter
+"24,428",Streamlabs Desktop 1.19.1,"General Workings, Inc.",application,EXCLUDE,streamlabs desktop 1.19.1
+"8,981",MetaTrader,MetaQuotes Ltd.,,EXCLUDE,metatrader
+"22,787",Microsoft Windows PrintQueueActionCenter,Microsoft Corporation,system,EXCLUDE,microsoft windows printqueueactioncenter
+"28,642",Endress+Hauser DeviceCare SFE100 V1.08.08,Endress+Hauser,application,EXCLUDE,endress+hauser devicecare sfe100 v1.08.08
+"26,297",Siemens Totally Integrated Automation Portal V16,Siemens AG,application,EXCLUDE,siemens totally integrated automation portal v16
+"5,028",GoTo Opener,"LogMeIn, Inc.",,EXCLUDE,goto opener
+"3,038",EaseUS Data Recovery Wizard,EaseUS,,EXCLUDE,easeus data recovery wizard
+"6,420",DPCL Service Utility Rev F.,Datacard Group,,EXCLUDE,dpcl service utility rev f.
+"23,487",Microsoft Clipchamp,Microsoft Corp.,store,EXCLUDE,microsoft clipchamp
+"34,360",Feed Hungry Fish,Game Canvas,store,EXCLUDE,feed hungry fish
+"23,430",SmartPSS 2.02.0,,application,EXCLUDE,smartpss 2.02.0
+"25,138",Att2000 version 6.3,,application,EXCLUDE,att2000 version 6.3
+"33,484",CorelDRAW Graphics Suite 2019 - IPM Content NL (x64),Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite 2019 - ipm content nl (x64)
+"4,455",Siemens Totally Integrated Automation Portal V15.1 - Hardware Support Base Package WCF-01  V15.1,Siemens AG,,EXCLUDE,siemens totally integrated automation portal v15.1 - hardware support base package wcf-01 v15.1
+"19,664",E2A4F912-2574-4A75-9BB0-0D023378592B,"CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",system,EXCLUDE,e2a4f912-2574-4a75-9bb0-0d023378592b
+"20,893",Autodesk App Manager,AUTODESK,application,EXCLUDE,autodesk app manager
+"24,999",Python 3.12.10 Documentation (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.12.10 documentation (64-bit)
+"26,068",ArcGIS 10.2 for Desktop,"Environmental Systems Research Institute, Inc.",application,EXCLUDE,arcgis 10.2 for desktop
+"7,827",foobar2000 v1.6.3,Peter Pawlowski,,EXCLUDE,foobar2000 v1.6.3
+"7,742",SIMATIC S7-GRAPH V5.3 + SP7 Professional 2010 SR2  ,Siemens AG,,EXCLUDE,simatic s7-graph v5.3 + sp7 professional 2010 sr2
+"36,007",Service Pack 1 for SQL Server 2008 (KB968369) (64-bit),Microsoft Corporation,application,EXCLUDE,service pack 1 for sql server 2008 (kb968369) (64-bit)
+"27,723",Microsoft Windows Desktop Runtime - 8.0.22 (x86),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop runtime - 8.0.22 (x86)
+"8,962",Microsoft Office Professional Plus 2019 - en-us,Microsoft Corporation,,INCLUDE,microsoft office professional plus 2019 - en-us
+"23,895",Windows App Runtime DDLM 5001.373.1736.0-x6,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 5001.373.1736.0-x6
+"19,288",Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support - Module linguistique Français,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio tools for applications 2012 x86 hosting support - module linguistique français
+"25,500",Python 3.14.3 Development Libraries (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.14.3 development libraries (64-bit)
+"9,607",Icecream Screen Recorder version 6.25,Icecream Apps,,EXCLUDE,icecream screen recorder version 6.25
+"28,605",CodeMeter Runtime Kit v7.60d,WIBU-SYSTEMS AG,application,EXCLUDE,codemeter runtime kit v7.60d
+"27,411",SPRK_0_6_34,Adobe Systems Incorporated,application,EXCLUDE,sprk_0_6_34
+"23,858",Python 3.13.3 Tcl/Tk Support (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.3 tcl/tk support (64-bit)
+"22,221",C-Media6549AudioControlPanel,C-Media Electronics Inc.,store,EXCLUDE,c-media6549audiocontrolpanel
+"25,340",VBA 7.1,Microsoft Corporation,system_component,EXCLUDE,vba 7.1
+"25,427",Unlocker,ajua Custom Installers,application,EXCLUDE,unlocker
+"22,915",FactoryTalk Services Platform 2.30 (CPR 9 SR 3),"Rockwell Automation, Inc.",application,EXCLUDE,factorytalk services platform 2.30 (cpr 9 sr 3)
+"5,479",Dynamo Core 1.3.3,Dynamo,,EXCLUDE,dynamo core 1.3.3
+"26,010",AutoCAD 2023 Shared,AUTODESK,system_component,EXCLUDE,autocad 2023 shared
+"25,456",SABDA,,application,EXCLUDE,sabda
+"32,247",Cleaner+,Nero AG,store,EXCLUDE,cleaner+
+"17,397",Microsoft redistributable runtime DLLs VS2010 SP1 (x86),SAP,application,EXCLUDE,microsoft redistributable runtime dlls vs2010 sp1 (x86)
+"28,930",K-Lite Mega Codec Pack 19.5.4,KLCP,application,EXCLUDE,k-lite mega codec pack 19.5.4
+"8,412",SIMATIC WinCC Runtime,Siemens AG,,EXCLUDE,simatic wincc runtime
+"29,191",GLPI Agent 1.16,Teclib',application,EXCLUDE,glpi agent 1.16
+"37,683",Dell SupportAssist for PCs,Dell Inc,store,EXCLUDE,dell supportassist for pcs
+"34,713",Microsoft Forms,Microsoft Corporation,store,EXCLUDE,microsoft forms
+"29,204",Wondershare MobileTrans ( Version 4.5.6 ),Wondershare,application,EXCLUDE,wondershare mobiletrans ( version 4.5.6 )
+"4,546",SIMATIC Prosave V15.1,Siemens AG,,EXCLUDE,simatic prosave v15.1
+"33,585",Calligraphy,Microsoft Corporation,store,EXCLUDE,calligraphy
+"4,682",Foxit Phantom,Foxit Software Company,,EXCLUDE,foxit phantom
+"8,572",WeatherChickn,WeatherChickn,,EXCLUDE,weatherchickn
+"25,364",PatchTPBv3.1.11.23 version 3.1.11.23,DJBC,application,EXCLUDE,patchtpbv3.1.11.23 version 3.1.11.23
+"28,343",Microsoft SQL Server 2019 (64-bit),,system_component,EXCLUDE,microsoft sql server 2019 (64-bit)
+"22,229",ACA &#38; MEP 2021 Object Enabler,AUTODESK,system_component,EXCLUDE,aca &#38; mep 2021 object enabler
+"4,025",Microsoft Silverlight 3 SDK,Microsoft Corporation,,EXCLUDE,microsoft silverlight 3 sdk
+"7,652",Water Retreat PREMIUM,Microsoft Corporation,,EXCLUDE,water retreat premium
+"26,938",Delta Force,Team Jade,application,EXCLUDE,delta force
+136,Microsoft Access 5 License,Microsoft,License,EXCLUDE,microsoft access 5 license
+"27,851",PgBouncer 1.25.1,EnterpriseDB,application,EXCLUDE,pgbouncer 1.25.1
+"3,718",Adobe Update Manager CS3,Adobe Systems Incorporated,,EXCLUDE,adobe update manager cs3
+"27,413",UltraISO,"EZB Systems, Inc.",application,EXCLUDE,ultraiso
+"7,566",CCXP_4_1_3_32,Adobe Inc.,,EXCLUDE,ccxp_4_1_3_32
+"27,557",SQLPro Studio,Hankinsoft Development Inc,store,EXCLUDE,sqlpro studio
+"27,737",Microsoft Visual Basic/C++ Runtime (x86),Microsoft Corporation,application,EXCLUDE,microsoft visual basic/c++ runtime (x86)
+"20,265",Online Manager,,application,EXCLUDE,online manager
+"28,375",ABB IED Connectivity Package REF615 Ver. 5.1.2 User Documentation,"ABB Oy, Medium Voltage Products, Distribution Automation",application,EXCLUDE,abb ied connectivity package ref615 ver. 5.1.2 user documentation
+"36,265",Windows App Runtime DDLM 8000.806.2252.0-x6,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 8000.806.2252.0-x6
+"22,037",iTwin Analytical Synchronizer 2023,"Bentley Systems, Incorporated",application,EXCLUDE,itwin analytical synchronizer 2023
+"4,118",vs_filehandler_amd64,Microsoft Corporation,,EXCLUDE,vs_filehandler_amd64
+"36,241",010 Editor 6.0.3 (64-bit),SweetScape Software,application,EXCLUDE,010 editor 6.0.3 (64-bit)
+"32,166",Gardenscapes,Playrix,store,EXCLUDE,gardenscapes
+"6,332",Tekla Structures 2019 SE_Asia Env_10,Trimble Solutions Corporation,,EXCLUDE,tekla structures 2019 se_asia env_10
+"31,888",Microsoft Visual Studio 2012 Preparation,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio 2012 preparation
+"17,968",Universal General MIDI DLS Extension SDK,Microsoft Corporation,system_component,EXCLUDE,universal general midi dls extension sdk
+"3,109",Broadcom InConcert Maestro,Broadcom Corporation,,EXCLUDE,broadcom inconcert maestro
+"27,137",Custom Desktop Kit,Aiphoria Studio LLC,store,EXCLUDE,custom desktop kit
+"31,884",Microsoft Visual Studio 2012 Express Prerequisites x64 - ENU,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio 2012 express prerequisites x64 - enu
+"5,806",HandBrake 1.0.7,,,EXCLUDE,handbrake 1.0.7
+"27,122",Outlook,outlook.com,none,EXCLUDE,outlook
+"26,232",Microsoft Visual Basic for Applications 7.1 (x64) Chinese (Simplified),Microsoft Corporation,system_component,EXCLUDE,microsoft visual basic for applications 7.1 (x64) chinese (simplified)
+"28,162",tools-freebsd,"VMware, Inc.",system_component,EXCLUDE,tools-freebsd
+"3,434",MSXML 4.0 SP2 Parser and SDK,Microsoft Corporation,,EXCLUDE,msxml 4.0 sp2 parser and sdk
+"5,735",Microsoft SQL Server Compact 3.5 SP1 English,Microsoft Corporation,,EXCLUDE,microsoft sql server compact 3.5 sp1 english
+"33,408",D-Link DWA-131 - V5.11b03,D-Link,application,EXCLUDE,d-link dwa-131 - v5.11b03
+"17,420",Microsoft Office PowerPoint MUI (English) 2010,Microsoft Corporation,system_component,EXCLUDE,microsoft office powerpoint mui (english) 2010
+"36,722",Windows ML Runtime AMD NPU Execution Provider 1.8,"CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",developer,EXCLUDE,windows ml runtime amd npu execution provider 1.8
+"3,178",Puffin Secure Browser version 7.8.0.257,"CloudMosa, Inc.",,EXCLUDE,puffin secure browser version 7.8.0.257
+"32,381",WIF Core Dependencies Windows 16.0.0,National Instruments,system_component,EXCLUDE,wif core dependencies windows 16.0.0
+"24,250",Microsoft StartExperiencesApp,"CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",store,EXCLUDE,microsoft startexperiencesapp
+"7,423",SOLIDWORKS Explorer 2019 SP04,Dassault Systèmes SolidWorks Corp,,EXCLUDE,solidworks explorer 2019 sp04
+"27,265",Python 3.9.13 Utility Scripts (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.9.13 utility scripts (64-bit)
+"8,202",Delivery note (C:\Program Files (x86)\ICS\) #3,,,EXCLUDE,delivery note (c:\program files (x86)\ics\) #3
+"9,557",Python 3.10.4 Core Interpreter (64-bit),Python Software Foundation,,EXCLUDE,python 3.10.4 core interpreter (64-bit)
+"5,199",HP Smart Web Printing 4.60,HP,,EXCLUDE,hp smart web printing 4.60
+"28,761",IOBit Driver Booster v13.2.0.184,IOBit (RePack by Dodakaedr),application,EXCLUDE,iobit driver booster v13.2.0.184
+"6,934",Microsoft SQL Server Management Studio - 17.0,Microsoft Corporation,,EXCLUDE,microsoft sql server management studio - 17.0
+"32,979",Draw Diagram,OfficeSuiteLab,store,EXCLUDE,draw diagram
+"23,968",vMix Video Codec version 3.1,StudioCoast Pty Ltd,application,EXCLUDE,vmix video codec version 3.1
+"27,401",Adobe Animate CC 2017,Adobe Systems Incorporated,application,EXCLUDE,adobe animate cc 2017
+"33,645",XYLink version 3.11.25.33571,XYLink Inc,application,EXCLUDE,xylink version 3.11.25.33571
+"19,338",Microsoft Azure PowerShell - April 2018,Microsoft Corporation,application,EXCLUDE,microsoft azure powershell - april 2018
+"3,888",Catalyst Control Center Next Localization BR,"Advanced Micro Devices, Inc.",,EXCLUDE,catalyst control center next localization br
+"6,749",AMD WVR64,"Advanced Micro Devices, Inc.",,EXCLUDE,amd wvr64
+"26,715",Obby Racing,JoJo Ent Studio,store,EXCLUDE,obby racing
+"8,893",CorelDRAW Graphics Suite 2021 -TR (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 -tr (x64)
+"25,955",UltraViewer version 6.6.95,DucFabulous,application,EXCLUDE,ultraviewer version 6.6.95
+"37,578",Disney+,Disney,store,EXCLUDE,disney+
+"8,450",SIMATIC WinCC/ConnectivityPack Server V7.3 + Upd1  ,Siemens AG,,EXCLUDE,simatic wincc/connectivitypack server v7.3 + upd1
+"25,177",Python 3.11.7 Tcl/Tk Support (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.11.7 tcl/tk support (64-bit)
+"27,814",libpcre2_8,,libraries,EXCLUDE,libpcre2_8
+"4,139",TypeScript Tools for Microsoft Visual Studio 2015,Microsoft Corporation,,EXCLUDE,typescript tools for microsoft visual studio 2015
+"24,257",SQL Server 2022 SQL Diagnostics,Microsoft Corporation,system_component,EXCLUDE,sql server 2022 sql diagnostics
+"8,897",CorelDRAW Graphics Suite 2021 - IPM Content NL (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - ipm content nl (x64)
+"37,001",MicroSherld VPN,Life App Technology Limited,store,EXCLUDE,microsherld vpn
+"6,741",Advanced SystemCare Ultimate 10,IObit,,EXCLUDE,advanced systemcare ultimate 10
+"4,205",Media Player Codec Pack 4.5.5,Media Player Codec Pack,,EXCLUDE,media player codec pack 4.5.5
+"18,163",Integration Services,Microsoft Corporation,system_component,EXCLUDE,integration services
+"26,592",Radmin Viewer 3.5.2,Famatech,application,EXCLUDE,radmin viewer 3.5.2
+"24,699",Find A Supermarket,GUI Innovations,store,EXCLUDE,find a supermarket
+"3,078",Power BI Mobile,Microsoft Corporation,,EXCLUDE,power bi mobile
+"7,568",KASU_2_0_32,Adobe Inc.,,EXCLUDE,kasu_2_0_32
+"33,467",Microsoft Project Professional 2019 - en-us,Microsoft Corporation,application,EXCLUDE,microsoft project professional 2019 - en-us
+"38,018",mingw-w64-x86_64-xxhash,,,EXCLUDE,mingw-w64-x86_64-xxhash
+"34,428",PDF Shaper Free 13.7,Burnaware,application,EXCLUDE,pdf shaper free 13.7
+"9,646",Python 3.10.5 Documentation (64-bit),Python Software Foundation,,EXCLUDE,python 3.10.5 documentation (64-bit)
+"6,048",CorelDRAW Graphics Suite 2018 - Filters (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2018 - filters (x64)
+"5,700",LINE,LINE Corporation,,EXCLUDE,line
+"32,384",NI Portable Configuration 16.0.0,National Instruments,system_component,EXCLUDE,ni portable configuration 16.0.0
+"27,201",Python 3.13.7 Executables (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.13.7 executables (64-bit)
+"4,680",Screen Capture 1.1.0.3000030,"ShenZhen Enode Techology co,.Ltd",,EXCLUDE,screen capture 1.1.0.3000030
+"6,851",SSH Secure Shell,,,EXCLUDE,ssh secure shell
+"21,640",CPUID CPU-Z 2.06,"CPUID, Inc.",application,EXCLUDE,cpuid cpu-z 2.06
+"28,569","InterBase 6.59""B&#60;9Bpv:à9¨v:.,ÞF( 9À",,application,EXCLUDE,"interbase 6.59""b&#60;9bpv:à9¨v:.,þf( 9à"
+"25,448",USB CDC EEM Driver,HID Global,application,EXCLUDE,usb cdc eem driver
+"4,203",Diablo III,Blizzard Entertainment,,EXCLUDE,diablo iii
+"8,423",Microsoft Visual Basic for Applications 7.1 (x86) Chinese (Traditional),Microsoft Corporation,,EXCLUDE,microsoft visual basic for applications 7.1 (x86) chinese (traditional)
+"22,861",HP Smart Tank 610 series Help,HP,application,EXCLUDE,hp smart tank 610 series help
+"36,145",ChatGPT,OpenAI,store,EXCLUDE,chatgpt
+"28,037",Blend for Visual Studio 2013,Microsoft Corporation,system_component,EXCLUDE,blend for visual studio 2013
+"5,129",Autodesk BIM 360 Glue AutoCAD 2018 Add-in 64 bit,AUTODESK,,EXCLUDE,autodesk bim 360 glue autocad 2018 add-in 64 bit
+"37,971",Mountain's Majesty,Microsoft Corporation,store,EXCLUDE,mountain's majesty
+"19,703",Microsoft VCLibs 140.00,Microsoft Corporation,store,EXCLUDE,microsoft vclibs 140.00
+"8,904",CorelDRAW Graphics Suite 2021 - Capture (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - capture (x64)
+"27,985",Microsoft LightSwitch for Visual Studio 2013 CoreRes - ENU,Microsoft Corporation,system_component,EXCLUDE,microsoft lightswitch for visual studio 2013 coreres - enu
+"28,446",Universal FTP Server,?? (taoyouh),store,EXCLUDE,universal ftp server
+"33,387",FastStone Photo Resizer 4.5,FastStone Corporation,application,EXCLUDE,faststone photo resizer 4.5
+"23,119",Siemens Totally Integrated Automation Portal V13 - TIA Tour Single SetupPackage V13.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v13 - tia tour single setuppackage v13.0
+"27,157",Microsoft Windows Desktop Runtime - 8.0.0 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 8.0.0 (x64)
+"32,350",NI Variable Engine (64-bit),National Instruments,system_component,EXCLUDE,ni variable engine (64-bit)
+"33,609",SQL Server 2012 Data quality client,Microsoft Corporation,system_component,EXCLUDE,sql server 2012 data quality client
+"32,920",Nero Express Help (CHM),Nero AG,system_component,EXCLUDE,nero express help (chm)
+"6,634",Autodesk Civil 3D 2019,AUTODESK,,EXCLUDE,autodesk civil 3d 2019
+"35,879",Thunderbolt(TM) Software,Intel Corporation,application,EXCLUDE,thunderbolt(tm) software
+"5,386",HP AC Power Control,Hewlett-Packard,,EXCLUDE,hp ac power control
+"27,789",libassuan,,libraries,EXCLUDE,libassuan
+"26,845",APP Shop v2.0.0.4,ASRock Inc.,application,EXCLUDE,app shop v2.0.0.4
+"6,698",Shapes of Leaves,Microsoft Corporation,,EXCLUDE,shapes of leaves
+"23,707",BarrierGet,Default Company Name,application,EXCLUDE,barrierget
+"3,894",Catalyst Control Center Next Localization CHT,"Advanced Micro Devices, Inc.",,EXCLUDE,catalyst control center next localization cht
+"9,594",Go Programming Language amd64 go1.18.3,https://golang.org,,EXCLUDE,go programming language amd64 go1.18.3
+"28,718",FootMeter,Your Company Name,application,EXCLUDE,footmeter
+"21,161",Sticky Password 8.6.4.1448,Lamantine Software,application,EXCLUDE,sticky password 8.6.4.1448
+"7,757",Filter Forge 9.007,"Filter Forge, Inc.",,EXCLUDE,filter forge 9.007
+"19,689",SAP Analysis for Microsoft Office,SAP SE,application,EXCLUDE,sap analysis for microsoft office
+"23,458",Microsoft WindowsReadingList,Microsoft Platform Extensions,store,EXCLUDE,microsoft windowsreadinglist
+"36,634",MAXtoA for 3ds Max 2024,AUTODESK,application,EXCLUDE,maxtoa for 3ds max 2024
+"22,593",WinSCP 6.1.2,Martin Prikryl,application,EXCLUDE,winscp 6.1.2
+"28,236",Endress+Hauser CDI Communication DTM V2.09.08,Endress+Hauser,application,EXCLUDE,endress+hauser cdi communication dtm v2.09.08
+"17,904",Windows IoT Extension SDK,Microsoft Corporation,system_component,EXCLUDE,windows iot extension sdk
+"4,111",vs_clickoncebootstrappermsires,Microsoft Corporation,,EXCLUDE,vs_clickoncebootstrappermsires
+"19,718",WinSCP 5.17.3,Martin Prikryl,application,EXCLUDE,winscp 5.17.3
+"33,411",PDFgear 2.1.12,PDFgear,application,EXCLUDE,pdfgear 2.1.12
+"15,995",Minecraft Education,Microsoft Corporation,store,EXCLUDE,minecraft education
+"32,674",VirtViewer 11.0-256 (32-bit),Virt Viewer Project,application,EXCLUDE,virtviewer 11.0-256 (32-bit)
+"25,327",Windows App Runtime DDLM 5001.275.500.0-x8,Microsoft Platform Extensions,developer,EXCLUDE,windows app runtime ddlm 5001.275.500.0-x8
+"26,622",Rufus,Akeo Consulting,store,EXCLUDE,rufus
+"28,698",BLASTPLAN,Blast Management International,application,EXCLUDE,blastplan
+"19,480",vs_minshellsharedmsi,Microsoft Corporation,system_component,EXCLUDE,vs_minshellsharedmsi
+"19,358",Python 3.6.6 Executables (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.6.6 executables (64-bit)
+"24,645",E0469640.SmartAppearance,LENOVO INC,store,EXCLUDE,e0469640.smartappearance
+"21,117",Siemens Totally Integrated Automation Portal V17 - SIMATIC S7-PLCSIM V17.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v17 - simatic s7-plcsim v17.0
+"34,482",UltraViewer version 6.6.75,DucFabulous,application,EXCLUDE,ultraviewer version 6.6.75
+"18,823",RTI Analytics,PT. RTI Infokom,store,EXCLUDE,rti analytics
+"19,017",ESU for Microsoft Windows 7 SP1,Hewlett-Packard,application,EXCLUDE,esu for microsoft windows 7 sp1
+"37,336",Wise Disk Cleaner,"Lespeed Technology Co., Ltd.",application,EXCLUDE,wise disk cleaner
+"20,745",TIA Portal Project Server V17,Siemens AG,application,EXCLUDE,tia portal project server v17
+"7,877",CCXP_4_2_6_32,Adobe Inc.,,EXCLUDE,ccxp_4_2_6_32
+"6,647",Autodesk Storm and Sanitary Analysis 2019,AUTODESK,,EXCLUDE,autodesk storm and sanitary analysis 2019
+"24,028",AutoCAD Plant 3D 2026 - English,AUTODESK,system_component,INCLUDE,autocad plant 3d 2026 - english
+"32,506",NI SSL LabVIEW RTE 2015 Support,National Instruments,system_component,EXCLUDE,ni ssl labview rte 2015 support
+"36,966",LDPlayer 9,JUST OKAY LIMITED,application,EXCLUDE,ldplayer 9
+"28,994",Classic Sticky Notes,Winaero,application,EXCLUDE,classic sticky notes
+"5,202",Shop for HP Supplies,HP,,EXCLUDE,shop for hp supplies
+"28,619",DTM library 3.01.00,Endress+Hauser Process Solutions AG,system_component,EXCLUDE,dtm library 3.01.00
+"25,457",Silicon Laboratories CP210x USB to UART Bridge (Driver Removal),Silicon Laboratories,application,EXCLUDE,silicon laboratories cp210x usb to uart bridge (driver removal)
+"24,752",LIBS_3_20_7_32,Adobe Inc.,application,EXCLUDE,libs_3_20_7_32
+"17,892",Visual Studio Build Tools 2017,Microsoft Corporation,application,EXCLUDE,visual studio build tools 2017
+"5,040",AVG,AVG Technologies,,EXCLUDE,avg
+"28,131",Windows App Runtime DDLM 7000.522.1444.0-x6,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 7000.522.1444.0-x6
+"21,097",Microsoft VSS Writer for SQL Server 2017,Microsoft Corporation,application,EXCLUDE,microsoft vss writer for sql server 2017
+"27,596",Siemens Automation License Manager V6.0,Siemens AG,application,EXCLUDE,siemens automation license manager v6.0
+"8,890",CorelDRAW Graphics Suite 2021,Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021
+"20,307",WinHTTrack Website Copier 3.49-2 (x64),HTTrack,application,EXCLUDE,winhttrack website copier 3.49-2 (x64)
+"6,111",CorelDRAW Graphics Suite 2020 - IPM Content DE (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2020 - ipm content de (x64)
+"20,870",Autodesk Navisworks Freedom 2022 - Language Pack Deutsch (German),AUTODESK,system_component,EXCLUDE,autodesk navisworks freedom 2022 - language pack deutsch (german)
+"24,567",Microsoft.Android.Runtime.35.android-x86 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft.android.runtime.35.android-x86 (x64)
+"7,767",XSplit VCam,SplitmediaLabs,,EXCLUDE,xsplit vcam
+"18,977",Adobe Flash Player 11 ActiveX,Adobe Systems Incorporated,application,EXCLUDE,adobe flash player 11 activex
+"6,941",SQL Server vNext CTP2.0 Management Studio Extensions,Microsoft Corporation,,EXCLUDE,sql server vnext ctp2.0 management studio extensions
+"24,352",Logi RightSightForWebcams 1.1.179,Logitech,system_component,EXCLUDE,logi rightsightforwebcams 1.1.179
+"8,499",UDK Package,Microsoft Windows,,EXCLUDE,udk package
+"19,457",Microsoft Visual Studio 2017 Tools for Unity,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio 2017 tools for unity
+"22,731",Microsoft Windows Desktop Runtime - 6.0.28 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime - 6.0.28 (x64)
+"24,513",Microsoft.Maui.Controls.Compatibility (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft.maui.controls.compatibility (x64)
+"33,532",Siemens Totally Integrated Automation Portal V16 - SINAMICS-STARTDRIVE-COMMON-OPENNESS V16.0 + Upd5,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v16 - sinamics-startdrive-common-openness v16.0 + upd5
+"24,612",Cocos Dashboard,"Xiamen Yaji Software Co., Ltd.",system_component,EXCLUDE,cocos dashboard
+"3,803",Microsoft.UI.Xaml.2.1,Microsoft Platform Extensions,,EXCLUDE,microsoft.ui.xaml.2.1
+"26,481",Autodesk AutoCAD Civil 3D 2018,AUTODESK,system_component,INCLUDE,autodesk autocad civil 3d 2018
+"27,008",S3 Browser version 12.0.1,Netsdk Software FZE,application,EXCLUDE,s3 browser version 12.0.1
+"37,856",CCXP_7_13_0_32,Adobe Inc.,application,EXCLUDE,ccxp_7_13_0_32
+"7,946",FileBoss 3.1,The Utility Factory,,EXCLUDE,fileboss 3.1
+"8,911",CorelDRAW Graphics Suite 2021 - IPM Content EN (x64),Corel Corporation,,EXCLUDE,coreldraw graphics suite 2021 - ipm content en (x64)
+"29,898",DIACom,"Delta Electronics, Inc.",application,EXCLUDE,diacom
+"34,690",7-Zip 26.01 (x64),Igor Pavlov,application,EXCLUDE,7-zip 26.01 (x64)
+"26,665",STARTER V5.6.0.1,Siemens AG,application,EXCLUDE,starter v5.6.0.1
+"5,233",Adobe AIR,Adobe,,EXCLUDE,adobe air
+"25,894",Conexant ISST Audio,Conexant,application,EXCLUDE,conexant isst audio
+"25,821",Dell.Digital.Delivery-64Bit,"Dell Technologies, Inc.",system_component,EXCLUDE,dell.digital.delivery-64bit
+"18,910",Autodesk Navisworks Freedom 2023 - Language Pack Italiano (Italian),AUTODESK,system_component,EXCLUDE,autodesk navisworks freedom 2023 - language pack italiano (italian)
+"6,606",Microsoft ODBC Driver 17 for SQL Server,Microsoft Corporation,,EXCLUDE,microsoft odbc driver 17 for sql server
+"37,883",FreeCAD 1.0.2,FreeCAD Team,application,EXCLUDE,freecad 1.0.2
+"6,350",Autodesk Material Library Low Resolution Image Library 2017,AUTODESK,,EXCLUDE,autodesk material library low resolution image library 2017
+"3,730",Office 15 Click-to-Run Extensibility Component,Microsoft Corporation,,EXCLUDE,office 15 click-to-run extensibility component
+"9,125",Adobe Premiere Pro CC 2019,Adobe Inc.,,EXCLUDE,adobe premiere pro cc 2019
+"24,781",Microsoft Windows Desktop Targeting Pack - 7.0.20 (x64),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop targeting pack - 7.0.20 (x64)
+"32,746",Microsoft Windows Desktop Runtime 10.0.4 (x64),Microsoft Corporation,application,EXCLUDE,microsoft windows desktop runtime 10.0.4 (x64)
+"28,153",Vacation Adventures: Park Ranger 11 Collector's Edition,WildTangent,system_component,EXCLUDE,vacation adventures: park ranger 11 collector's edition
+"28,512",Python 3.12.1 Documentation (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.12.1 documentation (64-bit)
+"20,364",7-Zip 22.01 (x64),Igor Pavlov,application,EXCLUDE,7-zip 22.01 (x64)
+"8,815",UltraViewer version 6.4.5,DucFabulous,,EXCLUDE,ultraviewer version 6.4.5
+"20,135",Python 3.10.1 Standard Library (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.10.1 standard library (64-bit)
+"28,504",Windows App Runtime DDLM 2000.802.31.0-x6,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 2000.802.31.0-x6
+"23,649",Global Mapper 26.0 64-bit,Blue Marble Geographics,application,EXCLUDE,global mapper 26.0 64-bit
+"34,532",SAP Interactive Excel,SAP SE,application,EXCLUDE,sap interactive excel
+"34,604",CC Switch,ccswitch,application,EXCLUDE,cc switch
+"7,781",Windows Default Lock Screen,Assigned by your organization,,EXCLUDE,windows default lock screen
+"33,513",7-PDF Split &#38; Merge Version 7.2.0 (Build 168),"7-PDF, Germany - Thorsten Niebergall-Hodes",application,EXCLUDE,7-pdf split &#38; merge version 7.2.0 (build 168)
+"21,321",CorelDRAW Graphics Suite X7 - Setup Files,Corel Corporation,system_component,EXCLUDE,coreldraw graphics suite x7 - setup files
+"33,578",Netflix,Microsoft Corporation,system,EXCLUDE,netflix
+"36,280",Power Media Player for Dell,CYBERLINK CORPORATION.,store,EXCLUDE,power media player for dell
+"7,169",Power Manager,Lenovo Group Limited,,EXCLUDE,power manager
+"5,760",GIMP 2.10.14,The GIMP Team,,EXCLUDE,gimp 2.10.14
+"33,092",AutoCAD 2013 Language Pack - English,AUTODESK,system_component,EXCLUDE,autocad 2013 language pack - english
+"28,095",Active@ File Recovery Professional 11,LSoft Technologies Inc,application,EXCLUDE,active@ file recovery professional 11
+"7,005",Scan,Hewlett-Packard,,EXCLUDE,scan
+"3,618",Symantec Endpoint Protection,Symantec Corporation,,EXCLUDE,symantec endpoint protection
+"36,999",TP-Link TL-WN722N Driver,TP-LINK,application,EXCLUDE,tp-link tl-wn722n driver
+"20,934",CodeMeter Runtime Kit v6.60a,WIBU-SYSTEMS AG,application,EXCLUDE,codemeter runtime kit v6.60a
+"8,986",F5 Access,F5 Networks,,EXCLUDE,f5 access
+"19,418",vs_minshellinteropx64msi,Microsoft Corporation,system_component,EXCLUDE,vs_minshellinteropx64msi
+"25,045",NINJA GAIDEN 4 Official Theme,Microsoft Studios,store,EXCLUDE,ninja gaiden 4 official theme
+"26,628",Kutools for Excel 20.00,ExtendOffice.com,application,EXCLUDE,kutools for excel 20.00
+"9,404",COSY_5_4_0_32,Adobe Inc.,,EXCLUDE,cosy_5_4_0_32
+"37,365",Mouse Manager,RealityRipple Software,application,EXCLUDE,mouse manager
+"20,415",CSR Harmony Wireless Software Stack,Cambridge Silicon Radio Limited.,application,EXCLUDE,csr harmony wireless software stack
+"18,669",Zoom Rooms,"Zoom Video Communications, Inc.",store,EXCLUDE,zoom rooms
+"30,032",maskerAid2_v10,Unknown,application,EXCLUDE,maskeraid2_v10
+"23,427",MOVEBOT 2020,IngAC,application,EXCLUDE,movebot 2020
+"28,132",Windows App Runtime DDLM 7000.522.1444.0-x8,Microsoft Corporation,developer,EXCLUDE,windows app runtime ddlm 7000.522.1444.0-x8
+"4,463",Siemens Totally Integrated Automation Portal V15.1 - SINAMICS-STARTDRIVE-COMMON-SAT  V15.1,Siemens AG,,EXCLUDE,siemens totally integrated automation portal v15.1 - sinamics-startdrive-common-sat v15.1
+"4,521",SIMATIC SCS,Siemens AG,,EXCLUDE,simatic scs
+"6,244",Win Movie Maker 2019,VideoWin,,EXCLUDE,win movie maker 2019
+"19,294",Microsoft Visual Studio Tools for Applications 2012 x86 Hosting Support - Paquete de idioma ESN,Microsoft Corporation,system_component,EXCLUDE,microsoft visual studio tools for applications 2012 x86 hosting support - paquete de idioma esn
+"34,217",Herd,Beyond Code,application,EXCLUDE,herd
+"29,077",Adobe Bridge 2025,Adobe Inc.,application,EXCLUDE,adobe bridge 2025
+"17,551",HP Update,Hewlett-Packard,application,EXCLUDE,hp update
+"32,490",Python 3.6.8 Executables (32-bit),Python Software Foundation,system_component,EXCLUDE,python 3.6.8 executables (32-bit)
+"26,240",LOGO! Soft Comfort v7,Siemens,application,EXCLUDE,logo! soft comfort v7
+"22,303",HWiNFO64 Version 7.62,"Martin Malik, REALiX s.r.o.",application,EXCLUDE,hwinfo64 version 7.62
+"25,846",Pro Evolution Soccer 2017,,application,EXCLUDE,pro evolution soccer 2017
+"6,891",PuTTY release 0.72 (64-bit),Simon Tatham,,EXCLUDE,putty release 0.72 (64-bit)
+"25,946",Explore Drafting,Clever Brands,store,EXCLUDE,explore drafting
+"21,883",Haali Media Splitter,,application,EXCLUDE,haali media splitter
+"20,356",iVideoMate Video Downloader(Build 2.0.8.1),iVideoMate Software,application,EXCLUDE,ivideomate video downloader(build 2.0.8.1)
+"24,846",Speech Pack - Chinese (Simplified),Microsoft Corporation,store,EXCLUDE,speech pack - chinese (simplified)
+"18,793",ELAN Touchpad 15.2.15.1_X64_WHQL,ELAN Microelectronic Corp.,application,EXCLUDE,elan touchpad 15.2.15.1_x64_whql
+"26,551",VMware Remote Console,"VMware, Inc.",application,EXCLUDE,vmware remote console
+"4,509",Siemens Totally Integrated Automation Portal V15.1 - WinCC Single SetupPackage 32 Bit  V15.1,Siemens AG,,EXCLUDE,siemens totally integrated automation portal v15.1 - wincc single setuppackage 32 bit v15.1
+"26,964",Alienware Command Center Package Manager,Dell Inc.,application,EXCLUDE,alienware command center package manager
+"9,685",Python 3.10.6 Test Suite (64-bit),Python Software Foundation,,EXCLUDE,python 3.10.6 test suite (64-bit)
+"24,605",Microsoft Windows Desktop Runtime - 8.0.20 (x86),Microsoft Corporation,system_component,EXCLUDE,microsoft windows desktop runtime - 8.0.20 (x86)
+"34,847",SketchUp 8,Trimble Navigation Limited,application,INCLUDE,sketchup 8
+"7,100",Recuva,Piriform,,EXCLUDE,recuva
+"20,973",AppleInc.iCloud,Apple Inc.,store,EXCLUDE,appleinc.icloud
+"6,596",SFPreset,,,EXCLUDE,sfpreset
+"3,398",Microsoft System CLR Types for SQL Server 2012 (x64),Microsoft Corporation,,EXCLUDE,microsoft system clr types for sql server 2012 (x64)
+"29,324",Ping Legacy,Avnish Kumar,store,EXCLUDE,ping legacy
+"23,657",NiceLabel Suite,Euro Plus d.o.o.,application,EXCLUDE,nicelabel suite
+"5,796",Citrix Receiver(SSON),"Citrix Systems, Inc.",,EXCLUDE,citrix receiver(sson)
+"21,915",IPM_VS_Pro,Corel Corporation,system_component,EXCLUDE,ipm_vs_pro
+"26,327",SmartView Classic 4.4,Fluke,application,EXCLUDE,smartview classic 4.4
+"26,265",Siemens Totally Integrated Automation Portal V18 - Hardware Support Base Package 03 V18.0 + SP1,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v18 - hardware support base package 03 v18.0 + sp1
+"27,154",ATube - YT App,3AMS,store,EXCLUDE,atube - yt app
+"32,482",NI Measurement &#38; Automation Explorer 16.0.0,National Instruments,system_component,EXCLUDE,ni measurement &#38; automation explorer 16.0.0
+"28,909",Heaven Benchmark version 4.0,Unigine Corp.,application,EXCLUDE,heaven benchmark version 4.0
+"5,891",CX-Compolet,Omron,,EXCLUDE,cx-compolet
+"4,125",vs_clickoncebootstrappermsi,Microsoft Corporation,,EXCLUDE,vs_clickoncebootstrappermsi
+"3,707",Adobe CMaps,Adobe Systems Incorporated,,EXCLUDE,adobe cmaps
+"29,688",HLAN_24_0_0,Adobe Inc.,application,EXCLUDE,hlan_24_0_0
+"26,704",Microsoft Access 2013 - id-id,Microsoft Corporation,application,EXCLUDE,microsoft access 2013 - id-id
+"20,753",WinCC Runtime Advanced V17.0 - HMIRTM Tagging Package 01 Single SetupPackage V17.0,Siemens AG,system_component,EXCLUDE,wincc runtime advanced v17.0 - hmirtm tagging package 01 single setuppackage v17.0
+"36,368",VLC,VideoLAN,store,EXCLUDE,vlc
+"27,567",Flatter,Unknown,application,EXCLUDE,flatter
+"8,643",Python 3.9.6 Documentation (64-bit),Python Software Foundation,,EXCLUDE,python 3.9.6 documentation (64-bit)
+"4,916",Global Mapper 13 (64-bit),Blue Marble Geographics,,EXCLUDE,global mapper 13 (64-bit)
+"23,578",Agisoft Metashape Standard,Agisoft,application,EXCLUDE,agisoft metashape standard
+"5,936",Dynamo Core 1.2.2,Dynamo,,EXCLUDE,dynamo core 1.2.2
+"37,312",Microsoft Windows 11 Enterprise,,,INCLUDE,microsoft windows 11 enterprise
+"25,246",1E Client ARM64,1E,system_component,EXCLUDE,1e client arm64
+"8,240",Fingerprint Reader Driver 5.0.0.22,ZKTeco Inc.,,EXCLUDE,fingerprint reader driver 5.0.0.22
+"19,685",WindowsSensor.MaverickGyr,LION,application,EXCLUDE,windowssensor.maverickgyr
+"4,467",Siemens  Totally Integrated Automation Portal V15 - Hardware Support Base Package 02  V15.0,Siemens AG,,EXCLUDE,siemens totally integrated automation portal v15 - hardware support base package 02 v15.0
+"4,548",WinCC Runtime Professional V15 - SCADA Simulation Single SetupPackage  V15.1,Siemens AG,,EXCLUDE,wincc runtime professional v15 - scada simulation single setuppackage v15.1
+"5,603",Able2Extract Professional 15.0,Investintech.com Inc.,,EXCLUDE,able2extract professional 15.0
+"32,912",EasyCapture 1.2.0.0,,application,EXCLUDE,easycapture 1.2.0.0
+"6,328",AutoCAD 2017 VBA Enabler,AUTODESK,,EXCLUDE,autocad 2017 vba enabler
+"22,911",Rockwell Automation Driver Package x64,Rockwell Automation,application,EXCLUDE,rockwell automation driver package x64
+"6,320",Autodesk Storm and Sanitary Analysis 2020,AUTODESK,,EXCLUDE,autodesk storm and sanitary analysis 2020
+"16,964",Adobe Photoshop CS6,Adobe Systems Incorporated,application,INCLUDE,adobe photoshop cs6
+"6,697",Spring Blooms 2 by Rebecca Heigel,Microsoft Corporation,,EXCLUDE,spring blooms 2 by rebecca heigel
+"3,472",MinIPAQ Soft v. 1.24,,,EXCLUDE,minipaq soft v. 1.24
+"7,057",Microsoft Office Shared 32-bit MUI (Indonesian) 2016,Microsoft Corporation,,EXCLUDE,microsoft office shared 32-bit mui (indonesian) 2016
+"33,118",Disk Analyzer Pro,Systweak Software,application,EXCLUDE,disk analyzer pro
+"22,863",InstallWIX_{FEA95EF1-A4FE-3E02-B1C8-B79136C3A44A},,application,EXCLUDE,installwix_{fea95ef1-a4fe-3e02-b1c8-b79136c3a44a}
+"18,533",PremiumSoft Navicat Premium 11.2,PremiumSoft CyberTech Ltd.,application,EXCLUDE,premiumsoft navicat premium 11.2
+"18,387",UltraViewer version 6.6.19,DucFabulous,application,EXCLUDE,ultraviewer version 6.6.19
+"32,393",NI EulaDepot,National Instruments,system_component,EXCLUDE,ni euladepot
+"8,562",ArcGIS Desktop 10,"Environmental Systems Research Institute, Inc.",,EXCLUDE,arcgis desktop 10
+"26,554",Tasks list with time tracking,DenDevel,store,EXCLUDE,tasks list with time tracking
+"38,793",Xerox Print and Scan Experience,Xerox Corp,store,EXCLUDE,xerox print and scan experience
+"25,257",Speech Translation Pack - English (United States) - ARM64,Microsoft Corporation,store,EXCLUDE,speech translation pack - english (united states) - arm64
+"32,434",NI SSL Support,National Instruments,system_component,EXCLUDE,ni ssl support
+"8,181",MySQL For Excel 1.3.8,Oracle,,EXCLUDE,mysql for excel 1.3.8
+"17,201",Dolby Audio,Dolby Laboratories,store,EXCLUDE,dolby audio
+"28,394",ABB IED Connectivity Package RET615C Ver. 5.1.2 User Documentation,ABB Asea Brown Boveri Ltd,application,EXCLUDE,abb ied connectivity package ret615c ver. 5.1.2 user documentation
+"8,490",Call,Microsoft Windows,,EXCLUDE,call
+"6,592",RTI Finance,PT. RTI Infokom,,EXCLUDE,rti finance
+"17,763",Visual Studio 2012 x86 Redistributables,"AVG Technologies CZ, s.r.o.",application,EXCLUDE,visual studio 2012 x86 redistributables
+"22,012",Microsoft Sync Framework 2.0 Core Components (x86) ENU,Microsoft Corporation,application,EXCLUDE,microsoft sync framework 2.0 core components (x86) enu
+"24,786",Python 3.12.4 Development Libraries (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.12.4 development libraries (64-bit)
+"9,502",K-Lite Codec Pack 16.9.8 Basic,KLCP,,EXCLUDE,k-lite codec pack 16.9.8 basic
+"25,191",pgAdmin 4 version 9.10,The pgAdmin Development Team,application,EXCLUDE,pgadmin 4 version 9.10
+"24,971",ZWCAD 2026,ZWSOFT,system_component,EXCLUDE,zwcad 2026
+"26,419",ArcGIS Pro Coordinate Systems Data,"Environmental Systems Research Institute, Inc.",system_component,EXCLUDE,arcgis pro coordinate systems data
+"4,953",UltraViewer version 5.0.0.28,DucFabulous,,EXCLUDE,ultraviewer version 5.0.0.28
+250,Trend Micro Licensi,Trend Micro,License,EXCLUDE,trend micro licensi
+"24,909",Python 3.14.0 Test Suite (64-bit),Python Software Foundation,system_component,EXCLUDE,python 3.14.0 test suite (64-bit)
+"36,149",Heimdal RD Agent 5.0.2551.79,Heimdal Security,application,EXCLUDE,heimdal rd agent 5.0.2551.79
+"3,936",Microsoft Sync Framework Services v1.0 SP1 (x64),Microsoft Corporation,,EXCLUDE,microsoft sync framework services v1.0 sp1 (x64)
+"18,530",Telegram WebZ,web.telegram.org,none,EXCLUDE,telegram webz
+"24,837",UltraViewer version 6.6.63,DucFabulous,application,EXCLUDE,ultraviewer version 6.6.63
+"25,724",Microsoft Office Shared MUI (English) 2016,Microsoft Corporation,system_component,EXCLUDE,microsoft office shared mui (english) 2016
+"3,442",DWGSee Pro 2017,AutoDWG,,EXCLUDE,dwgsee pro 2017
+"29,238",RepView 1.62,Zyl Soft,application,EXCLUDE,repview 1.62
+"3,525",Adobe Creative Suite 6 Master Collection,Adobe Systems Incorporated,,EXCLUDE,adobe creative suite 6 master collection
+"8,123",CCXP_4_3_0_32,Adobe Inc.,,EXCLUDE,ccxp_4_3_0_32
+"36,774",Mahjong Pair Master,Stgames,store,EXCLUDE,mahjong pair master
+"24,730",Wave 1.29.13,Grandstream,application,EXCLUDE,wave 1.29.13
+"33,088",AutoCAD 2013 - English,AUTODESK,application,INCLUDE,autocad 2013 - english
+"21,656",Beautiful Norway,Microsoft Corporation,store,EXCLUDE,beautiful norway
+"29,921",Infinity Office Suite,HUXSoft,store,EXCLUDE,infinity office suite
+"26,653",DELTA Control v2.0.9.51.0 v2.0.9.51.0,,application,EXCLUDE,delta control v2.0.9.51.0 v2.0.9.51.0
+"26,223",Siemens Totally Integrated Automation Portal V16 - Hardware Support Base Package 0 V16.0,Siemens AG,system_component,EXCLUDE,siemens totally integrated automation portal v16 - hardware support base package 0 v16.0
+"28,340",RETScreen Suite,RETScreen International,application,EXCLUDE,retscreen suite
+"17,624",Learn Gestures,Microsoft Corporation,system,EXCLUDE,learn gestures

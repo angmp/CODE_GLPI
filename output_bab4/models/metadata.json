@@ -1,0 +1,10 @@
+{
+  "input_feature": "software_name",
+  "classes": [
+    "EXCLUDE_CANDIDATE",
+    "INCLUDE"
+  ],
+  "model": "Linear SVM",
+  "training_rows": 2000,
+  "note": "For IT review only; no automatic GLPI database changes"
+}

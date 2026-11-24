@@ -1,0 +1,4 @@
+﻿Model,Best_Parameter,Best_F1_Macro_CV
+Logistic Regression,{'model__C': 10.0},0.9257306401605998
+Linear SVM,{'model__C': 10.0},0.9385526220810607
+Multinomial Naive Bayes,"{'model__alpha': 0.1, 'model__fit_prior': True}",0.902502657928817

@@ -1,0 +1,2 @@
+model,test_count,accuracy,macro_precision,macro_recall,macro_f1,exclude_precision,exclude_recall,exclude_f1
+Keyword Baseline (NOT GLPI Rules),400,0.885,0.9065040650406504,0.885,0.8834587418611133,1.0,0.77,0.8700564971751412

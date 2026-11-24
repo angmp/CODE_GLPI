@@ -1,0 +1,15 @@
+{
+  "source_dataset": "Software_GLPI_2000.xlsx",
+  "source_label_note": "Pastikan isi file adalah label final hasil review Pak Widi",
+  "raw_rows": 12318,
+  "labeled_raw_rows": 2000,
+  "labeled_used_rows": 2000,
+  "train_rows": 1600,
+  "test_rows": 400,
+  "group_overlap": false,
+  "best_model_by_cv": "Linear SVM",
+  "selected_model_test_accuracy": 0.97,
+  "selected_model_test_macro_f1": 0.96999699969997,
+  "selected_model_false_excludes": 8,
+  "selected_model_missed_excludes": 4
+}

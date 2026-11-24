@@ -1,0 +1,35 @@
+﻿software_id,software_name,manufacturer,software_category,label_final,model,predicted_label,error_type
+"21,422",Siemens Totally Integrated Automation Portal V15,Siemens AG,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"29,056",DaVinci Resolve Control Panels,Blackmagic Design,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"17,408",SAP GUI for Windows 7.30,SAP,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"6,272",Autodesk AutoCAD 2017 Hotfix 2,AUTODESK,,EXCLUDE_CANDIDATE,Logistic Regression,INCLUDE,MISCLASSIFIED
+"6,273",Autodesk AutoCAD 2017 Hotfix 3,AUTODESK,,EXCLUDE_CANDIDATE,Logistic Regression,INCLUDE,MISCLASSIFIED
+"21,256",Handset WinDriver 1.02.03.00,"Huawei technologies Co., Ltd.",application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"24,108",PuTTY release 0.83 (64-bit),Simon Tatham,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"26,118",SAP GUI for Windows 7.40,SAP,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"23,698",IObit Uninstaller 14.2.0.2,IObit,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"26,549",PuTTY release 0.76 (64-bit),Simon Tatham,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"37,549",HP Notifications,HP,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"26,973",SAP GUI for Windows 7.60,SAP SE,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"17,172",Global Mapper 21.1 (64-bit),Blue Marble Geographics,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"6,634",Autodesk Civil 3D 2019,AUTODESK,,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"34,431",Adobe Acrobat Reader DC MUI,Adobe Systems Incorporated,application,EXCLUDE_CANDIDATE,Logistic Regression,INCLUDE,MISCLASSIFIED
+"21,996",MrvlUsgTracking,Marvell,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"18,895",Adobe Acrobat Reader MUI,Adobe Systems Incorporated,application,EXCLUDE_CANDIDATE,Logistic Regression,INCLUDE,MISCLASSIFIED
+"6,891",PuTTY release 0.72 (64-bit),Simon Tatham,,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"25,936",SAP GUI for Windows 7.50,SAP SE,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"29,226",SAP GUI for Windows 7.70,SAP SE,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"29,097",SAP GUI for Windows 7.20,SAP,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"22,862",InstallWIX_{4FC79BE9-AD63-46C0-9626-E4F6BCE6A976},,application,INCLUDE,Logistic Regression,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"21,422",Siemens Totally Integrated Automation Portal V15,Siemens AG,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"29,056",DaVinci Resolve Control Panels,Blackmagic Design,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"6,272",Autodesk AutoCAD 2017 Hotfix 2,AUTODESK,,EXCLUDE_CANDIDATE,Linear SVM,INCLUDE,MISCLASSIFIED
+"6,273",Autodesk AutoCAD 2017 Hotfix 3,AUTODESK,,EXCLUDE_CANDIDATE,Linear SVM,INCLUDE,MISCLASSIFIED
+"21,256",Handset WinDriver 1.02.03.00,"Huawei technologies Co., Ltd.",application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"23,698",IObit Uninstaller 14.2.0.2,IObit,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"17,296",Chinese Simplified Fonts Support For Adobe Reader X,Adobe Systems Incorporated,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"37,549",HP Notifications,HP,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"34,431",Adobe Acrobat Reader DC MUI,Adobe Systems Incorporated,application,EXCLUDE_CANDIDATE,Linear SVM,INCLUDE,MISCLASSIFIED
+"21,996",MrvlUsgTracking,Marvell,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
+"18,895",Adobe Acrobat Reader MUI,Adobe Systems Incorporated,application,EXCLUDE_CANDIDATE,Linear SVM,INCLUDE,MISCLASSIFIED
+"22,862",InstallWIX_{4FC79BE9-AD63-46C0-9626-E4F6BCE6A976},,application,INCLUDE,Linear SVM,EXCLUDE_CANDIDATE,MISCLASSIFIED
