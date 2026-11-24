@@ -10,6 +10,8 @@ Only load .joblib artifacts you created and trust.
 from __future__ import annotations
 
 from io import BytesIO
+from datetime import datetime, timezone
+from uuid import NAMESPACE_URL, uuid5
 from pathlib import Path
 from xml.etree import ElementTree as ET
 import html
@@ -328,17 +330,71 @@ def excel_bytes(frame: pd.DataFrame) -> bytes:
     return stream.getvalue()
 
 
-def review_xml(frame: pd.DataFrame) -> bytes:
-    """Audit-list only, intentionally NOT the GLPI rules import format."""
-    root = ET.Element("review-list", {"glpi-import-compatible": "false"})
-    ET.SubElement(root, "notice").text = "Daftar audit, bukan XML impor aturan GLPI."
-    for _, row in frame.iterrows():
-        element = ET.SubElement(root, "software")
-        for tag, key in [("name", "name"), ("status", "Status_Prediksi"),
-                         ("decision", "Keputusan_IT"), ("note", "Catatan_IT")]:
-            ET.SubElement(element, tag).text = str(row.get(key, ""))
+def glpi_dictionary_xml(frame: pd.DataFrame, active: bool = False, include_recommendations: bool = False) -> tuple[bytes, pd.DataFrame, pd.DataFrame]:
+    """Build exact-name exclusion rules; final IT decisions override predictions."""
+    columns = ["name", "Keputusan_IT"]
+    if include_recommendations:
+        columns.append("Status_Prediksi")
+    if not set(columns).issubset(frame.columns):
+        raise ValueError("Kolom yang diperlukan belum lengkap: " + ", ".join(columns))
+    data = frame[columns].fillna("").astype(str).copy()
+    data["_effective"] = data["Keputusan_IT"].map({
+        "Setujui EXCLUDE": "EXCLUDE",
+        "Setujui INCLUDE": "INCLUDE",
+    }).fillna("REVIEW")
+    if include_recommendations:
+        pending = data["Keputusan_IT"].eq("Belum ditinjau")
+        data.loc[pending, "_effective"] = data.loc[pending, "Status_Prediksi"].where(
+            data.loc[pending, "Status_Prediksi"].isin(["INCLUDE", "EXCLUDE"]), "REVIEW"
+        )
+    data["_key"] = data["name"].str.casefold()
+    root = ET.Element("rules")
+    ready, blocked = [], []
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+    invalid_xml = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\ud800-\udfff\ufffe\uffff]")
+    for key, group in data.groupby("_key", sort=True):
+        if not group["_effective"].eq("EXCLUDE").any():
+            continue
+        name = group["name"].iloc[0]
+        reason = ""
+        if not name.strip():
+            reason = "Nama software kosong."
+        elif invalid_xml.search(name):
+            reason = "Nama mengandung karakter yang tidak valid untuk XML."
+        elif not group["_effective"].eq("EXCLUDE").all():
+            reason = "Nama yang sama masih memiliki hasil INCLUDE atau REVIEW; tinjau semua barisnya."
+        if reason:
+            blocked.append({"Nama software": name, "Alasan": reason})
+            continue
+        basis = "Keputusan final IT" if group["Keputusan_IT"].eq("Setujui EXCLUDE").all() else "Rekomendasi EXCLUDE; belum seluruhnya ditinjau IT"
+        rule = ET.SubElement(root, "rule")
+        fields = {
+            "entities_id": "Root entity",
+            "sub_type": "RuleDictionnarySoftware",
+            "ranking": str(len(ready) + 1),
+            "name": "KPN - EXCLUDE - " + name[:180],
+            "description": "Nama software persis sama. Dasar: " + basis + ".",
+            "match": "AND",
+            "is_active": "1" if active else "0",
+            "comment": "Dashboard KPN. Dasar aturan: " + basis + ".",
+            "is_recursive": "0",
+            "uuid": str(uuid5(NAMESPACE_URL, "urn:kpn:glpi:software:exclude:v1:" + key)),
+            "condition": "0",
+            "date_creation": now,
+        }
+        for tag, value in fields.items():
+            ET.SubElement(rule, tag).text = value
+        criterion = ET.SubElement(rule, "rulecriteria")
+        for tag, value in {"criteria": "name", "condition": "0", "pattern": name}.items():
+            ET.SubElement(criterion, tag).text = value
+        action = ET.SubElement(rule, "ruleaction")
+        for tag, value in {"action_type": "assign", "field": "_ignore_import", "value": "1"}.items():
+            ET.SubElement(action, tag).text = value
+        ready.append({"Nama software": name, "Dasar": basis, "Pencocokan": "Nama persis sama", "Aksi GLPI": "Abaikan impor", "Aktif": "Ya" if active else "Tidak"})
     ET.indent(root, space="  ")
-    return ET.tostring(root, encoding="utf-8", xml_declaration=True)
+    payload = ET.tostring(root, encoding="utf-8", xml_declaration=True) if ready else b""
+    return payload, pd.DataFrame(ready, columns=["Nama software", "Dasar", "Pencocokan", "Aksi GLPI", "Aktif"]), pd.DataFrame(blocked, columns=["Nama software", "Alasan"])
+
 
 
 def metric_data() -> pd.DataFrame | None:
@@ -574,7 +630,7 @@ elif navigation == "Evaluasi Model":
                 st.dataframe(before_after, hide_index=True, use_container_width=True)
 
 elif navigation == "Ekspor Data":
-    page_head("DATA OUTPUT / EXPORT", "Ekspor hasil klasifikasi", "Unduh laporan rekomendasi dan hasil peninjauan dalam format CSV atau Excel. Tidak ada perubahan yang dikirimkan ke sistem GLPI.")
+    page_head("DATA OUTPUT / EXPORT", "Ekspor hasil klasifikasi", "Unduh laporan CSV/Excel atau siapkan XML aturan dari keputusan final tim IT. Impor aturan dilakukan melalui GLPI.")
     if result is None:
         st.info("Belum ada hasil untuk diekspor.")
     else:
@@ -595,17 +651,27 @@ elif navigation == "Ekspor Data":
             with col:
                 st.download_button(f"{status} - {fmt(len(subset))} entri", csv_bytes(subset),
                                    f"Daftar_{status}.csv", mime="text/csv", use_container_width=True)
-        with st.expander("Daftar audit keputusan IT (XML non-GLPI)"):
-            approved = result.loc[
-                (result["Status_Prediksi"] == "EXCLUDE") &
-                (result["Keputusan_IT"] == "Setujui EXCLUDE")
-            ]
-            st.caption("XML ini hanya untuk dokumentasi peninjauan. Bukan format impor aturan Software Dictionary GLPI.")
-            st.download_button("Unduh XML daftar audit", review_xml(approved), "Daftar_Audit_Review.xml",
-                               mime="application/xml", disabled=approved.empty)
+        with st.expander("Ekspor aturan Software Dictionary GLPI (XML)", expanded=True):
+            st.write("Buat satu aturan **Abaikan impor** untuk setiap nama software EXCLUDE yang siap diekspor.")
+            include_recommendations = st.checkbox("Sertakan semua rekomendasi EXCLUDE", value=True, key="xml_include_recommendations")
+            st.caption("Jika dicentang, rekomendasi EXCLUDE yang belum ditinjau ikut diekspor. Jika tidak, hanya keputusan Setujui EXCLUDE. Keputusan Setujui INCLUDE dan Perlu diskusi tetap didahulukan; REVIEW yang belum diputuskan tidak diekspor.")
+            active_rules = st.checkbox("Aturan langsung aktif setelah diimpor", value=False, key="xml_rules_active")
+            xml_data, ready_rules, blocked_rules = glpi_dictionary_xml(result, active=active_rules, include_recommendations=include_recommendations)
+            st.write(f"**{fmt(len(ready_rules))} aturan unik siap diekspor.**")
+            if not ready_rules.empty:
+                st.dataframe(ready_rules.head(30), hide_index=True, use_container_width=True)
+                st.caption(f"Pratinjau {min(30, len(ready_rules))} dari {fmt(len(ready_rules))} aturan. Semua aturan yang siap akan masuk ke XML.")
+            else:
+                st.info("Belum ada nama EXCLUDE yang siap diekspor dengan pilihan sumber saat ini.")
+            if not blocked_rules.empty:
+                st.warning(f"{fmt(len(blocked_rules))} nama belum diekspor. Periksa alasan berikut.")
+                st.dataframe(blocked_rules.head(30), hide_index=True, use_container_width=True)
+            st.download_button("Unduh XML aturan GLPI", xml_data, "KPN_Software_Dictionary_EXCLUDE.xml", mime="application/xml", disabled=ready_rules.empty, use_container_width=True)
+            st.caption("Impor file melalui Administration > Dictionaries > Software. Jika pilihan aktif tidak dicentang, aturan perlu diaktifkan di GLPI setelah diperiksa. Aturan ini mengatur impor software; tidak menghapus entri lama secara langsung. Urutan aturan yang sudah ada tetap perlu diperiksa di GLPI.")
 
 st.markdown(
     '<div class="kpn-footer">KPN Corp / IT Asset Management &nbsp;&middot;&nbsp; '
-    'Prototipe penelitian: rekomendasi klasifikasi, bukan perubahan aturan GLPI.</div>',
+    'Prototipe penelitian: rekomendasi klasifikasi dan penyiapan aturan; keputusan akhir oleh tim IT.</div>',
     unsafe_allow_html=True,
 )
+
