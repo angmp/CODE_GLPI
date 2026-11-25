@@ -11,7 +11,7 @@ from __future__ import annotations
 
 from io import BytesIO
 from datetime import datetime, timezone
-from uuid import NAMESPACE_URL, uuid5
+from uuid import NAMESPACE_URL, uuid4, uuid5
 from pathlib import Path
 from xml.etree import ElementTree as ET
 import html
@@ -254,6 +254,7 @@ def predict(frame: pd.DataFrame) -> pd.DataFrame:
     result["Keputusan_IT"] = "Belum ditinjau"
     result["Catatan_IT"] = ""
     result["_rowid"] = np.arange(len(result))
+    result.attrs["review_dataset_id"] = uuid4().hex
     return result
 
 
@@ -300,6 +301,101 @@ def data_table(frame: pd.DataFrame, rows: int | None = None) -> None:
         hide_index=True, use_container_width=True, height=360,
         column_config={"name": st.column_config.TextColumn("Nama software", width="large"),
                        "Status_Prediksi": st.column_config.TextColumn("Rekomendasi")},
+    )
+
+
+def review_dataset_id(frame: pd.DataFrame) -> str:
+    """Identify one prediction run, including copies shared between menus."""
+    if "review_dataset_id" not in frame.attrs:
+        frame.attrs["review_dataset_id"] = uuid4().hex
+    return frame.attrs["review_dataset_id"]
+
+
+def apply_review_changes(frame: pd.DataFrame, edited: pd.DataFrame) -> pd.DataFrame:
+    """Apply only decisions and notes, matching stable row IDs rather than positions."""
+    required = {"_rowid", "Keputusan_IT", "Catatan_IT"}
+    if not required.issubset(edited.columns):
+        raise ValueError("Kolom peninjauan belum lengkap.")
+    if not frame["_rowid"].is_unique or not edited["_rowid"].is_unique:
+        raise ValueError("ID baris peninjauan harus unik.")
+    if not edited["_rowid"].isin(frame["_rowid"]).all():
+        raise ValueError("Data peninjauan tidak sesuai dengan hasil klasifikasi aktif.")
+    if not edited["Keputusan_IT"].isin(REVIEW_OPTIONS).all():
+        raise ValueError("Pilih keputusan IT dari pilihan yang tersedia.")
+    updated = frame.copy()
+    changes = edited.set_index("_rowid")
+    matched = updated["_rowid"].isin(changes.index)
+    for column in ("Keputusan_IT", "Catatan_IT"):
+        values = changes[column].fillna("").astype(str)
+        updated.loc[matched, column] = updated.loc[matched, "_rowid"].map(values)
+    return updated
+
+
+def save_review_changes(state_key: str, edited: pd.DataFrame) -> pd.DataFrame:
+    """Keep both views of the same dataset in sync after saving a review."""
+    frame = st.session_state[state_key]
+    dataset_id = review_dataset_id(frame)
+    updated = apply_review_changes(frame, edited)
+    st.session_state[state_key] = updated
+    for other_key in ("hasil", "hasil_input"):
+        other = st.session_state.get(other_key)
+        if other_key != state_key and isinstance(other, pd.DataFrame):
+            if other.attrs.get("review_dataset_id") == dataset_id:
+                st.session_state[other_key] = updated.copy()
+    revision_key = "review_revision_" + dataset_id
+    st.session_state[revision_key] = st.session_state.get(revision_key, 0) + 1
+    return updated
+
+
+def review_editor(state_key: str, editor_name: str, view: pd.DataFrame | None = None) -> None:
+    """Edit decisions directly while preserving all original model predictions."""
+    frame = st.session_state[state_key]
+    dataset_id = review_dataset_id(frame)
+    visible = frame if view is None else view
+    if visible.empty:
+        st.info("Tidak ada data yang cocok dengan pilihan ini.")
+        return
+    notice_key = "review_saved_" + editor_name
+    if st.session_state.pop(notice_key, None) == dataset_id:
+        st.success("Keputusan IT tersimpan pada sesi ini. Unduh hasil untuk menyimpan salinannya.")
+    st.caption(
+        "Klik kolom Keputusan IT untuk memilih keputusan, lalu isi Catatan IT jika diperlukan. "
+        "Tekan Enter atau klik di luar sel sebelum menekan Simpan keputusan. "
+        "Prediksi ketiga model tetap tercatat."
+    )
+    columns = [column for column in [
+        "_rowid", "name", "Status_Prediksi", "Keputusan_IT", "Catatan_IT",
+        *PRED_COLS, "manufacturer_name", "Alasan_Status",
+    ] if column in visible.columns]
+    revision = st.session_state.get("review_revision_" + dataset_id, 0)
+    row_signature = str(uuid5(NAMESPACE_URL, ",".join(visible["_rowid"].astype(str))))
+    edited = st.data_editor(
+        visible[columns].copy(), hide_index=True, width="stretch", height=400,
+        num_rows="fixed",
+        disabled=[column for column in columns if column not in ("Keputusan_IT", "Catatan_IT")],
+        column_config={
+            "_rowid": None,
+            "name": st.column_config.TextColumn("Nama software", width="large", pinned=True),
+            "Status_Prediksi": st.column_config.TextColumn("Rekomendasi model"),
+            "Keputusan_IT": st.column_config.SelectboxColumn(
+                "Keputusan IT", options=REVIEW_OPTIONS, required=True, width="medium",
+                help="Keputusan akhir tim IT boleh berbeda dari rekomendasi model.",
+            ),
+            "Catatan_IT": st.column_config.TextColumn("Catatan IT", max_chars=300, width="large"),
+        },
+        key=f"{editor_name}_{dataset_id}_{revision}_{row_signature}",
+    )
+    if st.button("Simpan keputusan", type="primary", key="save_" + editor_name):
+        try:
+            save_review_changes(state_key, edited)
+        except ValueError as exc:
+            st.error(str(exc))
+        else:
+            st.session_state[notice_key] = dataset_id
+            st.rerun()
+    st.caption(
+        "Keputusan disimpan selama sesi aplikasi. Klik Simpan keputusan sebelum mengunduh. "
+        "Unduh CSV agar hasil peninjauan tetap tersedia setelah sesi berakhir."
     )
 
 
@@ -539,8 +635,8 @@ elif navigation == "Klasifikasi":
     current = st.session_state.get("hasil_input")
     if current is not None:
         section("Hasil klasifikasi", "Perbandingan keluaran setiap algoritma. REVIEW berarti prediksi berbeda atau nama kosong.")
-        data_table(current, rows=200)
-        st.download_button("Unduh hasil prediksi (.csv)", csv_bytes(current),
+        review_editor("hasil_input", "classification_review")
+        st.download_button("Unduh hasil dan keputusan IT (.csv)", csv_bytes(st.session_state["hasil_input"]),
                            "Hasil_Klasifikasi_GLPI.csv", mime="text/csv")
 
 elif navigation == "Inventaris":
@@ -571,34 +667,9 @@ elif navigation == "Inventaris":
             if only_pending:
                 view = view.loc[view["Keputusan_IT"].eq("Belum ditinjau")]
             st.caption(f"{fmt(len(view))} entri tersedia untuk ditinjau")
-            visible = view.head(100).copy()
-            columns = ["_rowid", "name", *PRED_COLS, "Status_Prediksi", "Keputusan_IT", "Catatan_IT"]
-            if visible.empty:
-                st.info("Tidak ada data yang cocok dengan pilihan ini.")
-            else:
-                edited = st.data_editor(
-                    visible[columns], hide_index=True, use_container_width=True,
-                    num_rows="fixed", height=355,
-                    disabled=[c for c in columns if c not in ("Keputusan_IT", "Catatan_IT")],
-                    column_config={
-                        "_rowid": st.column_config.NumberColumn("ID baris", format="%d"),
-                        "name": st.column_config.TextColumn("Nama software", width="large"),
-                        "Keputusan_IT": st.column_config.SelectboxColumn("Keputusan IT", options=REVIEW_OPTIONS, required=True),
-                        "Catatan_IT": st.column_config.TextColumn("Catatan", max_chars=300),
-                    },
-                    key="review_editor",
-                )
-                if st.button("Simpan keputusan", type="primary"):
-                    main = st.session_state["hasil"].copy()
-                    for _, edited_row in edited.iterrows():
-                        index = int(edited_row["_rowid"])
-                        matched = main["_rowid"] == index
-                        main.loc[matched, "Keputusan_IT"] = edited_row["Keputusan_IT"]
-                        main.loc[matched, "Catatan_IT"] = edited_row["Catatan_IT"]
-                    st.session_state["hasil"] = main
-                    st.success("Keputusan tersimpan pada sesi dashboard.")
-                st.download_button("Unduh hasil dan keputusan IT", csv_bytes(st.session_state["hasil"]),
-                                   "Hasil_Review_Tim_IT.csv", mime="text/csv")
+            review_editor("hasil", "inventory_review", view=view)
+            st.download_button("Unduh hasil dan keputusan IT", csv_bytes(st.session_state["hasil"]),
+                               "Hasil_Review_Tim_IT.csv", mime="text/csv")
 
 elif navigation == "Evaluasi Model":
     page_head("MODEL PERFORMANCE / HOLDOUT TEST", "Evaluasi model", "Metrik berasal dari pengujian notebook setelah optimasi GridSearchCV, bukan dari jumlah kesepakatan prediksi pada dashboard.")
@@ -652,12 +723,12 @@ elif navigation == "Ekspor Data":
                 st.download_button(f"{status} - {fmt(len(subset))} entri", csv_bytes(subset),
                                    f"Daftar_{status}.csv", mime="text/csv", use_container_width=True)
         with st.expander("Ekspor aturan Software Dictionary GLPI (XML)", expanded=True):
-            st.write("Buat satu aturan **Abaikan impor** untuk setiap nama software EXCLUDE yang siap diekspor.")
+            st.write("Buat satu aturan Abaikan impor untuk setiap nama software EXCLUDE yang siap diekspor.")
             include_recommendations = st.checkbox("Sertakan semua rekomendasi EXCLUDE", value=True, key="xml_include_recommendations")
             st.caption("Jika dicentang, rekomendasi EXCLUDE yang belum ditinjau ikut diekspor. Jika tidak, hanya keputusan Setujui EXCLUDE. Keputusan Setujui INCLUDE dan Perlu diskusi tetap didahulukan; REVIEW yang belum diputuskan tidak diekspor.")
             active_rules = st.checkbox("Aturan langsung aktif setelah diimpor", value=False, key="xml_rules_active")
             xml_data, ready_rules, blocked_rules = glpi_dictionary_xml(result, active=active_rules, include_recommendations=include_recommendations)
-            st.write(f"**{fmt(len(ready_rules))} aturan unik siap diekspor.**")
+            st.write(f"{fmt(len(ready_rules))} aturan unik siap diekspor.")
             if not ready_rules.empty:
                 st.dataframe(ready_rules.head(30), hide_index=True, use_container_width=True)
                 st.caption(f"Pratinjau {min(30, len(ready_rules))} dari {fmt(len(ready_rules))} aturan. Semua aturan yang siap akan masuk ke XML.")
@@ -670,7 +741,7 @@ elif navigation == "Ekspor Data":
             st.caption("Impor file melalui Administration > Dictionaries > Software. Jika pilihan aktif tidak dicentang, aturan perlu diaktifkan di GLPI setelah diperiksa. Aturan ini mengatur impor software; tidak menghapus entri lama secara langsung. Urutan aturan yang sudah ada tetap perlu diperiksa di GLPI.")
 
 st.markdown(
-    '<div class="kpn-footer">KPN Corp / IT Asset Management &nbsp;&middot;&nbsp; '
+    '<div class="kpn-footer">KPN Corp / IT Asset Management  ·  '
     'Prototipe penelitian: rekomendasi klasifikasi dan penyiapan aturan; keputusan akhir oleh tim IT.</div>',
     unsafe_allow_html=True,
 )
